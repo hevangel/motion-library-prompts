@@ -1,0 +1,6888 @@
+# Motion Library 動態收藏 — All 327 Prompts
+
+Source: https://kittenjam-motion-library.vercel.app/ · Extracted with `tools/extract.py`. Prompts are shown exactly as the site's 「複製 AI 提示詞」 button copies them (raw prompt + the site's palette line). Animated examples: see `examples/` and the runnable copy in `site/`.
+
+## 文字 (text) — 105
+
+### 001 · 閃電砸落 — Lightning Strike
+
+伴隨閃電閃光重重砸下
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、強調重點
+- 風格／關鍵字 Style: 衝擊登場
+- 標籤 Tag: 衝擊・開場
+- 範例文字 Example text: 「雷鳴」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/001-lightning-strike.md](examples/text/001-lightning-strike.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「閃電砸落（Lightning Strike）」動態效果：畫面先閃兩下強光並出現一道閃電線，文字從 2 倍大瞬間砸下縮回原尺寸，落地時輕微震動，之後保持柔和的外發光。整段約 2.4 秒，節奏急促有爆發力。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 002 · 雷射切斷 — Laser Cut
+
+雷射把文字一刀兩斷
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 退場
+- 技術 Tech: CSS
+- 情境 Uses: 轉場切換、標題・Hero
+- 風格／關鍵字 Style: 消散退場
+- 標籤 Tag: SF・切斷
+- 範例文字 Example text: 「切断」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/002-laser-cut.md](examples/text/002-laser-cut.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「雷射切斷（Laser Cut）」動態效果：一道帶光暈的雷射線由左往右快速橫切文字中線，切過後文字上半部往左上、下半部往右下錯開並微微傾斜，停留片刻再合回。約 2.6 秒一輪，俐落科幻感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 003 · 硬幣翻轉 — Coin Flip
+
+文字像硬幣一樣翻轉彈跳
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 逐字律動
+- 標籤 Tag: 碰運氣・遊戲
+- 範例文字 Example text: 「表か裏か」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/003-coin-flip.md](examples/text/003-coin-flip.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「硬幣翻轉（Coin Flip）」動態效果：每個字像硬幣一樣以 Y 軸翻轉兩圈並往上跳，落地後再小彈一下，字與字之間依序延遲約 0.14 秒。約 2.4 秒一輪，輕快俏皮。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 004 · 爆炸四散 — Explode Out
+
+文字向四面八方炸飛
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 退場
+- 技術 Tech: CSS
+- 情境 Uses: 轉場切換、強調重點
+- 風格／關鍵字 Style: 消散退場
+- 標籤 Tag: 衝擊・副歌
+- 範例文字 Example text: 「爆発四散」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/004-explode-out.md](examples/text/004-explode-out.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「爆炸四散（Explode Out）」動態效果：文字先微微放大蓄力，接著每個字往不同方向隨機炸飛、旋轉並縮小淡出，停頓後再飛回原位組成文字，字與字可用主色與強調色交錯。約 2.8 秒一輪，衝擊感強。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 005 · 粒子消散 — Disintegrate
+
+文字化為粒子消散
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 退場
+- 技術 Tech: CSS
+- 情境 Uses: 轉場切換
+- 風格／關鍵字 Style: 消散退場
+- 標籤 Tag: 消滅・戲劇
+- 範例文字 Example text: 「消滅」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/005-disintegrate.md](examples/text/005-disintegrate.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「粒子消散（Disintegrate）」動態效果：文字由左到右逐字變模糊、往右上飄散並淡出，同時周圍冒出許多小方塊粒子往外飄走，消失後再重新浮現。約 3 秒一輪，戲劇化。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 006 · 心跳放大 — Heartbeat Zoom
+
+隨心跳放大並擴散波紋
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 衝擊登場
+- 標籤 Tag: 感動・戲劇
+- 範例文字 Example text: 「鼓動」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/006-heartbeat-zoom.md](examples/text/006-heartbeat-zoom.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「心跳放大（Heartbeat Zoom）」動態效果：文字像心跳一樣「咚咚」連續放大兩次再回原尺寸，每次跳動同時從中心擴散出兩圈圓形波紋並淡出。約 1.3 秒一拍。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 007 · 文字萬花筒 — Text Kaleido
+
+文字萬花筒旋轉
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾、Logo・品牌
+- 風格／關鍵字 Style: 3D 空間旋轉
+- 標籤 Tag: 迷幻・MV
+- 範例文字 Example text: 「万華鏡」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/007-text-kaleido.md](examples/text/007-text-kaleido.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「文字萬花筒（Text Kaleido）」動態效果：同一個詞複製 12 份，以中心點放射狀排列成花朵形，整體持續慢速旋轉，每份文字同時往外伸縮呼吸，形成萬花筒效果，相鄰的複本用深淺兩種色調交錯。旋轉一圈約 7 秒。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 008 · 倒數砸落 — Number Slam
+
+倒數數字重重砸下
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: 數字資訊、標題・Hero
+- 風格／關鍵字 Style: 衝擊登場
+- 標籤 Tag: 開場・倒數
+- 範例文字 Example text: 「3,2,1,GO!」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/008-number-slam.md](examples/text/008-number-slam.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「倒數砸落（Number Slam）」動態效果：倒數「3、2、1、GO!」依序出現，每個數字從 3 倍大猛力砸下、回彈到原尺寸，每個數字約 0.75 秒，GO! 用強調色凸顯。粗黑體，開場感強烈。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 009 · 波浪文字 — Wave Letters
+
+文字像波浪上下起伏
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 逐字律動
+- 標籤 Tag: 歡樂・夏日
+- 範例文字 Example text: 「うねる波」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/009-wave-letters.md](examples/text/009-wave-letters.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「波浪文字（Wave Letters）」動態效果：每個字依序上下起伏並輕微左右擺動，形成連續流動的波浪，字與字可用兩種色調交錯。約 1.4 秒一個波，輕鬆歡樂的夏日感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 010 · 定格晃動 — Stop Motion
+
+定格動畫般喀喀晃動
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 逐字律動
+- 標籤 Tag: 手作・玩具
+- 範例文字 Example text: 「コマ撮り」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/010-stop-motion.md](examples/text/010-stop-motion.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「定格晃動（Stop Motion）」動態效果：每個字以不連續、一格一格跳動的方式隨機微晃與微旋轉（像定格動畫，無平滑過渡），各字節奏錯開。約 0.9 秒循環，手作玩具感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 012 · 放大鏡 — Magnifier Lens
+
+用放大鏡放大文字
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 質感填色
+- 標籤 Tag: 解說・發現
+- 範例文字 Example text: 「虫眼鏡で拡大」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/012-magnifier-lens.md](examples/text/012-magnifier-lens.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「放大鏡（Magnifier Lens）」動態效果：一個圓形放大鏡在文字上左右來回移動，鏡片範圍內的文字放大約 1.5 倍並改用強調色，鏡片外的文字較淡，放大鏡附手把。來回約 6 秒，解說／發現感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 013 · 亂碼解讀 — Scramble Decode
+
+從亂碼解讀成正確文字
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、數字資訊
+- 風格／關鍵字 Style: 文字切換
+- 標籤 Tag: 駭客・SF
+- 範例文字 Example text: 「解読完了」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/013-scramble-decode.md](examples/text/013-scramble-decode.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「亂碼解讀（Scramble Decode）」動態效果：文字一開始是不斷跳動的亂碼（片假名、符號、數字），再由左到右逐字解碼成正確文字並改用強調色，停留後重新開始。像素點陣字體，駭客科幻感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 014 · 骨牌倒下 — Domino Letters
+
+文字像骨牌一樣倒下
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 退場
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 消散退場
+- 標籤 Tag: 幽默・連鎖
+- 範例文字 Example text: 「ドミノ倒し」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/014-domino-letters.md](examples/text/014-domino-letters.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「骨牌倒下（Domino Letters）」動態效果：每個字以右下角為支點，依序往右倒下約 72 度，像骨牌一樣連鎖傾倒，停留後一起站回。字下方有一條地板線，約 3.2 秒一輪。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 015 · 漸層流動 — Gradient Flow
+
+漸層在文字中流動
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、Logo・品牌
+- 風格／關鍵字 Style: 質感填色
+- 標籤 Tag: 標題・潮流
+- 範例文字 Example text: 「流れる色」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/015-gradient-flow.md](examples/text/015-gradient-flow.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「漸層流動（Gradient Flow）」動態效果：文字內填充多色漸層，漸層持續由左往右在字裡流動。粗體大字，約 3 秒流動一輪，時尚標題感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 016 · 圓環文字 — Circle Text
+
+文字圓環反向旋轉
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: Logo・品牌、背景裝飾
+- 風格／關鍵字 Style: 3D 空間旋轉
+- 標籤 Tag: Logo・催眠
+- 範例文字 Example text: 「CIRCLE TEXT ✦ 」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/016-circle-text.md](examples/text/016-circle-text.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「圓環文字（Circle Text）」動態效果：兩圈環狀排列的文字，外圈順時針慢轉、內圈逆時針較快轉，內外圈用不同色調區分。外圈約 9 秒、內圈約 6 秒一圈，催眠 Logo 感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 017 · 水面倒影 — Water Reflection
+
+在水面搖曳的倒影
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 質感填色
+- 標籤 Tag: 夜景・沉靜
+- 範例文字 Example text: 「水面」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/017-water-reflection.md](examples/text/017-water-reflection.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「水面倒影（Water Reflection）」動態效果：文字下方有一條細水平線，線下是上下顛倒的倒影，倒影半透明、往下漸淡，持續左右傾斜搖晃像水波，上方文字也輕微浮動。夜景沉靜感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 018 · 逐字彈跳 — Letter Bounce
+
+文字逐字彈跳
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 逐字律動 Canva 風格 Canva Bounce 彈跳
+- 標籤 Tag: 可愛・MV
+- 範例文字 Example text: 「はずむ文字」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/018-letter-bounce.md](examples/text/018-letter-bounce.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「逐字彈跳（Letter Bounce）」動態效果：每個字依序壓扁、彈起、落地再壓扁回彈，像小球一樣有擠壓伸展的彈性，一次只跳一個字。約 2.2 秒一輪，可愛 MV 感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 019 · 文字旗幟 — Text Flag
+
+文字像旗子般飄揚
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 逐字律動
+- 標籤 Tag: 氣勢・應援
+- 範例文字 Example text: 「はためく旗」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/019-text-flag.md](examples/text/019-text-flag.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「文字旗幟（Text Flag）」動態效果：文字左側有一根旗桿，每個字依序做 3D 翻轉與傾斜，形成旗子迎風飄揚的波浪。約 1.3 秒一個波，有氣勢的應援感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 020 · 重力反轉 — Gravity Flip
+
+重力反轉往上彈
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 轉場切換
+- 風格／關鍵字 Style: 逐字律動
+- 標籤 Tag: 驚奇・SF
+- 範例文字 Example text: 「重力反転」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/020-gravity-flip.md](examples/text/020-gravity-flip.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「重力反轉（Gravity Flip）」動態效果：每個字先加速往上「掉」到上方並翻轉成上下顛倒，停留後再掉回原位並翻正，落地時小彈一下，字與字依序錯開。約 3 秒一輪。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 021 · 磁鐵吸附 — Magnet Pull
+
+文字像被磁鐵吸過來
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: Logo・品牌、標題・Hero
+- 風格／關鍵字 Style: 衝擊登場
+- 標籤 Tag: 集中・Logo
+- 範例文字 Example text: 「引き寄せる」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/021-magnet-pull.md](examples/text/021-magnet-pull.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「磁鐵吸附（Magnet Pull）」動態效果：文字一開始散得很開、模糊且半透明，接著像被磁鐵吸住一樣加速往中心靠攏、略微過衝後吸附定位，停留後再散開；最後兩個字用強調色當重點。約 2.8 秒一輪。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 023 · 字重變粗 — Weight Grow
+
+細字逐漸變粗
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 質感填色
+- 標籤 Tag: 強調・變化
+- 範例文字 Example text: 「太くなる」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/023-weight-grow.md](examples/text/023-weight-grow.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「字重變粗（Weight Grow）」動態效果：文字從極細的字重慢慢變成最粗的字重，停留後再變回細字（需使用可變字重字體）。約 3 秒一輪，強調變化感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 024 · 文字扇 — Text Fan
+
+同一字像扇子般展開
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: Logo・品牌、標題・Hero
+- 風格／關鍵字 Style: 3D 空間旋轉
+- 標籤 Tag: 和風・登場
+- 範例文字 Example text: 「扇」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/024-text-fan.md](examples/text/024-text-fan.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「文字扇（Text Fan）」動態效果：同一個字複製 7 份疊在一起，以字下方為軸心像扇子一樣展開成扇形，停留後再收合。中央那份不透明，其餘半透明。約 3 秒一輪，和風登場感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 025 · 卡拉OK小球 — Karaoke Ball
+
+小球跳動，逐字點亮
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 逐字律動
+- 標籤 Tag: 歌曲・字幕
+- 範例文字 Example text: 「ボールが跳ねる」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/025-karaoke-ball.md](examples/text/025-karaoke-ball.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「卡拉OK小球（Karaoke Ball）」動態效果：一顆發光小球在文字上方一字一字往右跳，每落在一個字上，該字就從暗淡亮起並帶光暈，像卡拉 OK 字幕。每字約 0.38 秒，整句跳完後重來。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 026 · 鐘擺搖晃 — Swing Letters
+
+從上方一點如鐘擺搖晃
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: Logo・品牌
+- 風格／關鍵字 Style: 逐字律動
+- 標籤 Tag: 可愛・慵懶
+- 範例文字 Example text: 「ゆらゆら」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/026-swing-letters.md](examples/text/026-swing-letters.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「鐘擺搖晃（Swing Letters）」動態效果：每個字頂端有一個小圓點，字以這個點為支點像鐘擺一樣左右擺動約 ±14 度，各字擺動錯開。約 1.7 秒一擺，慵懶可愛。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 027 · 像素溶解 — Pixel Dissolve
+
+化成方塊溶解消失再復原
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 退場
+- 技術 Tech: CSS
+- 情境 Uses: 轉場切換
+- 風格／關鍵字 Style: 消散退場
+- 標籤 Tag: 數位
+- 範例文字 Example text: 「ピクセル化」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/027-pixel-dissolve.md](examples/text/027-pixel-dissolve.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「像素溶解（Pixel Dissolve）」動態效果：文字上方覆蓋小方格，方格隨機一格格出現把文字遮掉，再一格格消失讓文字回來，夾雜少數強調色方塊，像像素溶解。約 3 秒一輪，數位感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 028 · 圓環換字 — Rotating Words
+
+在圓環中切換單字
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 數字資訊、Logo・品牌
+- 風格／關鍵字 Style: 文字切換
+- 標籤 Tag: 時間・季節
+- 範例文字 Example text: 「春夏秋冬」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/028-rotating-words.md](examples/text/028-rotating-words.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「圓環換字（Rotating Words）」動態效果：中央圓角方塊內的字依序切換（例：春→夏→秋→冬），每次切換有上下翻轉的動作，周圍有一圈文字環持續慢轉。約 1.3 秒切換一次。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 029 · 殘影疾走 — Blur Trail
+
+拖著殘影疾馳而過
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: 轉場切換
+- 風格／關鍵字 Style: 流動背景
+- 標籤 Tag: 速度・疾走
+- 範例文字 Example text: 「疾走」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/029-blur-trail.md](examples/text/029-blur-trail.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「殘影疾走（Blur Trail）」動態效果：文字從畫面左外側高速衝進中央並帶斜體傾斜，短暫停住後再衝出右側，後方拖著 4 層半透明模糊的殘影，背景閃過橫向速度線。約 2.6 秒一輪，疾走感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 031 · ∞ 軌道 — Roller Path
+
+文字沿 ∞ 軌道奔馳
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾
+- 風格／關鍵字 Style: 流動背景
+- 標籤 Tag: 疾走・歡樂
+- 範例文字 Example text: 「ころがる」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/031-roller-path.md](examples/text/031-roller-path.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「∞ 軌道（Roller Path）」動態效果：每個字沿著一條「∞」形的虛線軌道依序奔跑，字會隨行進方向轉向，像小車隊一樣首尾相接。約 4.5 秒繞一圈，歡樂疾走感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 032 · 洗牌重排 — Shuffle Letters
+
+文字互換位置後排整齊
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 逐字律動
+- 標籤 Tag: 遊戲・解謎
+- 範例文字 Example text: 「ならびかえ」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/032-shuffle-letters.md](examples/text/032-shuffle-letters.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「洗牌重排（Shuffle Letters）」動態效果：文字的每個字隨機互換位置並帶點彈跳與歪斜，連續洗牌幾次後歸位排整齊，停留後再開始洗。每次換位約 0.6 秒，遊戲解謎感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 033 · 文字漩渦 — Text Spiral
+
+文字沿漩渦旋轉
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾、轉場切換
+- 風格／關鍵字 Style: 3D 空間旋轉
+- 標籤 Tag: 奇幻・吸入
+- 範例文字 Example text: 「うずまき」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/033-text-spiral.md](examples/text/033-text-spiral.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「文字漩渦（Text Spiral）」動態效果：文字沿螺旋線排列，從中心小字逐漸往外變大，整個漩渦持續旋轉，字的透明度輪流明暗。約 9 秒轉一圈，奇幻吸入感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 034 · 顫抖穩定 — Jitter Settle
+
+顫抖後慢慢穩定
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 逐字律動
+- 標籤 Tag: 驚嚇・緊張
+- 範例文字 Example text: 「ブルブル」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/034-jitter-settle.md](examples/text/034-jitter-settle.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「顫抖穩定（Jitter Settle）」動態效果：文字一開始劇烈地左右上下抖動並旋轉，抖動幅度逐漸變小，最後穩定停住，停一會兒再重新顫抖。約 2.4 秒一輪，驚嚇緊張感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 035 · 彈性拉伸 — Elastic Wave Stretch
+
+文字縱向拉伸成波浪
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 逐字律動
+- 標籤 Tag: 流行・音樂
+- 範例文字 Example text: 「のびる波」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/035-elastic-wave-stretch.md](examples/text/035-elastic-wave-stretch.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「彈性拉伸（Elastic Wave Stretch）」動態效果：每個字以底部為基準，依序縱向拉長到約 1.7 倍再縮回，同時橫向變窄，形成彈性波浪，最後一個字用強調色。約 1.3 秒一個波，流行音樂感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 036 · 墨水暈開 — Ink Bleed
+
+墨水暈開成形
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 質感填色
+- 標籤 Tag: 和風・手寫感
+- 範例文字 Example text: 「にじむ墨」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/036-ink-bleed.md](examples/text/036-ink-bleed.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「墨水暈開（Ink Bleed）」動態效果：文字像墨水滴在紙上：一開始是模糊暈開的墨團，逐漸收斂成清晰銳利的字形，停留後再暈開消失，各字依序錯開。約 3.4 秒一輪，和風手寫感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 037 · 文字聚集 — Letter Assemble
+
+散落的文字聚集
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、Logo・品牌
+- 風格／關鍵字 Style: 衝擊登場
+- 標籤 Tag: 標題・導入
+- 範例文字 Example text: 「あつまる」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/037-letter-assemble.md](examples/text/037-letter-assemble.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「文字聚集（Letter Assemble）」動態效果：文字的每個字從畫面四處、帶著旋轉與模糊放大飛進來，逐一聚集到正確位置並變清晰，停留後再散開。約 3.2 秒一輪，標題導入感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 038 · 字體樣本 — Text Mosaic
+
+不同字體依序發光
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾
+- 風格／關鍵字 Style: 質感填色
+- 標籤 Tag: 字體樣本・設計
+- 範例文字 Example text: 「愛夢光風花月海空」（預覽底色：acc，固定文字）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/038-text-mosaic.md](examples/text/038-text-mosaic.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「字體樣本（Text Mosaic）」動態效果：8 個字排成 4×2 格，每格使用不同字體（黑體、明體、點陣、圓體、毛筆等），依序一格一格反白亮起並微微放大，再暗回去。約 3.2 秒一輪。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 039 · 崩落 — Crumble Down
+
+文字崩塌掉落
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 退場
+- 技術 Tech: CSS
+- 情境 Uses: 轉場切換
+- 風格／關鍵字 Style: 消散退場
+- 標籤 Tag: 結尾・翻轉
+- 範例文字 Example text: 「崩れ落ちる」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/039-crumble-down.md](examples/text/039-crumble-down.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「崩落（Crumble Down）」動態效果：每個字先微微歪斜，接著依序像崩塌一樣受重力加速往下掉並旋轉淡出，之後從上方落回原位重組。約 3.4 秒一輪，結尾感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 040 · 漂浮 — Float Drift
+
+輕飄飄地浮動
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾、Logo・品牌
+- 風格／關鍵字 Style: 逐字律動
+- 標籤 Tag: 療癒・夢幻
+- 範例文字 Example text: 「ふわふわ」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/040-float-drift.md](examples/text/040-float-drift.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「漂浮（Float Drift）」動態效果：每個字以不同速度緩慢上下左右漂浮並輕微旋轉，帶柔和光暈，像羽毛輕飄飄。每字約 3–4.5 秒一輪，療癒夢幻感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 041 · 文字爆開 — Word Burst
+
+單字咚一聲彈出來
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 衝擊登場 Canva 風格 Canva Pop 跳出
+- 標籤 Tag: 強調・亮點
+- 範例文字 Example text: 「衝擊」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/041-word-burst.md](examples/text/041-word-burst.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「文字爆開（Word Burst）」動態效果：文字從 0 迅速彈出放大到 1.25 倍再回到原尺寸，同時從中心放射出一圈短線條往外飛散消失。約 1.8 秒一輪，強調亮點。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 042 · 逐字敲擊 — Letter Sequence
+
+一個字一個字砸上來
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 衝擊登場
+- 標籤 Tag: 節奏・歌詞
+- 範例文字 Example text: 「砸上來吧」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/042-letter-sequence.md](examples/text/042-letter-sequence.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「逐字敲擊（Letter Sequence）」動態效果：文字一個字一個字從上方大尺寸砸下來定位，每個字落下時略微壓縮再回彈，依序間隔約 0.2 秒，全部出現後一起淡出。約 3 秒一輪。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 043 · 印章 — Text Stamp
+
+像蓋章一樣一個個蓋上去
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 衝擊登場 Canva 風格 Canva Stomp 重擊
+- 標籤 Tag: 公告・決定
+- 範例文字 Example text: 「確定」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/043-text-stamp.md](examples/text/043-text-stamp.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「印章（Text Stamp）」動態效果：兩個帶粗框的印章字樣，從 2.4 倍大斜斜地「啪」一聲蓋上去，略微回縮後停住，印面帶一點斑駁質感，兩枚依序蓋下。約 2.8 秒一輪。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 044 · 衝擊放大 — Punch Zoom
+
+從深處飛出、後面拖著殘影
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 衝擊登場
+- 標籤 Tag: 開場・強調
+- 範例文字 Example text: 「突破」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/044-punch-zoom.md](examples/text/044-punch-zoom.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「衝擊放大（Punch Zoom）」動態效果：文字從畫面深處（極小、模糊）高速衝向前方並略微放大過頭再回彈定位，後方拖著 4 層半透明殘影。約 2.2 秒一輪，開場強調感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 045 · 動態堆疊 — Kinetic Stack
+
+詞一個個飛進來疊起來
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 衝擊登場
+- 標籤 Tag: MV・歌詞
+- 範例文字 Example text: 「穿過 黑夜 現在就走」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/045-kinetic-stack.md](examples/text/045-kinetic-stack.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「動態堆疊（Kinetic Stack）」動態效果：三行詞彙分別從左、右、下方旋轉飛入，依序疊成一組置中排版，每行字級不同、中間那行用強調色，停留後一起淡出。約 3.4 秒一輪，MV 歌詞感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 046 · 穿越放大 — Text Zoom Through
+
+衝進字裡，接到下一個詞
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 轉場切換
+- 風格／關鍵字 Style: 文字切換
+- 標籤 Tag: 轉場・速度感
+- 範例文字 Example text: 「衝進 字裡 下一個」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/046-text-zoom-through.md](examples/text/046-text-zoom-through.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「穿越放大（Text Zoom Through）」動態效果：詞彙從小放大到正常尺寸，接著加速放大到填滿畫面並淡出，像鏡頭衝進字裡，下一個詞隨即從遠處出現接上。每個詞約 1.2 秒。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 047 · 擠壓彈跳 — Text Squeeze
+
+像橡皮一樣壓扁再換字
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點、轉場切換
+- 風格／關鍵字 Style: 逐字律動
+- 標籤 Tag: 彈性・切換
+- 範例文字 Example text: 「反彈 彈力」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/047-text-squeeze.md](examples/text/047-text-squeeze.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「擠壓彈跳（Text Squeeze）」動態效果：文字像橡皮一樣被壓扁成一條線，再彈起拉高、回彈定位，停住後又壓扁，壓到最扁時換成下一個詞。約 1.5 秒一輪，彈性切換。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 055 · 文字隧道 — Text Tunnel
+
+從文字中間穿過去
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 轉場切換、標題・Hero
+- 風格／關鍵字 Style: 3D 空間旋轉
+- 標籤 Tag: 開場・科幻
+- 範例文字 Example text: 「穿越」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/055-text-tunnel.md](examples/text/055-text-tunnel.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「文字隧道（Text Tunnel）」動態效果：同一個詞的多層複本從中心極小處持續放大，越來越大直到衝出畫面並淡出，一層接一層，像穿過文字隧道，相鄰層用兩種色調交錯。約 3.6 秒一層。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 057 · 圓柱 — Text Cylinder
+
+文字圓柱反向旋轉
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: Logo・品牌
+- 風格／關鍵字 Style: 3D 空間旋轉
+- 標籤 Tag: 立體・Logo
+- 範例文字 Example text: 「轉圈圈」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/057-text-cylinder.md](examples/text/057-text-cylinder.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「圓柱（Text Cylinder）」動態效果：三根以文字組成的 3D 圓柱（同一字環繞一圈），沿水平軸旋轉，相鄰圓柱方向相反，中間那根用強調色。約 4 秒轉一圈，立體 Logo 感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 058 · 圓環隧道 — Ring Text Tunnel
+
+一圈圈文字撲面而來
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 轉場切換、背景裝飾
+- 風格／關鍵字 Style: 3D 空間旋轉
+- 標籤 Tag: 開場・科幻
+- 範例文字 Example text: 「TUNNEL・」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/058-ring-text-tunnel.md](examples/text/058-ring-text-tunnel.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「圓環隧道（Ring Text Tunnel）」動態效果：多圈由文字組成的圓環，從中心極小處一圈圈放大朝觀者撲來並淡出，每圈本身也在旋轉、相鄰方向相反。約 4.2 秒一圈。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 059 · 軌道 — Text Orbit
+
+單字帶著景深繞圈
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: Logo・品牌
+- 風格／關鍵字 Style: 3D 空間旋轉
+- 標籤 Tag: Logo・標題
+- 範例文字 Example text: 「軌道」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/059-text-orbit.md](examples/text/059-text-orbit.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「軌道（Text Orbit）」動態效果：文字沿著一條橢圓虛線軌道繞圈，轉到前方時變大變清楚、轉到後方時變小變淡，呈現景深。約 5 秒繞一圈，Logo 標題感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 060 · 方塊 — Text Cube
+
+四面寫字的方塊直向翻轉
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 轉場切換、數字資訊
+- 風格／關鍵字 Style: 文字切換
+- 標籤 Tag: 切換・立體
+- 範例文字 Example text: 「春夏秋冬」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/060-text-cube.md](examples/text/060-text-cube.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「方塊（Text Cube）」動態效果：一個 3D 立方體，四個面各寫一個字，以水平軸每次翻轉 90 度換到下一面，翻轉後停留一下，略帶傾斜視角，方塊有粗邊框。約 1.5 秒換一面。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 061 · 立體字 — Extrude Text
+
+立體字的厚度方向轉一圈
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: Logo・品牌、標題・Hero
+- 風格／關鍵字 Style: 3D 空間旋轉
+- 標籤 Tag: 標題
+- 範例文字 Example text: 「立體」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/061-extrude-text.md](examples/text/061-extrude-text.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「立體字（Extrude Text）」動態效果：有厚度的 3D 立體字，正面較亮、側面由多層由深到淺的色階堆疊出厚度，整組字以垂直軸緩慢旋轉一整圈，能看到側面厚度。約 5 秒轉一圈。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 062 · 翻牌 — Split Flap
+
+像車站時刻表一樣翻到定位
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 數字資訊
+- 風格／關鍵字 Style: 文字切換
+- 標籤 Tag: 復古・車站
+- 範例文字 Example text: 「準時」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/062-split-flap.md](examples/text/062-split-flap.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「翻牌（Split Flap）」動態效果：每個字放在翻牌格內（中間有分隔線），像車站時刻表一樣快速翻過許多隨機字，由左到右依序停在正確的字上，停留後重新翻。翻動很快、全部停定約 1.5 秒。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 063 · 翻卡 — Flip Cards
+
+一張張翻面換字
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 轉場切換
+- 風格／關鍵字 Style: 文字切換
+- 標籤 Tag: 切換・公告
+- 範例文字 Example text: 「夜未眠」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/063-flip-cards.md](examples/text/063-flip-cards.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「翻卡（Flip Cards）」動態效果：每個字是一張卡片，依序以 Y 軸翻面，正反兩面用對比的配色，翻成另一組字後停留，再翻回來。約 3.4 秒一輪，切換公告感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 064 · 打字機 — Typewriter
+
+一個字一個字打出來再換掉
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、數字資訊
+- 風格／關鍵字 Style: 文字切換 Canva 風格 Canva Typewriter 打字機
+- 標籤 Tag: 故事・字幕
+- 範例文字 Example text: 「天亮以前 再見」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/064-typewriter.md](examples/text/064-typewriter.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「打字機（Typewriter）」動態效果：文字像打字機一樣一個字一個字出現在兩行，後面有閃爍的游標，打完停留後再快速逐字刪除，換成下一句繼續打。明體字、第二行較淡，打字約每字 0.14 秒。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 065 · 拉霸 — Slot Text
+
+滾輪轉一轉停下來
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 數字資訊
+- 風格／關鍵字 Style: 文字切換
+- 標籤 Tag: 結果揭曉
+- 範例文字 Example text: 「大吉利」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/065-slot-text.md](examples/text/065-slot-text.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「拉霸（Slot Text）」動態效果：每個字放在拉霸滾輪窗格裡（窗格上下有內陰影），滾輪快速往上捲動許多隨機字，再由左到右依序減速停在結果字上（略帶回彈），停留後重轉。約 4 秒一輪。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 066 · 計數器 — Odometer
+
+數字滾動往上加
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 數字資訊
+- 風格／關鍵字 Style: 文字切換
+- 標籤 Tag: 成績・數字
+- 範例文字 Example text: 「累計」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/066-odometer.md](examples/text/066-odometer.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「計數器（Odometer）」動態效果：「累計 12,480 人」這類數字，每位數放在小格子中，數字像里程表一樣往上滾動遞增，帶一點回彈。約每 1 秒增加一次。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 067 · 標題切換 — Headline Swap
+
+新聞標題一個換一個
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 數字資訊、轉場切換
+- 風格／關鍵字 Style: 文字切換
+- 標籤 Tag: 快訊・解說
+- 範例文字 Example text: 「全面免費 今晚上線 限時三天」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/067-headline-swap.md](examples/text/067-headline-swap.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「標題切換（Headline Swap）」動態效果：左側「快訊」標籤固定，右側框內的新聞標題由下往上滑入，舊標題往上滑出，一則換一則。約 1.6 秒換一則。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 068 · LED 看板 — LED Text
+
+點點組成的電子字
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 數字資訊、背景裝飾
+- 風格／關鍵字 Style: 流動背景
+- 標籤 Tag: 復古・科技
+- 範例文字 Example text: 「最新消息・」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/068-led-text.md](examples/text/068-led-text.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「LED 看板（LED Text）」動態效果：像電子看板一樣由圓點矩陣組成的文字，持續由右往左捲動，亮點與暗點對比明顯。捲動速度中等，復古科技感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 070 · 故障切片 — Glitch Slices
+
+大字被切成好幾條錯開
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 退場
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點、轉場切換
+- 風格／關鍵字 Style: 消散退場
+- 標籤 Tag: 衝擊・MV
+- 範例文字 Example text: 「故障」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/070-glitch-slices.md](examples/text/070-glitch-slices.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「故障切片（Glitch Slices）」動態效果：大字平時靜止，偶爾突然被切成 6 條橫向切片，各條左右隨機錯開並帶色差錯位（RGB split），閃一下又恢復，頻率不規則。故障約每 0.1 秒閃動，衝擊 MV 感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 071 · 圖案遮罩 — Text Mask Pattern
+
+文字變成窗，條紋從裡面流過
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 質感填色
+- 標籤 Tag: 俏皮・祭典
+- 範例文字 Example text: 「祭典」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/071-text-mask-pattern.md](examples/text/071-text-mask-pattern.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「圖案遮罩（Text Mask Pattern）」動態效果：文字像一扇窗，字裡填滿兩色交錯的斜條紋，條紋持續往側邊流動。粗體字，約 1 秒流動一個條紋週期，俏皮祭典感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 072 · 長陰影 — Long Shadow
+
+長長的影子轉一圈
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: Logo・品牌
+- 風格／關鍵字 Style: 質感填色
+- 標籤 Tag: 扁平風
+- 範例文字 Example text: 「光與影」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/072-long-shadow.md](examples/text/072-long-shadow.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「長陰影（Long Shadow）」動態效果：文字後方拖著一條很長的扁平陰影，陰影方向持續繞著文字旋轉一整圈。約 7 秒轉一圈，扁平設計風。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 073 · 液體填滿 — Liquid Fill
+
+空心字被液體慢慢裝滿
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 質感填色
+- 標籤 Tag: 清爽・MV
+- 範例文字 Example text: 「滿」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/073-liquid-fill.md](examples/text/073-liquid-fill.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「液體填滿（Liquid Fill）」動態效果：一開始只有描邊的空心字，液體由下往上慢慢把字填滿，填滿後停留，再清空重來。約 3.4 秒一輪，清爽 MV 感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 074 · 螢光筆 — Highlight Text
+
+螢光筆從字後面劃過
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 質感填色
+- 標籤 Tag: 強調・解說
+- 範例文字 Example text: 「一句話的力量」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/074-highlight-text.md](examples/text/074-highlight-text.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「螢光筆（Highlight Text）」動態效果：卡片上的文字，一條螢光筆線由左往右從字的下半部後方劃過，停留後淡出。劃過約 1 秒，整輪約 3 秒，強調解說感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 075 · 斜線反轉 — Split Invert
+
+斜線掃過，兩區互換
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 轉場切換
+- 風格／關鍵字 Style: 文字切換 Canva 風格 Canva Block 區塊
+- 標籤 Tag: 切換・標題
+- 範例文字 Example text: 「反轉」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/text/075-split-invert.md](examples/text/075-split-invert.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「斜線反轉（Split Invert）」動態效果：畫面被一條斜線分成兩區，兩區的底色與文字色互為反差，斜線由左往右掃過畫面，讓文字的兩種配色互換。約 3.4 秒掃一輪，切換標題感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 076 · 逐字升起 — Split Rise
+
+每個字從遮罩下方滑上來
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場、退場
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: Canva 風格 Canva Ascend Rise 上升
+- 標籤 Tag: SplitText
+- 範例文字 Example text: 「一字一字升起」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/text/076-split-rise.md](examples/text/076-split-rise.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「逐字升起（Split Rise）」動態效果：文字拆成單字，每個字放在裁切遮罩內，依序從遮罩下方滑上來（每字間隔約 0.06 秒、強烈減速），停留後再往上滑出。（GSAP：SplitText type chars + mask，from yPercent:110，ease power4.out，stagger）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 077 · 亂碼揭示 — Scramble Reveal
+
+亂碼逐步解出正確文字
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero、數字資訊
+- 風格／關鍵字 Style: 
+- 標籤 Tag: ScrambleText
+- 範例文字 Example text: 「解碼完成」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/text/077-scramble-reveal.md](examples/text/077-scramble-reveal.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「亂碼揭示（Scramble Reveal）」動態效果：文字先是一串不斷跳動的亂碼（片假名、符號、數字），由左到右逐步解出正確文字，亂碼與解出的字用不同顏色區分，停留後再打散。點陣字體。（GSAP：ScrambleTextPlugin，revealDelay、speed、newClass）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 078 · 打字換句 — Typing Swap
+
+打字、刪除、換下一句
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: Canva 風格 Canva Typewriter 打字機
+- 標籤 Tag: TextPlugin
+- 範例文字 Example text: 「用 GSAP 打字」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/text/078-typing-swap.md](examples/text/078-typing-swap.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「打字換句（Typing Swap）」動態效果：像打字機一樣逐字打出一句話，後方游標閃爍，停留約 1 秒後從尾端逐字刪除，再打下一句，三句輪播。（GSAP：TextPlugin 打字 + timeline 串接刪除）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 079 · 彈性落下 — Elastic Drop
+
+字從天而降並彈性晃動
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero、強調重點
+- 風格／關鍵字 Style: Canva 風格 Canva Bounce 彈跳
+- 標籤 Tag: Stagger・Elastic
+- 範例文字 Example text: 「彈跳落下」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/text/079-elastic-drop.md](examples/text/079-elastic-drop.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「彈性落下（Elastic Drop）」動態效果：每個字從畫面上方隨機順序掉下，帶隨機旋轉，落地時像果凍一樣彈性晃動後定位，停留後一起往下掉出並淡出。（GSAP：SplitText chars，ease elastic.out(1,0.35)，stagger from random）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 080 · 3D 翻字 — 3D Char Flip
+
+每個字沿 X 軸翻轉登場
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 轉場切換、標題・Hero
+- 風格／關鍵字 Style: 
+- 標籤 Tag: SplitText・3D
+- 範例文字 Example text: 「翻轉登場」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/text/080-3d-char-flip.md](examples/text/080-3d-char-flip.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「3D 翻字（3D Char Flip）」動態效果：每個字以 X 軸 3D 翻轉登場（從背面翻到正面、略帶回彈），依序間隔 0.07 秒，停留後再往前翻走消失。（GSAP：SplitText chars，rotationX、transformOrigin 帶 Z 深度，ease back.out）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 081 · 隨機散聚 — Random Scatter
+
+字從四處飛來再散開
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場、退場
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 
+- 標籤 Tag: Stagger random
+- 範例文字 Example text: 「四散再聚合」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/text/081-random-scatter.md](examples/text/081-random-scatter.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「隨機散聚（Random Scatter）」動態效果：每個字從畫面四處隨機位置、隨機旋轉與大小飛進來，強烈減速聚合成文字，停留後再爆散到隨機位置。（GSAP：SplitText chars，"random(-400,400)" 函式值，ease expo，stagger from random）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 083 · 遮罩換詞 — Word Rotator
+
+固定前綴、後面的詞輪播替換
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero、轉場切換
+- 風格／關鍵字 Style: 
+- 標籤 Tag: SplitText mask
+- 範例文字 Example text: 「設計 動畫 互動 體驗」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/text/083-word-rotator.md](examples/text/083-word-rotator.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「遮罩換詞（Word Rotator）」動態效果：固定前綴「我們做」，後面的詞放在遮罩內輪播：新詞逐字從下方滑上，停留後往上滑出，接著換下一個詞，輪播的詞用強調色。（GSAP：SplitText chars + mask，timeline 依序串接每個詞）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 084 · 數字累加 — Number Counter
+
+數字滾動累加並同步進度條
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 數字資訊
+- 風格／關鍵字 Style: 
+- 標籤 Tag: Tween 數值
+- 範例文字 Example text: 「下載次數」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/text/084-number-counter.md](examples/text/084-number-counter.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「數字累加（Number Counter）」動態效果：標籤下方的大數字從 0 快速累加到 128,450，越接近終點越慢，下方進度條同步填滿，停留後淡出重來，數字用等寬數字。（GSAP：tween 一個物件數值 + onUpdate 寫入 toLocaleString，ease power3.out）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 085 · 磁力文字 — Magnetic Letters
+
+游標靠近時字被推開
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、Logo・品牌
+- 風格／關鍵字 Style: 
+- 標籤 Tag: quickTo
+- 範例文字 Example text: 「靠近我看看」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/text/085-magnetic-letters.md](examples/text/085-magnetic-letters.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「磁力文字（Magnetic Letters）」動態效果：游標靠近文字時，附近的字被往外推開並改用強調色，距離越近推得越遠，游標離開後平滑回到原位。（GSAP：SplitText chars，每個字用 gsap.quickTo 控制 x/y，依游標距離計算推力）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 086 · 逐行揭示 — Line Reveal
+
+一行行從遮罩下翻上來
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 
+- 標籤 Tag: Mask・Stagger
+- 範例文字 Example text: 「動畫 讓介面 有了生命」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/text/086-line-reveal.md](examples/text/086-line-reveal.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「逐行揭示（Line Reveal）」動態效果：多行文字逐行從各自的遮罩下方帶一點旋轉翻上來，最後一行用強調色，下方一條細線由左往右畫出，停留後整段往上收走。（GSAP：每行包 overflow hidden，from yPercent:115，stagger 0.14）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 087 · 壓扁彈跳 — Squash Bounce
+
+落地壓扁、回彈伸展
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 
+- 標籤 Tag: CustomBounce
+- 範例文字 Example text: 「彈彈彈」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/text/087-squash-bounce.md](examples/text/087-squash-bounce.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「壓扁彈跳（Squash Bounce）」動態效果：文字從上方掉落，落地時像橡皮一樣壓扁、反彈時拉長，連續彈跳幾下停住，地面陰影跟著高度縮放。（GSAP：CustomBounce.create 產生 bounce 與 squash 兩條 ease，分別套在 y 與 scaleX/scaleY）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 126 · 逐行淡入 — Soft Line Fade
+
+段落一行一行從微模糊變清楚，帶出閱讀節奏
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 段落 內文 逐行 模糊 文案 溫和 柔和 輕柔 引導 動線 視線 閱讀順序 低調 Subtle Gentle Soft Entrance Visual Flow Hierarchy Canva 風格 Canva Fade Clarify 淡入 清晰
+- 標籤 Tag: Line fade
+- 範例文字 Example text: 「好的動態 不是搶走目光 而是輕輕帶著視線 往下一步走」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/text/126-soft-line-fade.md](examples/text/126-soft-line-fade.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「逐行淡入（Soft Line Fade）」動態效果：一段多行文案進場時，每一行依序從下方約 10px、略帶模糊且透明的狀態，慢慢變清楚並淡入，行與行之間間隔約 0.28 秒（比一般 stagger 慢，接近閱讀速度），每行約 1.1 秒、平順減速，整體安靜、有呼吸感，適合品牌理念或引言段落。（GSAP：每行一個元素或用 SplitText type lines，fromTo y:10 / opacity:0 / filter:blur(4px) → 清晰，stagger 0.28，ease power2.out）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 152 · 捲動逐字點亮 — Scroll Text Reveal
+
+段落的字隨著捲動一個個由淡轉亮
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero、捲動效果
+- 風格／關鍵字 Style: 逐字 點亮 段落 文案 Apple 官網 Text Reveal Highlight On Scroll 捲動 滾動 scroll ScrollTrigger scrub 捲動觸發
+- 標籤 Tag: ScrollTrigger scrub
+- 範例文字 Example text: 「好的動態設計會在你捲動時一個字一個字亮起來，帶著視線往下讀完這段話。」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/text/152-scroll-text-reveal.md](examples/text/152-scroll-text-reveal.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「捲動逐字點亮（Scroll Text Reveal）」動態效果：一段大字級的文案固定在畫面中央，一開始所有字都很淡；使用者往下捲動時，字從第一個開始依序變清楚，捲動進度＝已點亮的比例，往回捲時再依序變淡，像 Apple 官網的文案呈現。（GSAP：SplitText 拆字，fromTo opacity 0.15→1、stagger 0.1、ease none，綁 ScrollTrigger scrub:true；區塊用 pin 或 position:sticky 固定，外層高度約 3–4 個視窗）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 159 · 捲動橫移大字 — Scroll Marquee Text
+
+三行大字隨捲動左右反向移動，中間一行空心
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 背景裝飾、捲動效果、標題・Hero
+- 風格／關鍵字 Style: 大字 橫移 跑馬燈 反向 標題 Scroll Marquee Big Type Horizontal Text Kinetic 捲動 滾動 scroll ScrollTrigger scrub 捲動觸發
+- 標籤 Tag: ScrollTrigger scrub
+- 範例文字 Example text: 「MOTION LIBRARY」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/text/159-scroll-marquee-text.md](examples/text/159-scroll-marquee-text.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「捲動橫移大字（Scroll Marquee Text）」動態效果：畫面中有三行超大字級的重複文字（中間那行是空心描邊），捲動時第一、三行往左移、第二行往右移，移動距離完全跟著捲動進度（停止捲動就停住），形成有張力的版面節奏。（GSAP：timeline 綁 ScrollTrigger scrub:0.6，各行 fromTo xPercent 0↔-40；區塊 pin 或 sticky）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 162 · 連結底線滑入 — Underline Slide Link
+
+滑過連結時底線從左長出，離開時往右收走
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 連結 底線 選單 導覽 link underline nav menu hover 懸停 滑鼠移入 滑過 互動
+- 標籤 Tag: CSS hover
+- 範例文字 Example text: 「首頁 作品 關於 聯絡」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/text/162-underline-slide-link.md](examples/text/162-underline-slide-link.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「連結底線滑入（Underline Slide Link）」動態效果：導覽列的文字連結，滑鼠移入時一條細底線從左往右長出，滑鼠移出時底線繼續往右收走（不是原路縮回），像一道光掃過；約 0.45 秒、緩入緩出。（CSS：::after 做底線，transform:scaleX(0)；hover 時 scaleX(1) 且 transform-origin:left，非 hover 時 transform-origin:right，transition cubic-bezier(.7,0,.2,1)）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 163 · 空心字填滿 — Outline Text Fill
+
+滑過空心大字時，從左到右被填滿成實心
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、介面互動
+- 風格／關鍵字 Style: 空心字 描邊 填滿 大標 outline stroke text fill hover hover 懸停 滑鼠移入 滑過 互動
+- 標籤 Tag: background-clip
+- 範例文字 Example text: 「DESIGN MOTION PLAY」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/text/163-outline-text-fill.md](examples/text/163-outline-text-fill.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「空心字填滿（Outline Text Fill）」動態效果：幾行超大字級的空心描邊文字，滑鼠移到某一行時，那一行從左到右被填滿成實心（像墨水灌進去），移開時再從右往左退回空心；約 0.6 秒、緩入緩出，適合作品集標題或選單。（CSS：文字 -webkit-text-stroke 描邊、color:transparent；背景用單色 linear-gradient，background-clip:text，hover 時 background-size 0%→100% 加 transition）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 170 · 逐字跳動 — Letter Hover Bounce
+
+滑過文字時，碰到的每個字各自彈跳一下
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、強調重點
+- 風格／關鍵字 Style: 文字 逐字 跳動 彈跳 俏皮 letter bounce hover playful hover 懸停 滑鼠移入 滑過 互動
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「HOVER ME 試試看」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/text/170-letter-hover-bounce.md](examples/text/170-letter-hover-bounce.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「逐字跳動（Letter Hover Bounce）」動態效果：標題文字拆成一個個字，游標滑過哪個字，那個字就往上彈跳一下並短暫變成強調色（約 0.5 秒、彈性），游標快速橫掃時會形成一串波浪；每個字的動畫各自獨立，結束後回到原位。（做法：每個字包 inline-block 的 span，pointerenter 時移除再加上動畫 class 以重播，animationend 時移除；keyframes 在 30% 時 translateY(-35%) scale(1.12)）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 177 · 文字粒子化 — Particle Text
+
+文字由許多小點組成，游標靠近會被吹散，離開後聚回
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 懸停・點擊、進場
+- 技術 Tech: Canvas
+- 情境 Uses: 標題・Hero、Logo・品牌
+- 風格／關鍵字 Style: 文字 粒子 點陣 吹散 聚合 互動標題 Particle Text Interactive Typography Scatter Canvas 粒子 particles requestAnimationFrame 互動背景
+- 標籤 Tag: Canvas particles
+- 範例文字 Example text: 「HELLO」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/text/177-particle-text.md](examples/text/177-particle-text.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「文字粒子化（Particle Text）」動態效果：大標題由上千個小方點組成：進場時點從畫面各處飛來聚合成文字；游標靠近時，附近的點被推開散落，離開後像彈簧一樣聚回原位，被推離原位的點暫時改用強調色。適合作品集首頁的互動標題。（Canvas 2D：先把文字畫在離屏畫布，每隔數個像素取樣不透明的點當目標位置；每個粒子以彈簧力回到目標、受游標距離產生排斥力並加阻尼）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 182 · 呼吸 — Breathe
+
+元素緩慢放大縮小，像在呼吸一樣循環
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點、Logo・品牌
+- 風格／關鍵字 Style: 呼吸 脈動 放大縮小 待機 Pulse Breathing Idle Canva 風格 Canva Breathe 呼吸 簡報 社群貼文 動畫
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「深呼吸」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/text/182-breathe.md](examples/text/182-breathe.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「呼吸（Breathe）」動態效果：文字或元素持續緩慢地放大到約 1.07 倍再縮回，同時透明度在 0.82 與 1 之間輕微起伏，一個循環約 3.2 秒、前後都緩入緩出，像在呼吸，適合強調重點或待機狀態。（CSS：keyframes 0%/100% scale(1)、50% scale(1.07)，ease-in-out，infinite）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 183 · 漂移 — Drift
+
+文字從側邊淡入後持續緩慢漂移，再淡出
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場、退場
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、轉場切換
+- 風格／關鍵字 Style: 漂移 緩慢 橫移 淡入淡出 簡報 Drift Slow Slide Fade Canva 風格 Canva Drift 漂移 簡報 社群貼文 動畫
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「慢慢漂移」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/text/183-drift.md](examples/text/183-drift.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「漂移（Drift）」動態效果：文字從右側約 12% 的位置淡入並快速減速，之後沒有停下，而是以非常慢的等速持續往左漂移，最後一邊漂移一邊淡出；整段約 4 秒，給人安靜流動的感覺，適合簡報或社群貼文的標題。（CSS：keyframes 前 20% 用減速曲線淡入，20%–80% 線性小幅位移，最後淡出）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 185 · 翻滾 — Tumble
+
+每個字從縮小狀態旋轉翻滾著登場
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、強調重點
+- 風格／關鍵字 Style: 翻滾 旋轉 登場 逐字 俏皮 Tumble Spin Rotate In Canva 風格 Canva Tumble 翻滾 簡報 社群貼文 動畫
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「翻滾登場」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/text/185-tumble.md](examples/text/185-tumble.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「翻滾（Tumble）」動態效果：每個字從約 0.2 倍大、逆時針旋轉 200 度的狀態，一邊轉正一邊放大登場，最後略微過衝（轉過頭 10 度、放大到 1.08）再回正，字與字之間依序延遲約 0.08 秒，俏皮有活力。（CSS：每個字 inline-block，keyframes rotate(-200deg) scale(.2) → rotate(10deg) scale(1.08) → none，animation-delay 依索引遞增）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 186 · 霓虹閃爍 — Neon Flicker
+
+文字像霓虹燈管一樣不規則閃爍後點亮
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機、進場
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、Logo・品牌、強調重點
+- 風格／關鍵字 Style: 霓虹 燈管 閃爍 發光 招牌 夜店 Neon Glow Flicker Sign Canva 風格 Canva Neon 霓虹 簡報 社群貼文 動畫
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「OPEN」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/text/186-neon-flicker.md](examples/text/186-neon-flicker.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「霓虹閃爍（Neon Flicker）」動態效果：文字像剛通電的霓虹燈管：先暗著，接著不規則地快速閃兩下，然後穩定點亮並帶有多層外發光（內層較亮、外層擴散）；之後大部分時間穩定發光，偶爾再短暫閃一下，增加真實感。適合招牌、夜晚主題。（CSS：keyframes 在少數百分比切換 opacity 與 text-shadow 做不規則閃爍；發光用 2–3 層不同半徑的 text-shadow；圓體或粗體字效果較好）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 188 · 合併 — Merge
+
+文字上下兩半分別從左右滑入，合成完整的字
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、轉場切換
+- 風格／關鍵字 Style: 合併 拼合 上下 切半 左右 滑入 Merge Split Halves Join Canva 風格 Canva Merge 合併 簡報 社群貼文 動畫
+- 標籤 Tag: clip-path
+- 範例文字 Example text: 「合而為一」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/text/188-merge.md](examples/text/188-merge.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「合併（Merge）」動態效果：標題被水平切成上下兩半：上半部從左側、下半部從右側同時滑入並淡入，在中間精準對齊合成完整的文字（約 0.9 秒、強烈減速），停留後淡出。（CSS：同一段文字放兩份，分別用 clip-path:inset(0 0 50% 0) 與 inset(50% 0 0 0) 只顯示上半與下半，各自用 translateX(∓35%) → 0 的 keyframes）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 189 · 展開 — Spread
+
+字疊在一起從模糊中往兩側展開成正常字距
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、強調重點
+- 風格／關鍵字 Style: 展開 字距 擴散 模糊 聚焦 Spread Letter Spacing Tracking Expand Canva 風格 Canva Spread 展開 簡報 社群貼文 動畫
+- 標籤 Tag: letter-spacing
+- 範例文字 Example text: 「展開」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/text/189-spread.md](examples/text/189-spread.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「展開（Spread）」動態效果：文字一開始字距極度緊縮、所有字疊在一起並且模糊透明，接著字距平滑展開到正常寬度，同時變清晰、淡入（約 1.1 秒、減速），像從中心散開成形；停留後淡出。（CSS：keyframes letter-spacing:-0.55em → 0.06em，搭配 filter:blur(6px)→0 與 opacity）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 190 · 滑行 — Skate
+
+文字像溜冰一樣斜著滑進來，煞車後擺正
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場、退場
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、轉場切換
+- 風格／關鍵字 Style: 滑行 溜冰 傾斜 煞車 速度感 Skate Skew Slide Brake Canva 風格 Canva Skate 滑行 簡報 社群貼文 動畫
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「滑行進場」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/text/190-skate.md](examples/text/190-skate.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「滑行（Skate）」動態效果：文字從左側高速滑入時整體往前傾斜（skewX 約 -28 度），抵達時稍微滑過頭並往反方向傾斜（像煞車時身體往後仰），接著擺正停住；離場時再加速往右滑出並重新前傾。有速度感與重量感。（CSS：keyframes 依序 translateX(-70%) skewX(-28deg) → translateX(4%) skewX(14deg) → skewX(-4deg) → none，離場段用加速曲線）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 274 · 穿越大字轉場 — Zoom Through Text
+
+巨大的標題隨捲動不斷放大，鏡頭像穿過字母進入下一個畫面
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 捲動效果、轉場切換、標題・Hero
+- 風格／關鍵字 Style: 放大 穿越 大字 鏡頭 轉場 Zoom Through Text Scale Scroll Transition 捲動觸發 ScrollTrigger
+- 標籤 Tag: ScrollTrigger
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/text/274-zoom-through-text.md](examples/text/274-zoom-through-text.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「穿越大字轉場（Zoom Through Text）」動態效果：一個巨大的英文標題（例如 ZOOM）在畫面中央，使用者往下捲動時標題開始放大，越捲放大越快（加速曲線），最後放大到數十倍，鏡頭像是穿過字母中間的空隙，畫面被字母填滿後轉成下一段內容（下一段在後方淡入並從 0.8 倍放大到 1 倍）。（GSAP ScrollTrigger scrub：sticky 區塊內 fromTo scale 1 → 38，ease power2.in，transform-origin 對準要穿過的字母空隙；下一段內容在進度 70% 後淡入）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 276 · 散落文字聚合 — Scattered Assemble
+
+散落在四處、翻轉縮放的字母，隨著捲動飛回原位組成標題
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 捲動效果、標題・Hero、Logo・品牌
+- 風格／關鍵字 Style: 散落 聚合 組合 字母 飛回 拼湊 Scattered Letters Assemble Scroll 捲動觸發 ScrollTrigger
+- 標籤 Tag: ScrollTrigger
+- 範例文字 Example text: 「ASSEMBLE」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/text/276-scattered-assemble.md](examples/text/276-scattered-assemble.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「散落文字聚合（Scattered Assemble）」動態效果：標題的每個字母一開始隨機散落在畫面各處，各自帶著不同的旋轉角度、縮放大小並且透明；使用者往下捲動時，字母以隨機順序依序飛回原本的位置、轉正、恢復大小與不透明度，組合成完整的標題；往回捲又會散開。（GSAP ScrollTrigger scrub：SplitText 拆字，timeline.from(字母, { x/y/rotation/scale 用函式回傳隨機值, opacity:0, stagger:{each:.02, from:"random"} })）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 279 · 模糊對焦 — Blur to Focus
+
+段落標題捲進畫面時由模糊變清楚，捲出時又慢慢糊掉
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 捲動效果、標題・Hero
+- 風格／關鍵字 Style: 模糊 對焦 清晰 blur 景深 捲動 Blur To Focus Scroll Depth 捲動觸發 ScrollTrigger
+- 標籤 Tag: ScrollTrigger
+- 範例文字 Example text: 「慢慢 看清楚 再離開」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/text/279-blur-to-focus.md](examples/text/279-blur-to-focus.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「模糊對焦（Blur to Focus）」動態效果：一段長頁面中的幾個大標題：每個標題從畫面下方捲進來時是模糊、透明、略小的，越接近畫面中央越清楚，在中央時完全清晰；繼續往上捲出畫面時又逐漸模糊、淡出並略微放大，像相機對焦掃過，引導視線停在目前的段落。（GSAP ScrollTrigger scrub：每個標題 start "top bottom"、end "bottom top"，timeline 先 fromTo filter blur(12px) → blur(0)、opacity 0 → 1、scale .92 → 1，再 to blur(12px)、opacity 0、scale 1.06）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 280 · 沿曲線跑的文字 — Text Along Path
+
+一行文字沿著彎曲的線條移動，捲動決定它跑到哪裡
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 捲動效果、背景裝飾、強調重點
+- 風格／關鍵字 Style: 曲線 路徑 文字 跑馬燈 textPath 波浪 捲動 Text On Path Curve Scroll 捲動觸發 ScrollTrigger
+- 標籤 Tag: SVG textPath
+- 範例文字 Example text: 「Follow the curve」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/text/280-text-along-path.md](examples/text/280-text-along-path.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「沿曲線跑的文字（Text Along Path）」動態效果：畫面中有一條橫跨的彎曲波浪線（淡淡的細線），一行文字貼著這條曲線排列；使用者往下捲動時，文字沿著曲線從右邊流向左邊，彎曲的地方文字跟著轉彎，捲動速度決定文字移動速度，往回捲則倒退。（SVG：<path id> + <text><textPath href="#id">；GSAP ScrollTrigger scrub tween textPath 的 startOffset 屬性從 100% → −100%）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 282 · 上下切開文字 — Split Text Hover
+
+滑過時標題沿水平中線切成上下兩半，往反方向錯開，中間露出一行小字
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、強調重點
+- 風格／關鍵字 Style: 切開 分割 上下 錯開 標題 clip-path Split Text Slice Hover Reveal hover 懸停 滑過
+- 標籤 Tag: clip-path
+- 範例文字 Example text: 「SPLIT」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/text/282-split-text-hover.md](examples/text/282-split-text-hover.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「上下切開文字（Split Text Hover）」動態效果：一個大標題，滑鼠滑過時沿著文字的水平中線被切成上下兩半：上半部往左上錯開、下半部往右下錯開（約 0.5 秒、緩入緩出），兩半之間裂開的縫隙中，一行小字（例如 OPEN）垂直展開淡入；滑開時兩半合回。（CSS：同一段文字疊兩層，一層 clip-path: inset(0 0 50% 0) 只露上半、另一層 inset(50% 0 0 0) 只露下半，:hover 時各自 transform 往反方向位移）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 283 · 字距展開 — Letter Spacing Expand
+
+滑過時字母間距慢慢拉開、字重變粗，像深呼吸一樣
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、強調重點
+- 風格／關鍵字 Style: 字距 拉開 字重 呼吸 選單 導覽 Letter Spacing Tracking Expand Weight Hover Menu hover 懸停 滑過
+- 標籤 Tag: letter-spacing
+- 範例文字 Example text: 「ABOUT WORK CONTACT」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/text/283-letter-spacing-expand.md](examples/text/283-letter-spacing-expand.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「字距展開（Letter Spacing Expand）」動態效果：導覽列或大型選單的文字：滑鼠滑過某個項目時，字母間距平滑地從 0 拉開到約 0.35em，字重從細變粗、文字變得更清楚，像深呼吸一樣展開；滑開時收回。約 0.5 秒、減速曲線。（CSS：transition letter-spacing 與 font-weight（使用可變字體效果最平順），:hover 改變數值）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 288 · 螢光筆劃記 — Highlighter Hover
+
+段落中的重點詞滑過時，背後像用螢光筆由左往右劃過一道
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 螢光筆 標記 劃重點 highlight 重點 Highlighter Marker Hover Emphasis Text hover 懸停 滑過
+- 標籤 Tag: background-size
+- 範例文字 Example text: 「好的 設計 是 讓人 一眼 看懂」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/text/288-highlighter-hover.md](examples/text/288-highlighter-hover.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「螢光筆劃記（Highlighter Hover）」動態效果：一段文字中的幾個重點詞，滑鼠滑過時，背後像用螢光筆從左往右快速劃過一道帶點斜角、略低於字中線的色塊，文字顏色同時反轉以保持可讀；滑開時色塊收回。約 0.55 秒。（CSS：mark 元素背景用 linear-gradient 畫出帶斜邊的色帶，background-size 從 0% 過渡到 100%，background-position 偏下讓它像手劃的螢光筆）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 290 · 連結預覽卡 — Link Preview Popover
+
+滑過文章中的連結時，上方彈出一張小卡，預覽連結頁面的圖片與標題
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 連結 預覽 彈出 小卡 popover tooltip 超連結 Link Preview Hover Card Wiki hover 懸停 滑過
+- 標籤 Tag: :has()
+- 範例文字 Example text: 「Hannah」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/text/290-link-preview-popover.md](examples/text/290-link-preview-popover.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「連結預覽卡（Link Preview Popover）」動態效果：文章段落中的一個帶底線的連結：滑鼠滑過（或鍵盤聚焦）時，連結正上方以小彈性彈出一張預覽小卡，卡片內有連結頁面的縮圖、標題與網址，從略小、略低、透明的狀態放大上移出現；滑開時縮回淡出。適合部落格、維基或作品集的外部連結。（CSS：預覽卡絕對定位在連結上方 transform-origin 底部中央，scale .9 + translateY → none，transition 用 cubic-bezier(.3,1.4,.5,1)；用 :has(a:hover) 或 :focus-within 觸發）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 292 · 手寫描繪 — Handwriting Draw
+
+文字的筆畫像用筆一筆一筆寫出來，寫完後填滿
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場、循環待機
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero、Logo・品牌
+- 風格／關鍵字 Style: 手寫 簽名 筆畫 描繪 書寫 Handwriting Signature Stroke Draw Text SVG 文字 標題 動態文字
+- 標籤 Tag: stroke-dashoffset
+- 範例文字 Example text: 「Thank you」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/text/292-handwriting-draw.md](examples/text/292-handwriting-draw.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「手寫描繪（Handwriting Draw）」動態效果：一段文字（例如簽名或 Thank you）用手寫風格字體呈現，一開始只看到空白，接著文字的輪廓筆畫沿著字形一筆一筆被描繪出來（約 2.4 秒），像有人正在用筆書寫；筆畫描完後，字的內部再淡入填滿。（SVG：<text> 設 stroke 與 fill；用 stroke-dasharray 等於大於路徑總長的值，stroke-dashoffset 從總長補間到 0；描完後 fill-opacity 0 → 1。若要更精準可把文字轉成 path 再用 DrawSVG）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 293 · 字重波浪 — Weight Wave
+
+每個字的粗細輪流變化，像一道波浪從左掃到右
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、強調重點
+- 風格／關鍵字 Style: 字重 粗細 可變字體 波浪 呼吸 Variable Font Weight Wave Breathing 文字 標題 動態文字
+- 標籤 Tag: variable font
+- 範例文字 Example text: 「WEIGHT」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/text/293-weight-wave.md](examples/text/293-weight-wave.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「字重波浪（Weight Wave）」動態效果：標題的每個字的字重在最細與最粗之間來回變化，相鄰的字依序延遲，看起來像一道粗細的波浪從左往右不斷掃過，最粗的時候字同時變成強調色。（CSS：使用支援可變字重的字體，每個字拆成獨立元素，共用一個 keyframes 在 font-weight 100 ↔ 900 之間變化，animation-delay 依索引遞增）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 294 · 光源投影字 — Light Source Shadow
+
+游標像一盞燈，文字的長陰影永遠朝游標的反方向延伸
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、強調重點
+- 風格／關鍵字 Style: 光源 投影 陰影 長陰影 立體 游標 Light Source Long Shadow Cursor 3D Text 文字 標題 動態文字
+- 標籤 Tag: text-shadow
+- 範例文字 Example text: 「SHADOW」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/text/294-light-source-shadow.md](examples/text/294-light-source-shadow.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「光源投影字（Light Source Shadow）」動態效果：區塊中有一個大標題，游標位置是一顆發光的小光源：文字背後有一道由多層陰影組成的長陰影，陰影永遠朝「遠離游標」的方向延伸，越遠的層顏色越淡；游標移動時陰影方向即時跟著轉動，像光源在繞著文字移動。（JS：mousemove 計算游標相對於文字中心的方向向量，產生 18 層 text-shadow，每層偏移 = 方向 × 層數，顏色依層數逐漸變淡）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 295 · 圖片填字 — Image Filled Text
+
+大字裡面填的是一張風景圖片，圖片在字裡緩慢平移縮放
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 圖片 填字 鏤空 背景 文字遮罩 Image Text Background Clip Knockout Mask 文字 標題 動態文字
+- 標籤 Tag: background-clip
+- 範例文字 Example text: 「WILD」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/text/295-image-filled-text.md](examples/text/295-image-filled-text.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「圖片填字（Image Filled Text）」動態效果：一個超大、超粗的英文標題，字的內部填滿一張風景照片（字以外的地方看不到圖片），照片在字裡面緩慢地平移並微微放大，約 9 秒來回一次，像透過文字形狀的窗戶看風景；字外緣有一條極淡的細描邊。（CSS：color:transparent + background-image + background-clip:text，keyframes 改變 background-position 與 background-size）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 296 · 逐字模糊浮現 — Blur In Letters
+
+每個字從模糊、略大的狀態依序變清楚並落定
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 模糊 浮現 逐字 柔和 進場 Blur In Letters Soft Reveal Stagger 文字 標題 動態文字
+- 標籤 Tag: SplitText
+- 範例文字 Example text: 「慢慢浮現」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/text/296-blur-in-letters.md](examples/text/296-blur-in-letters.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「逐字模糊浮現（Blur In Letters）」動態效果：標題的每個字依序從「模糊、透明、略大、略低」的狀態變成清楚並落到定位，每個字間隔約 0.07 秒，整體柔和、有質感；停留一段時間後依序模糊淡出再重播。（GSAP + SplitText：fromTo 字元 {opacity:0, filter:"blur(10px)", y:".25em", scale:1.15} → {opacity:1, filter:"blur(0px)", y:0, scale:1}，ease power2.out、stagger 0.07）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 297 · 劃掉改寫 — Strike & Rewrite
+
+一個詞被一筆劃掉，上面再用手寫字一個字一個字寫出新的詞
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 強調重點、標題・Hero
+- 風格／關鍵字 Style: 劃掉 刪除線 改寫 修正 手寫 文案 Strikethrough Rewrite Correction Copywriting 文字 標題 動態文字
+- 標籤 Tag: GSAP timeline
+- 範例文字 Example text: 「便宜 實惠」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/text/297-strike-rewrite.md](examples/text/297-strike-rewrite.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「劃掉改寫（Strike & Rewrite）」動態效果：文案中原本的一個詞（例如「便宜」），先被一條略微傾斜的粗線從左到右一筆劃掉，原詞變淡；接著在它下方用手寫風格的字體、以強調色一個字一個字彈出新的詞（例如「實惠」），像有人親手修改文案，用來強調更好的說法。（GSAP timeline：刪除線元素 scaleX 0 → 1、transform-origin:left；原詞 opacity 降到 0.4；新詞用 SplitText 拆字，依序從下方 back.out 彈出）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 298 · 聊天訊息出現 — Chat Message Pop
+
+對方先出現「輸入中」的三個點，接著變成訊息，再彈出你的回覆
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 進場、循環待機
+- 技術 Tech: GSAP
+- 情境 Uses: App 介面、介面互動
+- 風格／關鍵字 Style: 聊天 訊息 對話框 泡泡 輸入中 打字中 客服 Chat Bubble Typing Indicator Message Pop 文字 標題 動態文字
+- 標籤 Tag: GSAP timeline
+- 範例文字 Example text: 「有的！歡迎詢問 😊」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/text/298-chat-message-pop.md](examples/text/298-chat-message-pop.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「聊天訊息出現（Chat Message Pop）」動態效果：模擬聊天介面：左側先出現對方的對話泡泡，裡面是三個依序上下跳動的點（輸入中…），約 1.4 秒後泡泡變成一則訊息（例如「在嗎？想問一下～」）並輕彈一下；接著右側以強調色彈出你的回覆泡泡（從右下角放大出現）；停留後一起上移淡出，再重新開始。（GSAP timeline：泡泡 scale 0 → 1、transform-origin 設在泡泡尾巴的角落、ease back.out；三個點用 CSS keyframes 錯開 animation-delay）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 299 · 殘影堆疊 — Echo Stack
+
+文字後面疊著好幾層空心的複製，依序往斜後方展開再收回
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、強調重點
+- 風格／關鍵字 Style: 殘影 堆疊 複製 空心 立體 迴聲 Echo Stack Outline Layers Repeat Text 文字 標題 動態文字
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「ECHO」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/text/299-echo-stack.md](examples/text/299-echo-stack.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「殘影堆疊（Echo Stack）」動態效果：一個粗體大標題，後面疊著 5 層同樣文字的空心描邊複製，每層描邊越後面越淡；動畫時這些複製層依序（每層延遲約 0.06 秒）往右上方斜向展開，形成像回聲或立體階梯的殘影，停留一下再收回到與原字重疊，來回循環。（CSS：多個 span 疊在同一格 grid，用 CSS 變數 --i 計算 translate 距離、描邊透明度與 animation-delay；-webkit-text-stroke 做空心字）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 301 · 多語問候切換 — Multilingual Greeting
+
+不同語言的「你好」輪流出現，模糊淡入淡出，外框寬度平滑跟著變
+
+- 元件 Component: 文字 (`text`)
+- 時機 Timing: 切換、循環待機
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 多語 問候 你好 Hello 切換 國際 Multilingual Greeting Hello Languages Rotate 文字 標題 動態文字
+- 標籤 Tag: GSAP
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/text/301-multilingual-greeting.md](examples/text/301-multilingual-greeting.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「多語問候切換（Multilingual Greeting）」動態效果：Hero 標題位置輪流顯示不同語言的「你好」（Hello、你好、こんにちは、Bonjour、Hola、안녕하세요、Ciao），每隔約 1.6 秒切換：舊的詞往上模糊淡出，新的詞從下方模糊淡入變清楚；因為每個詞長度不同，包住文字的容器寬度會平滑地縮放到新詞的寬度，讓後面跟著的小圓點也平滑移動，而不是瞬間跳動。（GSAP：先量出新詞的寬度（隱藏的量測元素），容器 width tween 到新寬度 power3.inOut；文字 opacity、filter:blur、y 做淡出淡入）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+## 按鈕 (button) — 21
+
+### 095 · 磁吸按鈕 — Magnetic Button
+
+按鈕被游標吸過去並彈回
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 
+- 標籤 Tag: quickTo・Elastic
+- 範例文字 Example text: 「按我」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/button/095-magnetic-button.md](examples/button/095-magnetic-button.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「磁吸按鈕（Magnetic Button）」動態效果：游標靠近按鈕時，按鈕被吸向游標方向，按鈕內文字移動得更少形成層次，同時切換成強調色；離開時帶彈性回到原位。（GSAP：gsap.quickTo 控制 x/y，ease elastic.out(1,0.4)）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 102 · 文字翻滾按鈕 — Rolling Text Button
+
+hover 時字逐一往上翻滾、按鈕反轉、箭頭轉向
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、強調重點
+- 風格／關鍵字 Style: 按鈕 hover 懸停 文字翻滾 Roll Text Button Hover Stagger CTA
+- 標籤 Tag: CSS hover
+- 範例文字 Example text: 「查看作品」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/button/102-rolling-text-button.md](examples/button/102-rolling-text-button.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「文字翻滾按鈕（Rolling Text Button）」動態效果：膠囊形按鈕，左邊文字、右邊一顆圓形箭頭。滑鼠移上去時，按鈕文字的每個字依序往上翻滾（每字延遲約 0.035 秒），下方一模一樣的文字從底下補上來；同時按鈕底色與文字色互換成強調配色，右側圓圈也跟著反轉配色，並把箭頭轉成往右上 45 度；滑鼠離開時全部反向翻回。整體約 0.55 秒、緩入緩出（cubic-bezier(.7,0,.2,1)）。（CSS：每個字包 span，用 ::after{content:attr(data-t);top:100%} 做第二份文字，外層 overflow:hidden，:hover 時 translateY(-100%)，transition-delay 用 calc(var(--i)*.035s) 做逐字錯開）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 103 · 游標擴散填滿按鈕 — Direction-aware Fill Button
+
+從滑鼠進入的位置擴散填滿，離開時往出口收回
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、強調重點
+- 風格／關鍵字 Style: 按鈕 hover 方向感知 擴散 填色 漣漪 從滑鼠位置 Direction Aware Hover Fill Ripple Button CTA
+- 標籤 Tag: CSS + JS
+- 範例文字 Example text: 「立即聯絡」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/button/103-direction-aware-fill-button.md](examples/button/103-direction-aware-fill-button.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「游標擴散填滿按鈕（Direction-aware Fill Button）」動態效果：描邊膠囊按鈕。滑鼠移入時，一個強調色圓形從「游標進入按鈕的那一點」開始放大，擴散到填滿整顆按鈕，文字顏色同時切換成與填色有反差的顏色；滑鼠移出時，圓形改以「游標離開的那一點」為中心縮小消失，所以從哪邊出去、顏色就往哪邊收。約 0.55 秒、緩入緩出。（做法：按鈕 overflow:hidden；pointerenter / pointerleave 時用 getBoundingClientRect 算出游標在按鈕內的座標，寫進 CSS 變數 --x、--y，圓的直徑取「到最遠角距離 × 2」確保蓋滿；圓用 transform:scale(0→1) 做 transition）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 109 · 光澤掃過按鈕 — Shine Sweep Button
+
+一道斜向光澤定時掃過按鈕，hover 時加快並浮起
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 懸停・點擊、循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、強調重點
+- 風格／關鍵字 Style: 按鈕 光澤 反光 掃光 閃光 Shine Sweep Glint Shimmer Button CTA
+- 標籤 Tag: CSS hover
+- 範例文字 Example text: 「立即購買」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/button/109-shine-sweep-button.md](examples/button/109-shine-sweep-button.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「光澤掃過按鈕（Shine Sweep Button）」動態效果：實心按鈕上有一道斜向的半透明亮光，每隔約 2.4 秒從左往右快速掃過一次，像金屬或玻璃的反光；滑鼠移上去時光澤掃得更快，按鈕同時微微上浮、陰影加深。（CSS：按鈕 overflow:hidden，::after 做一條 skewX(-20deg) 的漸層亮帶，用 keyframes 改變 left 位置；:hover 縮短 animation-duration 並加 translateY）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 110 · 旋轉光邊按鈕 — Rotating Gradient Border
+
+按鈕外框的漸層光持續繞圈旋轉，帶柔和外光
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 循環待機、懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、強調重點
+- 風格／關鍵字 Style: 按鈕 邊框 漸層 旋轉 發光 Glow Border Conic Gradient Animated Border Button
+- 標籤 Tag: @property
+- 範例文字 Example text: 「開始使用」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/button/110-rotating-gradient-border.md](examples/button/110-rotating-gradient-border.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「旋轉光邊按鈕（Rotating Gradient Border）」動態效果：膠囊按鈕的外框是一圈多色漸層光，漸層持續沿著外框繞圈旋轉（約 3 秒一圈），外框後方帶一層模糊的柔光；按鈕內部是實心底與文字；滑鼠移上去時旋轉加快。（CSS：@property 註冊 --ang 角度變數，背景用 conic-gradient(from var(--ang))，keyframes 把 --ang 轉到 360deg；內層 span 蓋住中間只露出外框；::before 複製背景並 blur 做外光）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 111 · 愛心按讚爆開 — Like Burst
+
+點擊愛心時彈跳放大，周圍噴出小圓點與光圈
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 懸停・點擊、進場
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 按鈕 按讚 喜歡 愛心 點擊 回饋 微互動 Like Heart Burst Micro-interaction Twitter
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「喜歡」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/button/111-like-burst.md](examples/button/111-like-burst.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「愛心按讚爆開（Like Burst）」動態效果：點擊「喜歡」按鈕時，空心愛心瞬間填滿並從小彈跳放大，同時從愛心周圍往外噴出 8 顆小圓點、擴散一圈光環後消失，旁邊的數字 +1；再點一次取消，愛心變回空心、數字 −1。整段約 0.5 秒，有彈性回饋感。（CSS：切換 .on class；愛心用 scale 彈跳 keyframes，小圓點用 rotate(var(--r)) translateY 向外飛並縮小淡出，光環用 scale + opacity；重播前先移除 class 並觸發 reflow）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 130 · 行動按鈕提示 — Gentle CTA Cue
+
+內容出現後，按鈕外圍輕輕擴散光暈，把視線帶到按鈕
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 強調重點、介面互動
+- 風格／關鍵字 Style: CTA 行動呼籲 按鈕 提示 光暈 擴散 注意力 溫和 柔和 輕柔 引導 動線 視線 閱讀順序 低調 Subtle Gentle Soft Entrance Visual Flow Hierarchy
+- 標籤 Tag: CTA cue
+- 範例文字 Example text: 「免費試用」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/button/130-gentle-cta-cue.md](examples/button/130-gentle-cta-cue.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「行動按鈕提示（Gentle CTA Cue）」動態效果：內容區塊（標題、兩行內文、按鈕）先依序柔和地淡入上浮；全部出現後約 0.3 秒，行動按鈕外圍輕輕擴散出一圈半透明光暈並淡掉，連續兩次，同時按鈕微微上浮 3px 再回原位，像是溫和地提醒「下一步在這裡」，之後保持靜止，不持續閃爍。（GSAP：先 stagger 淡入，再用 tween CSS 變數 --ring 0→1 控制 ::after 的 box-shadow 擴散與透明度，repeat:1；整段只播放一次）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 146 · 按鈕載入成功 — Loading Button
+
+按下後按鈕縮成圓形轉圈，完成時打勾再恢復
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 懸停・點擊、切換
+- 技術 Tech: GSAP
+- 情境 Uses: App 介面、介面互動
+- 風格／關鍵字 Style: 按鈕 載入 送出 轉圈 成功 打勾 狀態 Loading Button Submit Spinner Success Morph App 手機 行動裝置 微互動 Mobile App Micro-interaction
+- 標籤 Tag: Loading state
+- 範例文字 Example text: 「送出訂單」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/button/146-loading-button.md](examples/button/146-loading-button.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「按鈕載入成功（Loading Button）」動態效果：點擊「送出」按鈕時，按鈕先輕輕按下（縮到 95%），文字淡出，按鈕寬度收縮成一個圓形（約 0.4 秒），圓形中出現旋轉的載入圈；完成後載入圈消失，換成一個被畫出來的打勾，按鈕輕彈一下；停留約 0.8 秒後再展開回原本寬度、文字淡入。防止重複點擊，也讓使用者清楚知道狀態。（GSAP：timeline 依序 tween width、spinner rotation、DrawSVG 打勾；寬度用固定單位做 fromTo）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 166 · Dock 放大選單 — Dock Magnify
+
+游標掃過一排圖示時，靠近的圖示放大並推開鄰居
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: Dock 放大 圖示 選單 macOS 工具列 magnify icons toolbar hover 懸停 滑鼠移入 滑過 互動
+- 標籤 Tag: CSS + JS
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/button/166-dock-magnify.md](examples/button/166-dock-magnify.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「Dock 放大選單（Dock Magnify）」動態效果：像 macOS Dock 的一排圓角圖示：游標在圖示列附近左右移動時，最靠近游標的圖示放大到約 1.9 倍，左右鄰近的圖示依距離遞減地跟著放大，形成平滑的放大波峰，並把其他圖示往兩側推開；游標離開時全部恢復原尺寸。（做法：mousemove 時計算每個圖示中心與游標的水平距離，scale = 1 + 0.9 × max(0, 1 − 距離/影響範圍)，寫入 CSS 變數控制 width / height，讓排版自然推開；加短 transition 讓變化順滑）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 171 · 邊框描繪按鈕 — Border Draw Button
+
+滑過按鈕時，四條邊框依序畫出圍住按鈕
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、強調重點
+- 風格／關鍵字 Style: 按鈕 邊框 描邊 線條 畫出 border draw outline button hover hover 懸停 滑鼠移入 滑過 互動
+- 標籤 Tag: CSS transition
+- 範例文字 Example text: 「了解更多」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/button/171-border-draw-button.md](examples/button/171-border-draw-button.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「邊框描繪按鈕（Border Draw Button）」動態效果：平時只有很淡細框的按鈕，滑鼠移入時，強調色的邊框從左上角開始依序畫出：上邊往右 → 右邊往下 → 下邊往左 → 左邊往上，每段約 0.18 秒，接起來把按鈕圍住，畫完後文字也換成強調色；滑鼠移出時以相反順序收回。（CSS：四個絕對定位的線條元素，各自用 scaleX / scaleY 搭配不同 transform-origin；用 transition-delay 安排順序，hover 與非 hover 狀態的 delay 相反）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 232 · 立體按壓按鈕 — 3D Press Button
+
+按鈕下方有一層厚度，按下時整顆往下壓、厚度消失，像實體按鍵
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 立體 按壓 實體 按鍵 3D Pressable Button Push Tactile 遊戲 按鈕
+- 標籤 Tag: CSS :active
+- 範例文字 Example text: 「立即開始」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/button/232-3d-press-button.md](examples/button/232-3d-press-button.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「立體按壓按鈕（3D Press Button）」動態效果：實體按鍵感的按鈕：按鈕本體下方有一層同色系但較深的「厚度」（用不模糊的下方陰影做出），外圍再有一層柔和投影；滑鼠滑過時按鈕微微浮起、厚度增加；按下時整顆往下壓到幾乎貼平、厚度與投影縮小，放開彈回。約 0.12 秒、反應俐落。（CSS：box-shadow: 0 6px 0 較深色, 0 10px 20px 半透明；:active 時 translateY(5px) 並把第一層陰影縮成 1px）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 233 · 果凍彈跳按鈕 — Jelly Button
+
+滑過或點擊時按鈕像果凍一樣被壓扁、拉長再彈回
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、強調重點、App 介面
+- 風格／關鍵字 Style: 果凍 彈跳 Q彈 壓扁 拉長 Jelly Rubber Squash Stretch Bounce Button 按鈕
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「點我試試」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/button/233-jelly-button.md](examples/button/233-jelly-button.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「果凍彈跳按鈕（Jelly Button）」動態效果：滑鼠滑過或點擊時，按鈕像果凍一樣先被橫向壓扁（寬 1.18、高 0.82），再縱向拉長（寬 0.85、高 1.15），之後幅度遞減地來回晃動幾次回到原狀，整段約 0.7 秒，Q 彈可愛。（CSS keyframes：依序 scale(1.18,.82) → (.85,1.15) → (1.08,.92) → (.97,1.03) → (1,1)；點擊觸發時先移除 class、強制 reflow 再加回，才能重播）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 234 · 按鈕漣漪回饋 — Ripple Click
+
+從手指點下的位置擴散出一圈漣漪，Material Design 經典回饋
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 漣漪 水波 點擊 回饋 Material Design Ripple Click Feedback Ink 按鈕
+- 標籤 Tag: JS + CSS
+- 範例文字 Example text: 「送出表單」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/button/234-ripple-click.md](examples/button/234-ripple-click.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「按鈕漣漪回饋（Ripple Click）」動態效果：點擊按鈕時，從手指（游標）按下的那個點擴散出一個圓形漣漪，漣漪半透明、由小放大到能蓋住整顆按鈕的大小並同時淡出，約 0.7 秒；連續點擊可同時出現多個漣漪。（JS：pointerdown 時計算點擊位置與到最遠角落的距離 × 2 當直徑，插入一個圓形 span，CSS keyframes scale 0→1、opacity 漸消，animationend 時移除；按鈕 overflow:hidden）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 235 · 滑動確認 — Slide to Confirm
+
+拖曳圓鈕滑到底才確認，未到底會彈回，文字有流光提示
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 拖曳手勢
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 滑動 確認 解鎖 付款 拖曳 Slide To Unlock Confirm Swipe Button Payment 按鈕
+- 標籤 Tag: Draggable
+- 範例文字 Example text: 「滑動以付款」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/button/235-slide-to-confirm.md](examples/button/235-slide-to-confirm.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「滑動確認（Slide to Confirm）」動態效果：膠囊形滑軌，左側是一顆圓形把手（內有向右箭頭），中間的提示文字有一道光從左往右掃過；使用者拖曳把手時，把手經過的軌道被填滿、提示文字逐漸淡出；拖到接近最右側放開才算確認，軌道整個填滿、文字變成「完成 ✓」；未拖到底放開時把手帶彈性彈回起點。（GSAP Draggable type:"x"、bounds 限制在軌道內，onDrag 更新填滿寬度，onRelease 判斷是否超過 85%；流光用 background-clip:text 加移動的漸層）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 236 · 長按確認 — Hold to Confirm
+
+按住不放時進度慢慢填滿，放開就退回，填滿才執行，適合刪除等危險操作
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 長按 按住 確認 刪除 危險操作 進度 Hold To Confirm Long Press Delete Destructive 按鈕
+- 標籤 Tag: CSS transition
+- 範例文字 Example text: 「按住刪除」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/button/236-hold-to-confirm.md](examples/button/236-hold-to-confirm.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「長按確認（Hold to Confirm）」動態效果：危險操作（例如刪除）用的按鈕：外框樣式，使用者按住不放時，一層填滿從左往右以約 1.2 秒等速填滿整顆按鈕、按鈕微微縮小；中途放開則填滿快速退回、不執行；填滿後按鈕輕微彈一下、文字變成「已刪除 ✓」。可避免誤觸。（CSS：填滿層 transform:scaleX(0)，按住時加 class 改成 scaleX(1) 並設 transition 1.2s linear，放開時移除 class 用較短的 transition 退回；JS 在 pointerdown 開 1.2 秒計時器，pointerup / pointerleave 取消）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 237 · 箭頭接力按鈕 — Icon Slide Button
+
+滑過時右側箭頭往右滑出，同時新箭頭從左側滑入、文字讓位
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、強調重點
+- 風格／關鍵字 Style: 箭頭 圖示 滑入 滑出 接力 Icon Slide Arrow Button Hover CTA 按鈕
+- 標籤 Tag: CSS hover
+- 範例文字 Example text: 「了解更多」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/button/237-icon-slide-button.md](examples/button/237-icon-slide-button.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「箭頭接力按鈕（Icon Slide Button）」動態效果：膠囊按鈕，文字右側有一個向右箭頭；滑鼠滑過時，右側箭頭往右滑出按鈕並淡出，同時另一個相同的箭頭從按鈕左側外滑入到文字左邊，文字同步往右讓出位置，像箭頭接力往前推；滑開時反向回復。約 0.4 秒、緩入緩出。（CSS：按鈕 overflow:hidden，兩個箭頭與文字各自設定 transform 與 transition，hover 時切換位移）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 238 · 霓虹呼吸按鈕 — Neon Glow Button
+
+外框與光暈像呼吸般忽明忽暗，滑過時填滿並大量發光
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 循環待機、懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、強調重點、標題・Hero
+- 風格／關鍵字 Style: 霓虹 發光 光暈 呼吸 Neon Glow Pulse Button Cyberpunk 按鈕
+- 標籤 Tag: box-shadow
+- 範例文字 Example text: 「加入我們」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/button/238-neon-glow-button.md](examples/button/238-neon-glow-button.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「霓虹呼吸按鈕（Neon Glow Button）」動態效果：霓虹風格按鈕：外框細線與文字使用強調色，周圍有一圈柔和的外發光與內發光，光暈以約 2.4 秒的週期像呼吸般變亮又變暗；滑鼠滑過時整顆填滿、文字反白，並散發出多層大範圍的強烈光暈。（CSS：多層 box-shadow（含 inset）做發光，keyframes 改變光暈大小與透明度；hover 時停止呼吸動畫、改成更大的多層 box-shadow，transition 0.35 秒）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 239 · 複製成功回饋 — Copy Feedback
+
+按下複製後圖示旋轉變成打勾，上方彈出「已複製」小提示
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 複製 剪貼簿 打勾 提示 tooltip 回饋 Copy To Clipboard Feedback Check Code 按鈕
+- 標籤 Tag: CSS transition
+- 範例文字 Example text: 「npm i gsap」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/button/239-copy-feedback.md](examples/button/239-copy-feedback.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「複製成功回饋（Copy Feedback）」動態效果：一行程式碼（或文字）旁邊的複製按鈕：按下後，複製圖示旋轉縮小消失，打勾圖示帶彈性放大出現，按鈕底色變成強調色；同時按鈕上方彈出一個「已複製」的小提示框，約 1.5 秒後全部恢復原狀。（CSS：兩個 SVG 圖示疊在同一格，用 class 切換 transform 與 opacity，transition 用帶回彈的 cubic-bezier(.3,1.5,.5,1)；提示框用絕對定位在按鈕上方；JS 呼叫 navigator.clipboard.writeText 後加 class、setTimeout 移除）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 240 · 展開文字按鈕 — Expanding Button
+
+平常只有圓形「+」圖示，滑過時向右展開出文字、加號旋轉
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 展開 浮動按鈕 FAB 加號 圖示按鈕 Expanding Icon Button Floating Action Reveal Label 按鈕
+- 標籤 Tag: CSS max-width
+- 範例文字 Example text: 「新增專案」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/button/240-expanding-button.md](examples/button/240-expanding-button.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「展開文字按鈕（Expanding Button）」動態效果：浮動操作按鈕平常是一顆只有「+」的圓形，滑鼠滑過時按鈕向右平滑展開成膠囊形，露出文字標籤（例如「新增專案」），加號同時旋轉 90 度；文字在展開一半後才淡入；滑開時收回成圓形。約 0.5 秒。（CSS：按鈕 overflow:hidden，用 max-width 從圓的寬度過渡到較大值，文字 opacity 加 transition-delay；加號 rotate(90deg)）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 241 · 紙飛機送出 — Send Plane Button
+
+按下送出，紙飛機從按鈕飛走，文字換成「已送出」再恢復
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 懸停・點擊、切換
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 送出 紙飛機 寄出 訊息 表單 成功 Send Paper Plane Submit Button Success 按鈕
+- 標籤 Tag: GSAP timeline
+- 範例文字 Example text: 「送出訊息」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/button/241-send-plane-button.md](examples/button/241-send-plane-button.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「紙飛機送出（Send Plane Button）」動態效果：送出按鈕左側有一個紙飛機圖示：按下時按鈕先輕壓回彈，文字往右淡出，紙飛機先往後蓄力再往右上方加速飛出按鈕並消失；接著文字換成「已送出」從左滑入；約 1 秒後文字換回原本內容，紙飛機從左下方飛回原位。（GSAP timeline：按鈕 scale 0.94→1、文字 x 與 opacity、紙飛機 keyframes 往右上 x/y/rotation 以 power2.in 加速，再用 add() 切換文字內容；按鈕 overflow:hidden 讓飛機飛出時被裁切）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 287 · 社群圖示填滿 — Social Icon Fill
+
+圓形社群圖示滑過時底色從下往上填滿，圖示往上換成另一個、按鈕微微浮起
+
+- 元件 Component: 按鈕 (`button`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 社群 圖示 icon 填滿 頁尾 IG Threads Social Icon Fill Hover Footer hover 懸停 滑過
+- 標籤 Tag: CSS hover
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/button/287-social-icon-fill.md](examples/button/287-social-icon-fill.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「社群圖示填滿（Social Icon Fill）」動態效果：頁尾的一排圓形社群圖示（外框細線、中間是線條圖示）：滑鼠滑過某個圖示時，實心底色從圓形底部往上升起填滿，原本的圖示往上滑出，同一個圖示的反色版本從下方滑入取代，整顆按鈕微微往上浮起；滑開時反向回復。約 0.45 秒。（CSS：圓形 overflow:hidden，底色層 translateY(101%) → 0；兩個圖示疊在同一格，一個往上移出、一個從下方移入）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+## 表單・控制項 (control) — 17
+
+### 141 · 開關切換 — Toggle Switch
+
+圓鈕滑到另一側時略微拉長，軌道跟著切換狀態
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 懸停・點擊、切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 開關 切換 switch toggle 設定 iOS 圓鈕 App 手機 行動裝置 微互動 Mobile App Micro-interaction
+- 標籤 Tag: CSS switch
+- 範例文字 Example text: 「通知提醒」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/control/141-toggle-switch.md](examples/control/141-toggle-switch.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「開關切換（Toggle Switch）」動態效果：App 設定頁的開關：點擊時圓鈕從一側滑到另一側，滑動過程中圓鈕會先橫向拉長再縮回（像有彈性的果凍），抵達時略微過衝後定位；軌道同時切換成開啟狀態的強調色，關閉時回到低對比的狀態。約 0.35 秒。（CSS：button role="switch"，圓鈕用 left 的 transition 搭配 cubic-bezier(.5,1.4,.5,1) 做過衝，另用 keyframes 在 50% 時加寬；記得更新 aria-checked）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 147 · 數量步進器 — Number Stepper
+
+按加減時按鈕回饋，數字往上或往下滾動切換
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 懸停・點擊、切換
+- 技術 Tech: CSS
+- 情境 Uses: App 介面、介面互動、數字資訊
+- 風格／關鍵字 Style: 數量 加減 步進器 購物車 計數 Stepper Counter Quantity Plus Minus Cart App 手機 行動裝置 微互動 Mobile App Micro-interaction
+- 標籤 Tag: Stepper
+- 範例文字 Example text: 「數量」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/control/147-number-stepper.md](examples/control/147-number-stepper.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「數量步進器（Number Stepper）」動態效果：購物車的數量選擇器：左右是減號與加號圓形按鈕，中間是數字；按下按鈕時按鈕縮小並切換成強調色作為回饋，數字依方向滾動切換——加的時候舊數字往上滑出、新數字從下方滑入，減的時候方向相反，約 0.3 秒；到達上下限時數字不再變化。（CSS：數字容器 overflow:hidden，新舊數字各用 keyframes translateY ±100% 進出，結束後移除舊元素）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 148 · 輸入框浮動標籤 — Floating Label Input
+
+點進輸入框時，提示文字縮小浮到上方，底線從中間展開
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 懸停・點擊、進場
+- 技術 Tech: CSS
+- 情境 Uses: App 介面、介面互動
+- 風格／關鍵字 Style: 輸入框 表單 標籤 浮動 聚焦 Floating Label Input Focus Form Material App 手機 行動裝置 微互動 Mobile App Micro-interaction
+- 標籤 Tag: Floating label
+- 範例文字 Example text: 「電子郵件」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/control/148-floating-label-input.md](examples/control/148-floating-label-input.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「輸入框浮動標籤（Floating Label Input）」動態效果：表單輸入框平常只顯示一個像 placeholder 的提示標籤；點進去（focus）時，標籤縮小並往上浮到輸入框上方，同時底線從中央往兩側展開成強調色，游標開始閃爍；輸入內容後離開，標籤會保持在上方的小字狀態，清空時才回到原位。約 0.3–0.4 秒、減速。（CSS：label 絕對定位，用 :focus-within 或 :not(:placeholder-shown) 改變 top 與 font-size；底線用 transform:scaleX(0→1)）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 149 · 星星評分 — Star Rating
+
+點選評分時，星星由左到右依序點亮並彈跳
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: App 介面、介面互動
+- 風格／關鍵字 Style: 評分 星星 評價 回饋 Rating Stars Review Feedback App 手機 行動裝置 微互動 Mobile App Micro-interaction
+- 標籤 Tag: Rating
+- 範例文字 Example text: 「幫這次體驗評分」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/control/149-star-rating.md](examples/control/149-star-rating.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「星星評分（Star Rating）」動態效果：五顆空心星星，使用者點選第 N 顆時，第 1 到第 N 顆從左到右依序填滿並各自從小彈跳放大（每顆間隔約 0.08 秒），其餘維持空心；下方同步顯示對應的文字回饋（例如「很好」「超讚！」）。點選較少的星數時，多出來的星星變回空心。（CSS：切換 .on 填色與 .pop 彈跳 keyframes，用 setTimeout 或 transition-delay 依索引錯開；每顆星是 button 並附 aria-label）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 151 · 錯誤震動提示 — Shake on Error
+
+輸入錯誤時欄位左右震動，下方滑出錯誤訊息
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: App 介面、介面互動
+- 風格／關鍵字 Style: 錯誤 震動 搖晃 驗證 密碼 登入 表單 Shake Error Validation Wrong Password Login App 手機 行動裝置 微互動 Mobile App Micro-interaction
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「密碼錯誤，請再試一次」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/control/151-shake-on-error.md](examples/control/151-shake-on-error.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「錯誤震動提示（Shake on Error）」動態效果：登入時密碼錯誤，輸入框左右快速震動幾下（像搖頭說不，約 0.45 秒，幅度由小到大再變小），邊框同時切換成錯誤提示色，下方的錯誤訊息從上方 4px 淡入滑出；修正輸入後邊框與訊息恢復。（CSS：keyframes 以 translateX 做 10%–90% 的左右來回，cubic-bezier(.36,.07,.19,.97)；重播前先移除 class 並觸發 reflow；可搭配手機震動 navigator.vibrate）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 169 · 提示框彈出 — Tooltip Pop
+
+滑過圖示時，提示框從下方帶彈性彈出
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 提示框 tooltip 說明 小提示 氣泡 popover hover hint hover 懸停 滑鼠移入 滑過 互動
+- 標籤 Tag: CSS hover
+- 範例文字 Example text: 「說明 資訊 分享」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/control/169-tooltip-pop.md](examples/control/169-tooltip-pop.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「提示框彈出（Tooltip Pop）」動態效果：一排圓形圖示按鈕，滑鼠移到某個圖示時，上方彈出一個帶小三角箭頭的提示框，從約 60% 大小、略低的位置以箭頭為原點彈性放大並上移到定位（約 0.3 秒，帶一點過衝），移開時淡出縮回。（CSS：提示框 position:absolute，transform-origin 設在箭頭處，hover 時 scale(0.6)→1 + translateY + opacity，transition cubic-bezier(.3,1.5,.5,1)；記得 pointer-events:none 避免閃爍）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 242 · 勾選框打勾 — Animated Checkbox
+
+勾選時方框彈一下、勾勾像用筆畫出來，項目文字加上刪除線
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 勾選框 核取方塊 打勾 待辦 清單 todo Checkbox Check Animation Todo List 表單 控制項
+- 標籤 Tag: stroke-dashoffset
+- 範例文字 Example text: 「買咖啡豆 回覆信件 整理桌面」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/control/242-animated-checkbox.md](examples/control/242-animated-checkbox.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「勾選框打勾（Animated Checkbox）」動態效果：一組待辦清單的勾選框：點擊勾選時，方框先縮小再彈大一點（約 0.4 秒），底色填滿；裡面的勾勾從左下到右上像用筆畫出來；右側的項目文字變淡並加上一條刪除線。取消勾選時反向回復。（CSS：隱藏原生 checkbox，自訂方框與 SVG 勾勾；勾勾 path 用 stroke-dasharray 與 stroke-dashoffset 從全長變 0；:checked + 樣式切換，方框用 scale 的 keyframes 彈跳；保留 :focus-visible 外框給鍵盤使用者）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 243 · 分段控制器 — Segmented Control
+
+一排選項底下有一塊滑塊，點哪個就帶點彈性滑過去並改變寬度
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 分段控制 切換 頁籤 tabs 滑塊 Segmented Control Tabs Pill Switcher iOS 表單 控制項
+- 標籤 Tag: CSS transition
+- 範例文字 Example text: 「日 週 月 年」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/control/243-segmented-control.md](examples/control/243-segmented-control.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「分段控制器（Segmented Control）」動態效果：膠囊形的分段控制器，例如「日／週／月／年」；目前選項底下有一塊實心滑塊，點擊其他選項時滑塊帶一點回彈地滑到新位置，並同時改變寬度貼合新選項的文字長度；選中的文字變成與滑塊對比的顏色。約 0.45 秒。（CSS：滑塊絕對定位，JS 讀取被點按鈕的 offsetLeft 與 offsetWidth 寫進 CSS 變數，transform:translateX(var(--x)) 與 width 用 cubic-bezier(.5,1.5,.5,1) 過渡）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 244 · 密碼強度條 — Password Strength
+
+輸入密碼時下方的強度條逐格長出，依強弱改變並顯示提示
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、數字資訊
+- 風格／關鍵字 Style: 密碼 強度 註冊 驗證 表單 Password Strength Meter Signup Validation 表單 控制項
+- 標籤 Tag: JS + CSS
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/control/244-password-strength.md](examples/control/244-password-strength.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「密碼強度條（Password Strength）」動態效果：密碼輸入框下方有四格強度條：使用者輸入時即時計算強度（長度是否達 8 字、有無大寫、數字、符號），符合越多條件就有越多格從左往右長出；強度越高，格子的視覺越強烈，下方文字依序顯示「太弱／普通／不錯／很強」；輸入框右側有顯示／隱藏密碼的眼睛按鈕；輸入框聚焦時外框亮起。（JS：input 事件計算分數 0–4，設定 data-level 與每格的 class；新亮起的格子用 scaleX 0→1 的 keyframes 長出）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 245 · 滑桿數值氣泡 — Range Slider Bubble
+
+拖曳滑桿時上方彈出數值氣泡，跟著把手移動，放開時縮回
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 拖曳手勢
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、數字資訊
+- 風格／關鍵字 Style: 滑桿 拉桿 數值 氣泡 範圍 音量 Range Slider Tooltip Bubble Value Input 表單 控制項
+- 標籤 Tag: input range
+- 範例文字 Example text: 「音量」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/control/245-range-slider-bubble.md](examples/control/245-range-slider-bubble.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「滑桿數值氣泡（Range Slider Bubble）」動態效果：範圍滑桿：已拖過的軌道部分填滿；按住或拖曳把手時，把手微微放大，正上方彈出一個帶小三角的數值氣泡，氣泡跟著把手水平移動並即時顯示數字；放開時氣泡縮小淡出。（CSS：自訂 input[type=range] 的軌道與 ::-webkit-slider-thumb；軌道填滿用背景 linear-gradient 搭配 CSS 變數百分比；氣泡為絕對定位的 output，left = 把手寬度 / 2 + (軌道寬 − 把手寬) × 百分比，以 scale 與 opacity 做彈出）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 246 · 驗證碼輸入 — OTP Input
+
+四格驗證碼，輸入一格自動跳下一格；正確時依序跳起，錯誤時整排抖動
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 驗證碼 OTP 一次性密碼 簡訊 登入 PIN Code Input Verification Auto Focus 表單 控制項
+- 標籤 Tag: JS + CSS
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/control/246-otp-input.md](examples/control/246-otp-input.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「驗證碼輸入（OTP Input）」動態效果：四格驗證碼輸入框：每格只能輸入一個數字，輸入後該格輕彈一下並自動跳到下一格，在空格按倒退鍵會回到上一格並清除；四格填滿後自動驗證：正確時每格依序向上跳起並填滿底色，錯誤時整排左右抖動、外框變成警示樣式。（JS：每格 maxLength=1、inputMode="numeric"，input 事件後 focus 下一格，keydown Backspace 處理倒退；結果用 class 觸發 CSS keyframes，跳起用 animation-delay 錯開；手機上字級至少 16px 避免自動放大）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 247 · 展開搜尋框 — Expanding Search
+
+平常只有一個放大鏡圓鈕，點下後向左展開成搜尋框
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 搜尋 放大鏡 展開 收合 導覽列 Expanding Search Bar Icon Input Header 表單 控制項
+- 標籤 Tag: CSS transition
+- 範例文字 Example text: 「搜尋作品…」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/control/247-expanding-search.md](examples/control/247-expanding-search.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「展開搜尋框（Expanding Search）」動態效果：導覽列上的搜尋：平常只是一顆圓形放大鏡按鈕，點擊後按鈕向左平滑展開成長條搜尋框（約 0.5 秒），輸入框內的文字在展開一半後才淡入，放大鏡旋轉 90 度並外圍亮起一圈框線；輸入框失去焦點且沒有內容時收回成圓鈕。（CSS：容器 overflow:hidden，width 從圓鈕寬度過渡到展開寬度，cubic-bezier(.6,0,.2,1)；input opacity 搭配 transition-delay；JS 切換 class 並 focus 輸入框）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 248 · 下拉選單展開 — Dropdown Reveal
+
+點開下拉選單時面板從上方彈出，選項一個接一個滑入，箭頭翻轉
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 下拉選單 選單 展開 選項 依序 Dropdown Select Menu Stagger Reveal 表單 控制項
+- 標籤 Tag: transition-delay
+- 範例文字 Example text: 「台北 台中 高雄 花蓮 台南」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/control/248-dropdown-reveal.md](examples/control/248-dropdown-reveal.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「下拉選單展開（Dropdown Reveal）」動態效果：下拉選單：點擊選單按鈕時，右側箭頭翻轉 180 度，下方的選項面板從上緣帶點回彈地展開（scaleY 0.6 → 1、淡入），裡面的選項一個接一個（每個間隔約 0.05 秒）往下滑入淡入；滑過選項時背景淡淡亮起；選擇後面板收起、按鈕顯示選中的值。（CSS：面板 transform-origin:top，transition 用 cubic-bezier(.3,1.3,.5,1)；每個選項設 --i，展開時 transition-delay: calc(var(--i) × 0.05s)）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 249 · 標籤輸入 — Tag Input
+
+輸入文字按 Enter 變成彈出的標籤，按 × 或倒退鍵時標籤縮小消失
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 進場、退場
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 標籤 tag chip 輸入 關鍵字 興趣 Tag Input Chips Token Field 表單 控制項
+- 標籤 Tag: JS + CSS
+- 範例文字 Example text: 「設計 動態 前端 插畫 品牌」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/control/249-tag-input.md](examples/control/249-tag-input.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「標籤輸入（Tag Input）」動態效果：標籤輸入框：使用者輸入文字後按 Enter（或逗號），文字變成一顆膠囊標籤，從 0 帶回彈放大出現在輸入游標前方；每顆標籤右側有 × 按鈕，點擊或在空白輸入框按倒退鍵時，最後一顆標籤縮小淡出並讓後面的內容平滑補位；整個框聚焦時外框亮起。（JS：keydown 處理 Enter／逗號／Backspace，新增元素插在 input 前；CSS keyframes：進場 scale 0→1 用 cubic-bezier(.3,1.6,.5,1)，退場 scale→0 並用負的 margin-right 收合，animationend 後移除元素）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 250 · 水滴單選 — Liquid Radio
+
+切換單選項時，選中的圓點被拉長成水滴滑到新選項，再彈回圓形
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 單選 radio 選項 水滴 液態 拉伸 Liquid Radio Button Gooey Morph 表單 控制項
+- 標籤 Tag: GSAP elastic
+- 範例文字 Example text: 「標準寄送 快速到貨 門市自取」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/control/250-liquid-radio.md](examples/control/250-liquid-radio.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「水滴單選（Liquid Radio）」動態效果：一組直向排列的單選項，被選中的圓點是一顆獨立的實心小圓：切換選項時，小圓先被拉長成上下延伸的水滴形，沿直線滑到新選項的圓圈中心，抵達後以彈性晃動恢復成圓形，像液體一樣流過去；被選中的外圈同時改變樣式。（GSAP timeline：先 scaleY 2.2 / scaleX 0.7，同時 tween y 到新位置 power3.inOut，最後 scaleX/scaleY 回 1 用 elastic.out(1.2,0.5)；原生 radio 隱藏但保留鍵盤操作）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 251 · 拖放上傳 — File Drop Upload
+
+檔案拖進區塊時框線亮起、圖示上浮；放下後出現檔案列，進度條跑完打勾
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 拖曳手勢、切換
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 上傳 檔案 拖放 拖曳 進度條 Drag Drop File Upload Dropzone Progress 表單 控制項
+- 標籤 Tag: GSAP timeline
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/control/251-file-drop-upload.md](examples/control/251-file-drop-upload.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「拖放上傳（File Drop Upload）」動態效果：檔案拖放上傳區：虛線框中間有上傳圖示與「拖曳檔案到這裡」；檔案被拖進區塊上方時，框線變實、底色淡淡亮起、圖示往上浮；放下後區塊輕彈一下，底部從下方彈出一列檔案資訊（檔名 + 進度條），進度條約 1.3 秒跑滿，右側打勾圖示彈出，停留一秒後檔案列上移淡出。點擊區塊也可以選檔案。（JS：dragenter/dragover 加 class，drop 讀取檔名；GSAP timeline 串接彈跳、檔案列進場、進度條 scaleX 0→1、打勾 back.out）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 291 · 表格十字高亮 — Table Crosshair Highlight
+
+滑過表格某一格時，整列與整欄淡淡亮起，該格放大突顯
+
+- 元件 Component: 表單・控制項 (`control`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 數字資訊、介面互動
+- 風格／關鍵字 Style: 表格 資料 列 欄 高亮 十字 Table Row Column Highlight Crosshair Hover Data hover 懸停 滑過
+- 標籤 Tag: JS + CSS
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/control/291-table-crosshair-highlight.md](examples/control/291-table-crosshair-highlight.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「表格十字高亮（Table Crosshair Highlight）」動態效果：資料表格：滑鼠滑過某一格時，該格所在的整列與整欄都淡淡亮起形成十字，被指到的那一格填滿強調底色、文字加粗並微微放大，讓人快速對照列標題與欄標題；移動到其他格時十字跟著移動，離開表格時全部恢復。（JS：pointerover 時找出 td 的 cellIndex 與所在的 tr，分別加上 class；CSS：.row 與 .col 用很淡的半透明底色，被指到的格子用強調底色 + scale(1.12)，transition 0.25 秒）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+## 卡片・群組 (card) — 39
+
+### 091 · 版面重排 — Flip Layout
+
+格狀與橫排之間平滑重排
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、轉場切換
+- 風格／關鍵字 Style: 
+- 標籤 Tag: Flip
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/card/091-flip-layout.md](examples/card/091-flip-layout.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「版面重排（Flip Layout）」動態效果：8 個方塊在「4×2 格狀」與「一整排」兩種版面之間切換，同時隨機打亂順序，每個方塊平滑滑到新位置與新尺寸。（GSAP：Flip.getState 記錄 → 改 class 與 DOM 順序 → Flip.from 補間）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 097 · 拖曳甩動 — Drag & Toss
+
+卡片可拖曳並帶慣性甩出
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 拖曳手勢
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 
+- 標籤 Tag: Draggable・Inertia
+- 範例文字 Example text: 「拖拖看」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/card/097-drag-toss.md](examples/card/097-drag-toss.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「拖曳甩動（Drag & Toss）」動態效果：幾張卡片可以用滑鼠或手指拖曳，放開時依甩動速度帶慣性滑行，碰到邊界會減速回彈，拖曳中的卡片浮到最上層。（GSAP：Draggable.create { bounds, inertia:true, edgeResistance }，需 InertiaPlugin）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 098 · 發牌展開 — Card Deal
+
+卡片從底部發牌成扇形
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 進場、退場
+- 技術 Tech: GSAP
+- 情境 Uses: 轉場切換、介面互動
+- 風格／關鍵字 Style: 
+- 標籤 Tag: Timeline・Stagger
+- 範例文字 Example text: 「春夏秋冬雪」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/card/098-card-deal.md](examples/card/098-card-deal.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「發牌展開（Card Deal）」動態效果：5 張卡片從畫面底部依序發牌，展開成帶角度的扇形並略帶回彈，停留後從最後一張開始收回底部。（GSAP：timeline + stagger，xPercent / rotation 用函式值 (i)=>(i-2)*115）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 104 · 卡片依序浮現 — Staggered Card Reveal
+
+一組卡片從左上往右下依序浮上、由模糊變清楚
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 進場、退場
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、轉場切換
+- 風格／關鍵字 Style: 卡片 群組 列表 進場 依序 錯開 浮現 淡入 Stagger Fade Up Grid Reveal List Entrance
+- 標籤 Tag: Grid stagger
+- 範例文字 Example text: 「品牌 網站 App 海報 包裝 插畫」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/card/104-staggered-card-reveal.md](examples/card/104-staggered-card-reveal.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「卡片依序浮現（Staggered Card Reveal）」動態效果：3 欄 × 2 列的作品卡片（上方縮圖、下方標題與兩條文字列），進場時每張卡片從下方 30px、95% 大小、模糊且透明的狀態浮上來變清楚，順序從左上往右下斜向依序錯開（總共約 0.6 秒）；卡片內的縮圖、標題、文字列再稍微延遲逐一補上；停留後從最後一張開始反向往上淡出。緩出（power3.out）。（GSAP：stagger { grid:[2,3], from:"start", amount:0.6 }，fromTo y / opacity / scale / filter:blur；實際網站可搭配 ScrollTrigger 在捲到時才播放、或用 ScrollTrigger.batch 讓列表分批進場）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 112 · 卡片浮起 — Hover Lift Card
+
+hover 時卡片上浮、陰影加深，縮圖在框內放大
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 卡片 hover 浮起 陰影 縮圖 放大 Hover Lift Card Shadow Zoom 作品集 商品
+- 標籤 Tag: CSS hover
+- 範例文字 Example text: 「品牌 網站 插畫」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/card/112-hover-lift-card.md](examples/card/112-hover-lift-card.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「卡片浮起（Hover Lift Card）」動態效果：一排作品卡片（上方縮圖、下方標題與一條文字列）。滑鼠移到某張卡片上時，卡片往上浮起一點並出現更深更大的陰影，縮圖在原本的框內慢慢放大約 1.15 倍（框不變、圖被裁切）；滑鼠離開時平滑回到原位。約 0.45–0.6 秒，緩出。（CSS：卡片 transition transform 與 box-shadow，:hover 時 translateY(-8px)；縮圖外框 overflow:hidden，內層圖 transform:scale(1.14)）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 113 · 光暈邊框卡片 — Spotlight Card
+
+游標經過時，卡片邊框與內部被一團光照亮
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 卡片 光暈 邊框 聚光 游標 發光 Spotlight Card Glow Border Linear Vercel
+- 標籤 Tag: radial-gradient
+- 範例文字 Example text: 「設計 開發 行銷」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/card/113-spotlight-card.md](examples/card/113-spotlight-card.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「光暈邊框卡片（Spotlight Card）」動態效果：一排低調的卡片，游標在卡片附近移動時，靠近游標的那段卡片邊框會被一團光照亮（強調色），卡片內部也有一層很淡的光暈跟著游標；光只照亮游標附近，離越遠越暗，所以同時能看到相鄰卡片的邊緣也被微微點亮。（做法：mousemove 時算出游標相對每張卡片的座標寫入 --x、--y；::before 用 radial-gradient(circle at var(--x) var(--y)) 搭配 mask-composite 只顯示邊框那一圈，::after 做內部柔光）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 114 · 骨架載入 — Skeleton Shimmer
+
+內容載入前顯示骨架，光澤掃過後淡入真正內容
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 循環待機、進場
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、數字資訊
+- 風格／關鍵字 Style: 骨架 載入 讀取 佔位 Skeleton Loading Shimmer Placeholder Loader
+- 標籤 Tag: Skeleton
+- 範例文字 Example text: 「一起來設計動態吧」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/card/114-skeleton-shimmer.md](examples/card/114-skeleton-shimmer.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「骨架載入（Skeleton Shimmer）」動態效果：資料載入中時，卡片先顯示低對比的骨架：圓形頭像、兩條長短不一的文字條、一塊大圖區，骨架上有一道柔和的亮光由左往右持續掃過；載入完成後骨架淡出，真正的頭像、標題、時間與圖片淡入並微微往上滑到定位。（CSS：骨架元素用 linear-gradient 亮帶 + background-size:300% 並以 keyframes 移動 background-position；載入完成時切換 class，骨架 opacity 0、內容 opacity 1 + translateY 過場）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 118 · 通知堆疊 — Toast Stack
+
+通知從右下角依序彈入堆疊，幾秒後滑出消失
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 進場、退場
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、數字資訊
+- 風格／關鍵字 Style: 通知 提示 訊息 吐司 彈出 Toast Notification Snackbar Alert Stack
+- 標籤 Tag: Toast
+- 範例文字 Example text: 「已儲存變更」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/card/118-toast-stack.md](examples/card/118-toast-stack.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「通知堆疊（Toast Stack）」動態效果：操作完成時，畫面右下角彈出一則通知（左邊打勾圓形圖示、中間訊息、右邊「剛剛」時間），從下方帶一點縮放彈性地進場；新通知會疊在下面，舊的往上推；最多同時顯示 3 則，每則約 3.4 秒後往右滑出淡掉，其餘通知平滑補位。（CSS + JS：通知外層用 display:grid + grid-template-rows 1fr→0fr 做高度收合，讓補位平滑；進場用 keyframes translateY + scale；離場加 .out class 後再移除元素）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 129 · 步驟依序連接 — Connected Steps
+
+步驟卡之間的連接線畫過去後，下一步才出現
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、數字資訊
+- 風格／關鍵字 Style: 步驟 流程 1 2 3 連接線 教學 結帳 Onboarding 溫和 柔和 輕柔 引導 動線 視線 閱讀順序 低調 Subtle Gentle Soft Entrance Visual Flow Hierarchy
+- 標籤 Tag: Steps
+- 範例文字 Example text: 「選擇方案 填寫資料 完成付款」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/card/129-connected-steps.md](examples/card/129-connected-steps.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「步驟依序連接（Connected Steps）」動態效果：三張橫向排列的步驟卡（編號 01、02、03＋標題＋一條說明文字列），進場時第一張先從下方約 14px 淡入，接著一條細連接線由左往右畫到第二張，第二張才淡入，再畫線到第三張，第三張淡入；節奏平穩，讓使用者清楚理解「先做什麼、再做什麼」。（GSAP：timeline 依序串接，卡片 fromTo y:14 / opacity:0，連接線 scaleX 0→1、transform-origin 左側，ease power1.inOut / power2.out）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 132 · 左右交錯淡入 — Zigzag Cascade
+
+圖文列表左右交錯出現，視線呈 Z 字往下走
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 進場、捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 圖文 列表 左右 交錯 Z 字 往下 介紹 特色 溫和 柔和 輕柔 引導 動線 視線 閱讀順序 低調 Subtle Gentle Soft Entrance Visual Flow Hierarchy
+- 標籤 Tag: Zigzag
+- 範例文字 Example text: 「關於 作品 服務 聯絡」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/card/132-zigzag-cascade.md](examples/card/132-zigzag-cascade.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「左右交錯淡入（Zigzag Cascade）」動態效果：上下排列的圖文列，左右交錯配置（第一列圖左文右、第二列圖右文左，以此類推），進場時由上到下依序出現，每一列從它所在的那一側往內輕輕滑入約 20px 並淡入，間隔約 0.35 秒、每列約 0.9 秒、平順減速，視線因此呈 Z 字一路往下閱讀。（GSAP：fromTo x 依索引正負交替 ±20 / opacity:0，stagger 0.35，ease power2.out；實際網站可用 ScrollTrigger.batch 讓每列捲到時才出現）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 145 · 滑動刪除 — Swipe to Delete
+
+列表項目往左滑露出刪除，滑到底就收合移除
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 拖曳手勢、退場
+- 技術 Tech: GSAP
+- 情境 Uses: App 介面、介面互動
+- 風格／關鍵字 Style: 滑動 刪除 左滑 列表 手勢 收合 Swipe Delete Gesture List Dismiss App 手機 行動裝置 微互動 Mobile App Micro-interaction
+- 標籤 Tag: Draggable
+- 範例文字 Example text: 「會議提醒 帳單通知 新訊息」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/card/145-swipe-to-delete.md](examples/card/145-swipe-to-delete.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「滑動刪除（Swipe to Delete）」動態效果：列表項目可以用手指往左滑，項目後方露出警示色的「刪除」按鈕；滑動距離小於一半時放開會彈回原位，超過門檻（約 30%）放開時，項目整個往左滑出畫面，接著這一列高度收合為 0，下面的項目平滑補上。（GSAP：Draggable type:"x" 並限制只能往左、edgeResistance 0.8；onRelease 判斷門檻後 xPercent:-100，再 tween height 到 0；手機上設定 touch-action:pan-y 讓上下捲動不受影響）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 154 · 黏著堆疊卡片 — Sticky Stacking Cards
+
+卡片一張張捲上來疊住，下面那張縮小變暗
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、捲動效果
+- 風格／關鍵字 Style: 卡片 堆疊 黏著 sticky 疊起來 服務介紹 Stacking Cards Sticky Stack Deck 捲動 滾動 scroll ScrollTrigger scrub 捲動觸發
+- 標籤 Tag: Sticky・scrub
+- 範例文字 Example text: 「研究 設計 開發 上線」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/card/154-sticky-stacking-cards.md](examples/card/154-sticky-stacking-cards.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「黏著堆疊卡片（Sticky Stacking Cards）」動態效果：一組大卡片依序往下排，每張卡片捲到畫面頂端附近時會黏住（每張的停留位置往下錯開一點，看得到前一張的邊緣），下一張卡片捲上來疊在上面時，被蓋住的那張同步縮小到約 90% 並變暗，形成一疊卡片的景深；往回捲時恢復。（CSS position:sticky + top 依索引遞增；GSAP 每張卡片一個 ScrollTrigger，以「下一張卡片進入畫面到抵達頂端」為範圍 scrub scale 與 brightness）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 155 · 數據捲到才計數 — Count Up on Scroll
+
+數據區塊捲進畫面時，數字才從零開始累加
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 捲動觸發、進場
+- 技術 Tech: GSAP
+- 情境 Uses: 數字資訊、捲動效果
+- 風格／關鍵字 Style: 數據 統計 計數 數字 成果 KPI Count Up Stats Numbers On Scroll 捲動 滾動 scroll ScrollTrigger scrub 捲動觸發
+- 標籤 Tag: ScrollTrigger
+- 範例文字 Example text: 「完成專案 客戶滿意度 平均評分」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/card/155-count-up-on-scroll.md](examples/card/155-count-up-on-scroll.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「數據捲到才計數（Count Up on Scroll）」動態效果：頁面中段的成果數據區（三格：數字＋說明），捲到數據區進入畫面約 80% 位置時，三格依序從下方淡入，數字同時從 0 累加到目標值（例如 128、99%、4.9，可有小數），約 1.6 秒、減速；捲回上方離開時重置，下次捲到再播一次（或只播一次）。（GSAP：ScrollTrigger.create { start:"top 80%", onEnter, onLeaveBack }，數字 tween 物件數值 + onUpdate，用 toFixed 控制小數位）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 164 · 卡片 3D 翻面 — Flip Card
+
+滑過卡片時 3D 翻到背面，顯示更多資訊
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 卡片 翻轉 翻面 正反面 3D flip card hover back side hover 懸停 滑鼠移入 滑過 互動
+- 標籤 Tag: CSS 3D
+- 範例文字 Example text: 「品牌 網站 插畫」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/card/164-flip-card.md](examples/card/164-flip-card.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「卡片 3D 翻面（Flip Card）」動態效果：一排作品卡片，正面是主視覺與標題；滑鼠移入時卡片以垂直軸 3D 翻轉 180 度到背面，背面顯示「查看專案 →」等行動文字，翻轉帶一點過衝回彈；移出時翻回正面。約 0.7 秒。（CSS：外層 perspective，內層 transform-style:preserve-3d + transition transform，hover 時 rotateY(180deg)；正反兩面 backface-visibility:hidden，背面預先 rotateY(180deg)）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 180 · 刮刮樂揭示 — Scratch Reveal
+
+用游標或手指刮開表層，露出底下的內容
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 拖曳手勢
+- 技術 Tech: Canvas
+- 情境 Uses: 介面互動、強調重點、App 介面
+- 風格／關鍵字 Style: 刮刮樂 刮開 揭曉 抽獎 優惠券 遊戲化 Scratch Card Reveal Lottery Coupon Gamification Canvas 粒子 particles requestAnimationFrame 互動背景
+- 標籤 Tag: Canvas erase
+- 範例文字 Example text: 「免運優惠券」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/card/180-scratch-reveal.md](examples/card/180-scratch-reveal.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「刮刮樂揭示（Scratch Reveal）」動態效果：卡片上覆蓋一層帶金屬漸層質感與「刮開看看」字樣的表層，使用者按住滑鼠或手指拖過的地方會被刮掉（圓頭粗筆刷），露出底下的獎項或優惠內容；刮開面積超過約一半時，剩下的表層自動淡出，完整揭曉。適合抽獎、優惠券、活動頁。（Canvas 2D：表層畫在 canvas 上，拖曳時用 globalCompositeOperation = "destination-out" 沿路徑畫線擦除；定期取樣 getImageData 的透明比例判斷是否揭曉；手機設 touch-action:none）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 187 · 剪貼簿 — Scrapbook
+
+照片、膠帶、貼紙和標題一個個歪歪地貼上來
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 進場
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、強調重點
+- 風格／關鍵字 Style: 剪貼簿 拼貼 手帳 照片 貼紙 膠帶 Scrapbook Collage Sticker Photo Journal Canva 風格 Canva Scrapbook 剪貼簿 簡報 社群貼文 動畫
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「我的夏天」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/card/187-scrapbook.md](examples/card/187-scrapbook.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「剪貼簿（Scrapbook）」動態效果：像手帳拼貼的版面：兩張拍立得照片、一段紙膠帶、一個圓形貼紙和手寫感標題，依序一個個「貼」上來——每個元素從稍大、略高的位置快速落下，帶各自的小角度歪斜，落定時輕微彈一下（約 0.5 秒，間隔約 0.28 秒），停留後一起淡出。溫暖、手作感。（CSS：每個元素用 CSS 變數設定自己的旋轉角度與延遲，keyframes translateY(-30%) scale(1.25) → scale(.95) → 1，保持 rotate(var(--r))）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 212 · 焦點卡片輪播 — Focus Carousel
+
+中間的卡片放大清楚，兩側縮小變淡，左右切換
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 切換、循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、標題・Hero
+- 風格／關鍵字 Style: 輪播 carousel slider 焦點 中間放大 coverflow 作品 輪播圖 卡片 群組
+- 標籤 Tag: CSS transition
+- 範例文字 Example text: 「品牌 網站 插畫 包裝 攝影」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/card/212-focus-carousel.md](examples/card/212-focus-carousel.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「焦點卡片輪播（Focus Carousel）」動態效果：一組卡片橫向排列成輪播，目前這張置中、最大、完全清楚，左右相鄰的卡片縮小到約 82% 並變半透明，再外側的更小更淡；切換時所有卡片一起平滑滑到新位置並改變大小（約 0.6 秒、緩入緩出），下方有左右箭頭與圓點指示器（目前那點拉長），可自動播放，點兩側卡片也能直接切到它。（CSS：每張卡片依「與目前索引的距離」設定 translateX、scale、opacity、z-index，加 transition；超出範圍時取最近的循環方向）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 213 · 左右滑卡 — Swipe Card Stack
+
+最上面的卡片可以拖曳甩出，下一張補上來
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 拖曳手勢、退場
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 滑卡 左滑右滑 交友 Tinder 卡片堆疊 甩出 Swipe Cards Stack Like Dislike 卡片 群組
+- 標籤 Tag: Draggable
+- 範例文字 Example text: 「東京 京都 首爾 台南」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/card/213-swipe-card-stack.md](examples/card/213-swipe-card-stack.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「左右滑卡（Swipe Card Stack）」動態效果：一疊卡片，最上面那張可以用手指或滑鼠拖曳，拖曳時卡片會依水平位移跟著傾斜，往右拖時左上角浮出「喜歡」印章、往左拖時右上角浮出「略過」；放開時若超過門檻就加速往該方向甩出畫面，下面的卡片依序往上補位並放大；未超過門檻則彈回原位。（GSAP Draggable：onDrag 依 x 設定 rotation 與印章透明度，onRelease 判斷門檻後 tween 出畫面，再把那張移到最底層並重新排列整疊）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 214 · 疊卡散開 — Stack Fan Out
+
+一疊微歪的卡片，滑過時向兩側散開成一排
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、標題・Hero
+- 風格／關鍵字 Style: 疊卡 散開 扇形 展開 作品集 Stack Spread Fan Cards Hover 卡片 群組
+- 標籤 Tag: CSS hover
+- 範例文字 Example text: 「企劃 設計 開發 測試 上線」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/card/214-stack-fan-out.md](examples/card/214-stack-fan-out.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「疊卡散開（Stack Fan Out）」動態效果：五張卡片疊成一疊，每張略微不同角度歪斜；滑鼠移到這疊卡片上時，卡片以中間那張為軸向左右兩側散開成扇形一排（越外側角度越大、略往下垂），帶一點彈性回彈；滑鼠離開時收回成一疊。約 0.6 秒。（CSS：每張用 CSS 變數 --i（-2 到 2）計算 translateX、rotate、translateY，hover 時改用較大的係數，transition cubic-bezier(.3,1.3,.5,1)）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 215 · 價格方案切換 — Pricing Toggle
+
+月付／年付切換時，各方案價格滾動更新，推薦方案突出
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 數字資訊、介面互動
+- 風格／關鍵字 Style: 價格 方案 訂閱 月付 年付 定價表 Pricing Table Plans Toggle Monthly Yearly SaaS 卡片 群組
+- 標籤 Tag: GSAP
+- 範例文字 Example text: 「基本 專業 企業」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/card/215-pricing-toggle.md](examples/card/215-pricing-toggle.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「價格方案切換（Pricing Toggle）」動態效果：價格方案頁上方有「月付／年付」切換膠囊，點擊時滑塊滑到另一側；三張方案卡片的價格數字從舊值滾動累加到新值（約 0.6 秒），單位同步改成「/月」或「/年」，每張卡片依序輕輕上浮再落下；中間的推薦方案預設放大並加上框線與「推薦」標籤。（GSAP：數字 tween 物件數值 + onUpdate 寫入；卡片 y 的 yoyo 用 delay 依索引錯開；切換膠囊用 CSS transform transition）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 216 · 卡片展開詳情 — Card Expand Detail
+
+點擊卡片時它平滑放大成詳情面板，其他卡片淡出
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、轉場切換
+- 風格／關鍵字 Style: 卡片 展開 詳情 放大 共享元素 shared element transition Expand Detail Flip 卡片 群組
+- 標籤 Tag: Flip
+- 範例文字 Example text: 「作品一 作品二 作品三 作品四」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/card/216-card-expand-detail.md](examples/card/216-card-expand-detail.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「卡片展開詳情（Card Expand Detail）」動態效果：一排作品卡片，點擊其中一張時，它從原本的位置與大小平滑放大成填滿整個區塊的詳情面板（左側大圖、右側標題與說明），其他卡片同時淡出；詳情內的文字在放大完成前後依序淡入；再點一次則縮回原位、其他卡片淡回。約 0.6 秒、緩入緩出。（GSAP Flip：Flip.getState 記錄所有卡片 → 切換放大那張的 class（改成絕對定位填滿容器與新版面）→ Flip.from 補間，nested:true 讓內部元素一起變形）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 217 · 無限捲動卡片牆 — Infinite Card Wall
+
+兩排卡片朝相反方向無限移動，滑鼠移上去就暫停
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 循環待機、懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾、數字資訊
+- 風格／關鍵字 Style: 跑馬燈 卡片牆 評價 客戶 Logo 牆 無限 Infinite Marquee Testimonials Logo Wall 卡片 群組
+- 標籤 Tag: CSS marquee
+- 範例文字 Example text: 「設計師 工程師 行銷 創辦人」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/card/217-infinite-card-wall.md](examples/card/217-infinite-card-wall.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「無限捲動卡片牆（Infinite Card Wall）」動態效果：兩排評價或客戶卡片橫向無限循環移動，上排往左、下排往右，速度緩慢穩定；滑鼠移到卡片牆上時兩排都暫停，方便閱讀，移開後繼續。適合客戶評價、合作夥伴 Logo 牆。（CSS：每排內容複製兩份放在同一條軌道，keyframes translateX(0 → -50%) linear infinite 達成無縫循環，反向那排用 animation-direction:reverse；:hover 時 animation-play-state:paused）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 218 · 評論輪播 — Testimonial Slider
+
+引言淡出上移換下一則，頭像跟著切換，進度條計時
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 切換、循環待機
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、數字資訊
+- 風格／關鍵字 Style: 評論 推薦 客戶見證 輪播 引言 Testimonial Review Quote Slider Carousel 卡片 群組
+- 標籤 Tag: GSAP
+- 範例文字 Example text: 「王小姐 陳先生 林設計師」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/card/218-testimonial-slider.md](examples/card/218-testimonial-slider.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「評論輪播（Testimonial Slider）」動態效果：客戶評價輪播：中間是一大段引言與署名，下方一排圓形頭像與一條進度條；每隔約 2.6 秒，目前的引言往上淡出、下一則從下方淡入上滑，對應的頭像放大並加上外框、其他頭像縮小變淡，進度條從 0 重新填滿計時；點擊頭像可直接切換到那則。（GSAP：新舊引言各自 tween y 與 opacity；進度條 scaleX 0→1、ease none，duration 與自動切換間隔相同）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 219 · 瀑布流依序落下 — Masonry Cascade
+
+高低不一的瀑布流卡片，一排排帶微微旋轉落下就位
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、標題・Hero
+- 風格／關鍵字 Style: 瀑布流 masonry Pinterest 圖庫 進場 落下 Masonry Grid Cascade Gallery 卡片 群組
+- 標籤 Tag: Stagger
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/card/219-masonry-cascade.md](examples/card/219-masonry-cascade.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「瀑布流依序落下（Masonry Cascade）」動態效果：瀑布流（Masonry）圖庫進場：三欄高低不一的卡片，依照由上到下、由左到右的閱讀順序，一張張從上方約 30px 帶著輕微隨機旋轉落下並淡入，就位時略微回彈（間隔約 0.09 秒），整面圖庫像被逐一擺上去。（GSAP：依每張卡片的列、欄索引排序後 stagger 0.09，fromTo y:-30 / opacity:0 / rotation:random(-6,6) → 歸零，ease back.out(1.4)；實際網站可用 CSS columns 或 masonry 函式庫排版）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 220 · 聚焦淡化其他 — Focus Dim Siblings
+
+滑過某張卡片時它浮起，其他卡片變淡、縮小
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 聚焦 淡化 其他卡片 hover 突顯 Focus Dim Siblings Highlight Spotlight 卡片 群組
+- 標籤 Tag: :has()
+- 範例文字 Example text: 「入門 進階 大師 團隊」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/card/220-focus-dim-siblings.md](examples/card/220-focus-dim-siblings.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「聚焦淡化其他（Focus Dim Siblings）」動態效果：一排卡片，滑鼠移到其中一張時，那張微微上浮並放大到 1.04 倍，其他卡片同時變淡、輕微模糊、降低飽和並縮小到 95%，讓視線集中在目前這張；滑鼠離開整排時全部恢復。約 0.45 秒、減速。（CSS：容器 :hover 時對 .card:not(:hover) 降低 opacity、加 filter:blur(1px) saturate(.6)、scale(.95)；被 hover 的卡片 translateY + scale；可用 :has() 支援鍵盤焦點）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 221 · 加入購物車飛入 — Add to Cart Fly
+
+點加入購物車，商品縮圖以弧線飛進購物車，數字跳一下
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、App 介面、強調重點
+- 風格／關鍵字 Style: 購物車 加入 電商 飛入 拋物線 回饋 Add To Cart Fly Ecommerce Shop Feedback 卡片 群組
+- 標籤 Tag: GSAP arc
+- 範例文字 Example text: 「手工陶杯」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/card/221-add-to-cart-fly.md](examples/card/221-add-to-cart-fly.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「加入購物車飛入（Add to Cart Fly）」動態效果：商品卡片按下「加入購物車」時，按鈕輕按回饋，商品縮圖複製一份並沿著拋物線弧線飛向右上角的購物車圖示，飛行中逐漸縮小，抵達時購物車彈跳放大一下，角落的數量徽章 +1 並彈出。約 0.75 秒，給使用者明確的「已加入」回饋。（GSAP：飛行元素的 x 用 power1.in、y 用 back.in 分開 tween 形成弧線，同時 scale 1→0.15；完成後移除元素並更新徽章，徽章 scale 用 back.out(3)）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 272 · 捲動翻轉卡片 — Scroll Flip Card
+
+往下捲時卡片立體翻轉到背面，同時微微放大
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 捲動效果、介面互動
+- 風格／關鍵字 Style: 翻轉 翻面 3D 卡片 正反面 捲動 Scroll Flip Card 3D RotateY 捲動觸發 ScrollTrigger
+- 標籤 Tag: ScrollTrigger
+- 範例文字 Example text: 「背面的故事」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/card/272-scroll-flip-card.md](examples/card/272-scroll-flip-card.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「捲動翻轉卡片（Scroll Flip Card）」動態效果：一張卡片位於畫面中央，正面是圖片、背面是文字（背面使用強調色）：使用者往下捲動時，卡片依捲動進度沿著垂直軸立體翻轉 180 度，同時從 0.85 倍放大到 1 倍，捲到一半時剛好側面朝向觀者，捲完時完整顯示背面；往回捲則翻回正面。（GSAP ScrollTrigger scrub：容器 pin 或 sticky，timeline fromTo rotationY 0 → 180；父層設 perspective，卡片 transform-style:preserve-3d，正反兩面 backface-visibility:hidden，背面預先 rotateY(180deg)）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 278 · 捲動扇形展開 — Scroll Fan Out
+
+疊在一起的卡片隨捲動展開成一把扇子
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 捲動效果、標題・Hero
+- 風格／關鍵字 Style: 扇形 展開 卡片 疊卡 作品 捲動 Scroll Fan Out Cards Spread 捲動觸發 ScrollTrigger
+- 標籤 Tag: ScrollTrigger
+- 範例文字 Example text: 「海邊 山林 夜空 午後 城市」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/card/278-scroll-fan-out.md](examples/card/278-scroll-fan-out.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「捲動扇形展開（Scroll Fan Out）」動態效果：五張圖片卡片一開始整齊疊成一疊；使用者往下捲動時，卡片以底部下方的一點為軸，像打開一把扇子一樣向左右兩側展開：中間那張不動，越外側旋轉角度越大（每張約相差 14 度），同時往兩側與下方位移；往回捲則收回成一疊。（GSAP ScrollTrigger scrub：卡片 transform-origin: 50% 120%，fromTo rotation / x / y 用函式依索引 (i − 中間索引) 計算）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 286 · 資訊面板滑上 — Card Info Slide Up
+
+圖片卡片平常只露出標題，滑過時資訊面板從底部滑上來，圖片同時上移放大
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 卡片 資訊 面板 滑上 說明 作品 Card Info Slide Up Overlay Details Hover hover 懸停 滑過
+- 標籤 Tag: CSS hover
+- 範例文字 Example text: 「海邊 山林 夜空」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/card/286-card-info-slide-up.md](examples/card/286-card-info-slide-up.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「資訊面板滑上（Card Info Slide Up）」動態效果：一排直式圖片卡片，平常卡片底部只露出一條標題列；滑鼠滑過時，底部的半透明霧面資訊面板整個滑上來，顯示標題、簡短說明與「查看 →」連結，同時背後的圖片微微上移並放大；滑開時面板滑回只剩標題。約 0.5 秒。（CSS：面板 transform: translateY(calc(100% − 標題列高度))，:hover 時 translateY(0)；面板用半透明底色 + backdrop-filter:blur；圖片 scale 1.08 + translateY）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 289 · 全息閃卡 — Holographic Card
+
+收藏卡跟著游標立體傾斜，表面的炫彩箔光和反光跟著角度流動
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、介面互動
+- 風格／關鍵字 Style: 全息 閃卡 炫彩 箔 卡牌 寶可夢 傾斜 反光 Holographic Foil Card Tilt Glare Shiny Trading Card hover 懸停 滑過
+- 標籤 Tag: mix-blend-mode
+- 範例文字 Example text: 「HOLO」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/card/289-holographic-card.md](examples/card/289-holographic-card.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「全息閃卡（Holographic Card）」動態效果：一張收藏卡（上方圖片、下方標題與編號），跟著游標在 3D 空間中傾斜（最大約 13 度）；卡片表面有一層炫彩的全息箔光，箔光的位置跟著游標移動，傾斜越多箔光越明顯，另外還有一團柔和反光跟著游標位置；游標離開時卡片回正、箔光淡化。（CSS + JS：mousemove 計算游標在卡片上的相對位置 0~1，設定 rotateX/rotateY 與 CSS 變數 --px、--py；箔光層是 repeating-linear-gradient 的炫彩條紋、mix-blend-mode:color-dodge，background-position 用 --px/--py；反光層是 radial-gradient 疊 overlay；父層 perspective）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 302 · 拖曳排序清單 — Drag to Reorder
+
+拖住某一列上下移動，其他列自動讓位，放開時彈回定位並更新編號
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 拖曳手勢
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 拖曳 排序 重新排列 清單 待辦 sortable Drag Reorder List Sortable 卡片 群組
+- 標籤 Tag: Draggable
+- 範例文字 Example text: 「企劃 設計 開發 上線」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/card/302-drag-to-reorder.md](examples/card/302-drag-to-reorder.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「拖曳排序清單（Drag to Reorder）」動態效果：一份可以拖曳排序的清單，每列左側有拖曳把手、右側有順序編號：按住某一列時它微微放大並浮起（加深陰影與外框），可以上下拖動；拖過其他列的位置時，被經過的列自動平滑地往上或往下讓位；放開時被拖的列帶點彈性落到新位置，所有編號依新順序更新。（GSAP Draggable type:"y"：拖曳時依 y ÷ 列高算出目標索引，改變陣列順序並讓其他列 tween 到 索引 × 列高；放開時 back.out 對齊）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 304 · 多選卡片 — Selectable Cards
+
+點卡片選取時出現框線與打勾，底部彈出「已選 N 項」的操作列
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 選取 多選 勾選 卡片 操作列 Selectable Cards Multi Select Checkbox Action Bar 卡片 群組
+- 標籤 Tag: JS + CSS
+- 範例文字 Example text: 「海邊 山林 夜空 午後」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/card/304-selectable-cards.md](examples/card/304-selectable-cards.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「多選卡片（Selectable Cards）」動態效果：一排可多選的圖片卡片：點擊卡片時，卡片外圍出現強調色框線並輕微縮小，圖片在框內微放大，右上角的圓形勾選框填滿並畫出勾勾（帶回彈）；只要有選取，畫面底部就從下方彈出一條膠囊形操作列，顯示「已選 N 項」（數字變動時上下滾動）與「下一步 →」按鈕；全部取消時操作列滑回隱藏。（JS 切換 aria-pressed，CSS 依 [aria-pressed=true] 改變框線、scale 與勾勾的 stroke-dashoffset；操作列 translateY 與 opacity transition）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 305 · 邊框聚光網格 — Border Spotlight Grid
+
+游標在卡片群之間移動時，靠近的卡片邊框和內部被一團光照亮
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、標題・Hero
+- 風格／關鍵字 Style: 邊框 聚光 光暈 網格 功能介紹 SaaS Linear Border Spotlight Glow Grid Feature Cards 卡片 群組
+- 標籤 Tag: radial-gradient
+- 範例文字 Example text: 「速度 安全 協作 整合 分析 支援」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/card/305-border-spotlight-grid.md](examples/card/305-border-spotlight-grid.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「邊框聚光網格（Border Spotlight Grid）」動態效果：功能介紹區的一組卡片排成網格，每張卡片的邊框是細細的一圈：游標在整個區塊內移動時，每張卡片都在「游標相對於自己的位置」畫一團柔和的光，所以靠近游標的卡片邊框被照亮成強調色、內部也帶淡淡光暈，遠離的卡片幾乎不亮；游標在卡片之間移動，光會自然地跨越相鄰卡片的邊框。（CSS：卡片外層 padding 1px 當邊框，背景 radial-gradient(circle at var(--x) var(--y), 強調色, 透明)；內層用另一個較淡的 radial-gradient；JS 在容器 mousemove 時為每張卡片計算相對座標寫入 --x、--y）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 306 · 3D 環形輪播 — 3D Ring Carousel
+
+卡片圍成一圈在 3D 空間緩慢旋轉，可以用滑鼠左右拖轉
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 循環待機、拖曳手勢
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero、介面互動
+- 風格／關鍵字 Style: 3D 環形 旋轉木馬 輪播 圓環 Ring Carousel 3D Rotate Gallery Drag 卡片 群組
+- 標籤 Tag: GSAP 3D
+- 範例文字 Example text: 「海邊 山林 夜空 午後 城市 森林 湖畔 沙漠」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/card/306-3d-ring-carousel.md](examples/card/306-3d-ring-carousel.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「3D 環形輪播（3D Ring Carousel）」動態效果：八張圖片卡片在 3D 空間中圍成一個圓環，整個圓環以約 24 秒一圈的速度緩慢自轉，前方的卡片較大較近、後方的較小較遠，背面朝向觀者的卡片隱藏；使用者可以按住左右拖曳轉動圓環，放開後從目前角度繼續自轉。（CSS 3D：容器 perspective，圓環 transform-style:preserve-3d，每張卡片 rotateY(i × 360/N) translateZ(半徑)、backface-visibility:hidden；GSAP 讓圓環 rotationY 循環，Draggable 拖曳時暫停並依位移設定角度）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 307 · 翻牌配對遊戲 — Memory Match
+
+點兩張卡片翻開，一樣就留下並彈一下，不一樣就翻回去
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 翻牌 配對 記憶 遊戲 小遊戲 互動 Memory Match Card Game Flip Pairs 卡片 群組
+- 標籤 Tag: JS + CSS
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/card/307-memory-match.md](examples/card/307-memory-match.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「翻牌配對遊戲（Memory Match）」動態效果：一個 4 × 2 的翻牌記憶小遊戲：所有卡片背面朝上，點擊時卡片以 3D 翻轉顯示正面圖案；翻開兩張後，若圖案相同，兩張留在正面、底色變成強調色並彈一下；若不同，停留約 0.8 秒後兩張一起翻回背面；下方文字顯示配對進度，全部配對成功後顯示慶祝文字並洗牌重來。（CSS：卡片 transform-style:preserve-3d，正反兩面 backface-visibility:hidden，.on 時 rotateY(180deg)；JS 管理翻開的卡片與配對判斷）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 308 · 數據儀表卡片 — Stat Cards
+
+三張數據卡片依序浮上來，數字累加、迷你折線圖畫出、成長率淡入
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 數字資訊、介面互動
+- 風格／關鍵字 Style: 儀表板 數據 統計 KPI 折線 sparkline 後台 Dashboard Stat Cards KPI Sparkline Count Up 卡片 群組
+- 標籤 Tag: GSAP timeline
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/card/308-stat-cards.md](examples/card/308-stat-cards.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「數據儀表卡片（Stat Cards）」動態效果：後台儀表板的三張數據卡片（營收、訂單、轉換率）：進場時依序從下方浮上淡入（間隔約 0.12 秒），每張卡片中的大數字從 0 累加到目標值（含千分位與小數），下方的迷你折線圖從左到右畫出，最後成長百分比從左側淡入。（GSAP timeline：卡片 from y:30、opacity:0、stagger；數字用物件 tween + onUpdate 格式化；折線 polyline 用 DrawSVG 0% → 100%（或 stroke-dashoffset））
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 309 · 翻頁書 — Page Flip Book
+
+點一下書頁就以書脊為軸立體翻到左邊，翻完再一起翻回第一頁
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、標題・Hero
+- 風格／關鍵字 Style: 翻頁 書本 書頁 雜誌 型錄 電子書 Page Flip Book Magazine Catalog 3D 卡片 群組
+- 標籤 Tag: GSAP 3D
+- 範例文字 Example text: 「序章 旅程 相遇 尾聲」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/card/309-page-flip-book.md](examples/card/309-page-flip-book.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「翻頁書（Page Flip Book）」動態效果：像一本書：右側是一疊書頁，每頁正面有圖片與頁碼；點擊時最上面那頁以左側書脊為軸，在 3D 空間中翻到左邊（約 0.9 秒、緩入緩出），翻到一半時可以看到書頁的立體角度，翻過去後顯示該頁的背面；一頁一頁翻完後，所有書頁依序快速翻回第一頁。（CSS 3D：每頁 transform-origin:left、transform-style:preserve-3d，正反兩面 backface-visibility:hidden、背面 rotateY(180deg)；GSAP tween rotationY 0 → −180，並在翻頁時調整 z-index 讓翻過去的頁疊在最上面）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 310 · 照片堆展開 — Stack to Grid
+
+一疊散亂的照片，點一下平滑排成整齊的網格，再點收回成一疊
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、標題・Hero
+- 風格／關鍵字 Style: 照片 堆疊 展開 網格 相簿 整理 Photo Pile Stack To Grid Spread Flip 卡片 群組
+- 標籤 Tag: Flip
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/card/310-stack-to-grid.md](examples/card/310-stack-to-grid.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「照片堆展開（Stack to Grid）」動態效果：一疊散亂的照片（每張帶寬邊框、隨機歪斜不同角度、疊在中央）：點擊後，照片一張接一張（間隔約 0.04 秒）平滑地飛到整齊的 3 × 2 網格位置並轉正；再點一次則從網格飛回成散亂的一疊。約 0.7 秒、緩入緩出。（GSAP Flip：Flip.getState(照片) → 切換容器的 class（從絕對定位堆疊改成 grid 排列、rotate 歸零）→ Flip.from(state, {absolute:true, stagger:.04})）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 311 · 對折邀請卡 — Folding Card
+
+像實體卡片一樣，封面以左邊為軸立體打開，露出裡面的圖片和文字
+
+- 元件 Component: 卡片・群組 (`card`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、標題・Hero
+- 風格／關鍵字 Style: 卡片 對折 邀請卡 賀卡 打開 3D Folding Greeting Invitation Card Open 卡片 群組
+- 標籤 Tag: GSAP 3D
+- 範例文字 Example text: 「YOU ARE INVITED」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/card/311-folding-card.md](examples/card/311-folding-card.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「對折邀請卡（Folding Card）」動態效果：一張對折的邀請卡：一開始只看到封面（強調色底、大標題與「點一下打開」），點擊時封面以左側為軸，在 3D 空間中往左翻開 180 度（約 0.9 秒），封面背面是一張圖片，右側露出卡片內頁的邀請文字與日期；整張卡片同時往右平移，讓打開後的整體保持置中；再點一次則闔上。（CSS 3D：容器 perspective；封面 transform-origin:left、preserve-3d，正面與背面 backface-visibility:hidden、背面 rotateY(180deg)；GSAP timeline 同時 tween 封面 rotationY 0 → −180 與卡片 xPercent 0 → 50，play / reverse 切換）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+## 圖片・媒體 (media) — 21
+
+### 105 · 3D 傾斜視差圖片 — Tilt Parallax Image
+
+hover 時圖片跟著游標 3D 傾斜，景物分層視差、反光與說明滑出
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、強調重點
+- 風格／關鍵字 Style: 圖片 照片 hover 懸停 3D 傾斜 視差 反光 Tilt Parallax Glare Image Hover Card
+- 標籤 Tag: quickTo・3D
+- 範例文字 Example text: 「山嵐 夕照」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/media/105-tilt-parallax-image.md](examples/media/105-tilt-parallax-image.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「3D 傾斜視差圖片（Tilt Parallax Image）」動態效果：一張圖片卡片，滑鼠在圖片上移動時，整張圖以游標位置為方向做 3D 傾斜（最多約 ±10 度）並微微放大；圖片內的遠景、中景、近景分層往反方向位移，形成視差景深；一道柔和的反光跟著游標移動；同時底部的說明文字（小標＋標題）從下方滑上來。滑鼠離開時全部平滑回正、說明收回。（GSAP：gsap.quickTo 控制 rotationX / rotationY / scale，父層設 perspective；各圖層用 quickTo 依不同係數位移；反光用 radial-gradient 搭配 CSS 變數 --gx、--gy 定位；說明用 transform 過場）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 115 · 圖片遮罩揭示 — Image Clip Reveal
+
+圖片從下往上被揭開，同時由放大慢慢縮回原尺寸
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 進場、退場
+- 技術 Tech: CSS
+- 情境 Uses: 轉場切換、標題・Hero
+- 風格／關鍵字 Style: 圖片 照片 遮罩 揭示 進場 clip-path Image Reveal Mask Wipe Zoom
+- 標籤 Tag: clip-path
+- 範例文字 Example text: 「」（預覽底色：cream，固定文字）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/media/115-image-clip-reveal.md](examples/media/115-image-clip-reveal.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「圖片遮罩揭示（Image Clip Reveal）」動態效果：圖片進場時，外框像窗簾一樣由下往上被揭開，框內的圖片同時從約 1.35 倍慢慢縮回原尺寸，形成「揭開＋鏡頭拉遠」的層次；停留後再由下往上收起消失。揭開約 1.2 秒，緩入緩出（cubic-bezier(.7,0,.2,1)）。（CSS：外框用 clip-path:inset() 的 keyframes 從 inset(100% 0 0 0) 到 inset(0)；內層圖片 transform:scale 1.35→1；實際網站可配合捲動進入畫面時才播放）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 116 · 前後對比滑桿 — Before / After Slider
+
+拖曳中間的把手，左右比較兩張圖的差異
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 拖曳手勢、懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 圖片 比較 對比 前後 滑桿 拖曳 Before After Compare Slider Image Comparison
+- 標籤 Tag: clip-path・Drag
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/media/116-before-after-slider.md](examples/media/116-before-after-slider.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「前後對比滑桿（Before / After Slider）」動態效果：兩張同尺寸的圖片重疊，中間有一條直線和圓形把手（帶左右箭頭），左上角標示 BEFORE、右上角標示 AFTER；拖曳把手時分界線跟著左右移動，左邊顯示原圖、右邊顯示修改後的圖，方便比較差異；未操作時可以緩慢左右擺動提示可拖曳。（做法：上層圖片用 clip-path:inset(0 0 0 var(--p))，pointerdown/pointermove 算出游標在框內的比例寫入 --p；把手用 setPointerCapture 確保拖出框外也能繼續拖；手機上設 touch-action:pan-y）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 131 · 柔邊遮罩揭示 — Soft Mask Reveal
+
+圖片由左到右被一道柔和的漸層邊緣揭開
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero、轉場切換
+- 風格／關鍵字 Style: 圖片 照片 遮罩 柔邊 漸層 揭示 羽化 溫和 柔和 輕柔 引導 動線 視線 閱讀順序 低調 Subtle Gentle Soft Entrance Visual Flow Hierarchy
+- 標籤 Tag: Soft mask
+- 範例文字 Example text: 「」（預覽底色：cream，固定文字）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/media/131-soft-mask-reveal.md](examples/media/131-soft-mask-reveal.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「柔邊遮罩揭示（Soft Mask Reveal）」動態效果：圖片進場時，一道帶羽化邊緣的漸層遮罩由左往右慢慢掃過，把圖片柔和地揭開（不是硬切的直線），同時圖片從 1.08 倍、稍微偏左的位置慢慢縮回原尺寸定位，約 1.9–2.3 秒、平順減速，比硬邊遮罩更安靜、更有質感。（CSS + GSAP：外框 mask:linear-gradient(90deg, #000 var(--p), transparent calc(var(--p) + 25%))，用 GSAP tween --p 從 -25 到 100；內層圖片 scale 1.08→1、x -8→0）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 153 · 捲動放大全幅圖片 — Scroll Zoom to Full
+
+小圖隨捲動放大到充滿畫面，最後浮出標題
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero、捲動效果、轉場切換
+- 風格／關鍵字 Style: 圖片 放大 全幅 全螢幕 展開 Zoom Image Expand Full Screen Fullbleed 捲動 滾動 scroll ScrollTrigger scrub 捲動觸發
+- 標籤 Tag: ScrollTrigger scrub
+- 範例文字 Example text: 「走進風景」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/media/153-scroll-zoom-to-full.md](examples/media/153-scroll-zoom-to-full.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「捲動放大全幅圖片（Scroll Zoom to Full）」動態效果：畫面中央一張帶圓角的小圖（約 4 成寬），隨著往下捲動逐漸放大到充滿整個畫面，圓角同時縮成直角，圖片內容則從 1.3 倍慢慢縮回原尺寸（避免放大時看起來糊），放大到後段時標題從下方淡入疊在圖片上；往回捲時全部倒退。（GSAP：timeline 綁 ScrollTrigger scrub:true，區塊 pin 或 sticky；tween width / height / borderRadius 與內層 scale；也可改用 clip-path inset 做）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 158 · 圖框內視差 — Image Parallax in Frame
+
+圖片在框裡移動得比捲動慢，產生深度
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 捲動效果、標題・Hero
+- 風格／關鍵字 Style: 圖片 視差 圖框 照片 景深 Image Parallax Frame Inner Parallax Gallery 捲動 滾動 scroll ScrollTrigger scrub 捲動觸發
+- 標籤 Tag: ScrollTrigger scrub
+- 範例文字 Example text: 「清晨 午後 夜晚」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/media/158-image-parallax-in-frame.md](examples/media/158-image-parallax-in-frame.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「圖框內視差（Image Parallax in Frame）」動態效果：一列上下排列的圖片，每張圖片外框固定、裁切超出的部分，圖片本身比外框高一些；捲動時圖片在框內以較慢的速度反向位移（從上偏到下偏約 ±12%），看起來像窗外的風景，比整塊一起捲動更有深度；圖片下方有簡短說明。（GSAP：外框 overflow:hidden，內層圖高約 128%，每張圖一個 ScrollTrigger，start "top bottom"、end "bottom top"，scrub yPercent -12→12）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 165 · 圖片圓形展開 — Circle to Card Image
+
+圓形縮圖在滑過時展開成直式圓角卡片並浮出標題
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、標題・Hero
+- 風格／關鍵字 Style: 圖片 圓形 展開 縮圖 頭像 團隊 image shape expand circle hover hover 懸停 滑鼠移入 滑過 互動
+- 標籤 Tag: CSS hover
+- 範例文字 Example text: 「清晨 午後 夜晚」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/media/165-circle-to-card-image.md](examples/media/165-circle-to-card-image.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「圖片圓形展開（Circle to Card Image）」動態效果：一排圓形的圖片縮圖，滑鼠移到其中一張時，圓形平滑變成較高的直式圓角矩形（同時往下長高），圖片內容從 1.18 倍縮回原尺寸、看到更多畫面，下方標題淡入；移開時恢復圓形。約 0.55 秒、減速。適合團隊成員或作品分類。（CSS：外框 border-radius 50%→小圓角、height 同步 transition；內層圖片 transform:scale 1.18→1；標題 opacity / translateY）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 168 · 展開式圖片面板 — Expanding Panels
+
+一排窄圖片面板，滑過的那一片展開變寬並顯示標題
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、標題・Hero
+- 風格／關鍵字 Style: 圖片 面板 展開 手風琴 相簿 gallery accordion expanding panels flex hover 懸停 滑鼠移入 滑過 互動
+- 標籤 Tag: CSS flex
+- 範例文字 Example text: 「山林 花海 夜空 夕照 海岸」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/media/168-expanding-panels.md](examples/media/168-expanding-panels.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「展開式圖片面板（Expanding Panels）」動態效果：一排等寬的直條圖片面板，滑鼠移到某一片時，它平滑展開成約其他片 4 倍寬，其他面板同步縮窄，展開完成後該片左下角的標題淡入；移到另一片時順暢地交棒。約 0.6 秒、減速。適合作品分類或圖庫入口。（CSS：容器 display:flex，每片 flex:1，hover 時 flex:4，transition flex；圖片用 object-fit:cover 避免變形；標題加 transition-delay）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 184 · 平移 — Pan
+
+圖片帶動態模糊從側邊快速滑入，停留後滑出另一側
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 進場、退場
+- 技術 Tech: CSS
+- 情境 Uses: 轉場切換、標題・Hero
+- 風格／關鍵字 Style: 平移 滑入 滑出 動態模糊 轉場 Pan Slide Motion Blur Transition Canva 風格 Canva Pan 平移 簡報 社群貼文 動畫
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「旅行日記」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/media/184-pan.md](examples/media/184-pan.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「平移（Pan）」動態效果：圖片卡片從畫面左外側快速滑入（約 0.6 秒、先快後慢），滑動時帶一點動態模糊，到位後清晰停留；最後再加速往右側滑出並帶模糊。像鏡頭快速平移，適合照片切換或轉場。（CSS：keyframes translateX(-140%)→0→140%，搭配 filter:blur 在移動段出現，cubic-bezier(.7,0,.2,1)）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 191 · 緩慢推鏡 — Ken Burns
+
+圖片持續緩慢放大並微微平移，像紀錄片的推鏡
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、背景裝飾
+- 風格／關鍵字 Style: 推鏡 慢速 放大 平移 相片 紀錄片 Ken Burns Slow Zoom Pan Photo Canva 風格 Canva Photo Zoom 相片放大 簡報 社群貼文 動畫
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「海岸線」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/media/191-ken-burns.md](examples/media/191-ken-burns.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「緩慢推鏡（Ken Burns）」動態效果：照片在固定的外框內非常緩慢地放大（約 9 秒放大到 1.22 倍）並同時往一側輕微平移，然後再慢慢退回，來回循環，像紀錄片中對靜態照片的推鏡，讓靜態圖片產生生命感；圖片上的標題保持不動。（CSS：外框 overflow:hidden，內層圖片 keyframes scale(1)→scale(1.22) translate(-4%, 2%)，ease-in-out，alternate infinite，transform-origin 設在主體附近）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 262 · 框內微放大 — Hover Zoom in Frame
+
+滑過圖片時，圖片在固定的框內慢慢微放大，標題從底部浮上來
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: hover 放大 縮放 圖片放大 框內 固定框 overflow hidden 作品集 商品圖 Image Zoom Hover Scale Thumbnail Gallery 圖片 媒體
+- 標籤 Tag: CSS hover
+- 範例文字 Example text: 「海邊 山林 城市」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/media/262-hover-zoom-in-frame.md](examples/media/262-hover-zoom-in-frame.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「框內微放大（Hover Zoom in Frame）」動態效果：一排圖片卡片，每張圖片放在固定尺寸、圓角的框裡（overflow:hidden）：滑鼠滑過時，框的大小不變，裡面的圖片以約 0.8 秒、減速的曲線慢慢放大到 1.1 倍；框底部的標題列（帶由透明到半透明的漸層底）同時從下方略微上移並變得完全清楚；滑開時圖片緩緩縮回。（CSS：容器 overflow:hidden；img 設 transition: transform .8s cubic-bezier(.2,.7,.2,1)，容器 :hover 時 img transform:scale(1.1)；標題 translateY 與 opacity 一起過渡）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 263 · 滑過放大檢視 — Hover Zoom & Pan
+
+滑過圖片時放大兩倍，放大的位置跟著游標移動，看商品細節
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 放大 檢視 細節 商品圖 電商 跟隨游標 平移 Zoom Pan Hover Product Detail Ecommerce 圖片 媒體
+- 標籤 Tag: transform-origin
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/media/263-hover-zoom-pan.md](examples/media/263-hover-zoom-pan.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「滑過放大檢視（Hover Zoom & Pan）」動態效果：商品大圖：滑鼠移進圖片時，圖片在原本的框內平滑放大到約 2.2 倍，而且放大的中心點跟著游標位置移動——游標移到左上就看左上的細節，移到右下就看右下；滑鼠離開時縮回原尺寸。右下角有「滑過看細節」的小提示，放大時淡出。（JS + CSS：mousemove 時把 transform-origin 設為游標在圖片中的百分比位置，容器 :hover 時 scale(2.2)，transition 0.5 秒；容器 overflow:hidden、cursor:zoom-in）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 264 · 低飽和喚醒 — Saturate on Hover
+
+圖片平常是低飽和、偏暗，滑過時恢復鮮豔並微微放大
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 灰階 去色 飽和度 喚醒 濾鏡 作品集 團隊照片 Grayscale Saturate Filter Hover Team 圖片 媒體
+- 標籤 Tag: CSS filter
+- 範例文字 Example text: 「春 夏 秋」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/media/264-saturate-on-hover.md](examples/media/264-saturate-on-hover.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「低飽和喚醒（Saturate on Hover）」動態效果：一排團隊或作品照片，平常呈現低飽和、略暗的樣子，讓整排畫面安靜統一；滑鼠滑過某張時，該張在約 0.6 秒內恢復完整的飽和度與亮度，並在框內微微放大到 1.05 倍，底部的名字標籤浮上來。（CSS：img 預設 filter: grayscale(.9) brightness(.8)，:hover 時 filter:none 並 scale(1.05)，filter 與 transform 一起 transition）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 265 · 商品圖切換 — Image Swap on Hover
+
+電商商品卡片滑過時，換成第二張角度的照片，下方圓點跟著切換
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 懸停・點擊、切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 商品 電商 第二張圖 換圖 切換 Image Swap Hover Product Card Ecommerce Second Image 圖片 媒體
+- 標籤 Tag: CSS hover
+- 範例文字 Example text: 「亞麻襯衫」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/media/265-image-swap-on-hover.md](examples/media/265-image-swap-on-hover.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「商品圖切換（Image Swap on Hover）」動態效果：電商商品卡片：上方是商品主圖，滑鼠滑過卡片時，第二張（例如穿搭或背面角度）的照片淡入並從 1.08 倍縮回原尺寸，主圖同時淡出並微微放大，形成柔和的換圖；圖片下方的兩個小圓點指示器跟著切換目前是第幾張；卡片下方顯示商品名稱與價格。（CSS：兩張圖疊在同一個框內絕對定位，:hover 時交換 opacity 與 scale，transition 約 0.5–0.7 秒）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 266 · 滑過預覽影片 — Hover to Play Video
+
+影片縮圖平常靜止，滑過時播放鍵縮小消失、畫面開始播放、進度條前進
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 影片 預覽 自動播放 縮圖 播放鍵 YouTube Video Preview Hover Play Thumbnail 圖片 媒體
+- 標籤 Tag: CSS hover
+- 範例文字 Example text: 「旅行紀錄」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/media/266-hover-to-play-video.md](examples/media/266-hover-to-play-video.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「滑過預覽影片（Hover to Play Video）」動態效果：影片縮圖卡片：平常畫面稍暗、靜止，中間有一個圓形播放鍵，右下角顯示片長；滑鼠滑過時，播放鍵縮小淡出，畫面變亮並開始播放（示意中以緩慢推鏡代替），底部出現一條進度條開始前進；滑開時暫停並回到靜止狀態。（實作：hover 時呼叫 video.play()、離開時 pause() 並把 currentTime 歸零；播放鍵用 scale 與 opacity 過渡；video 設 muted、playsinline 才能自動播放）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 267 · 點圖放大燈箱 — Lightbox Zoom
+
+點一下縮圖，它從原位置平滑放大到畫面中央，背景變暗；再點縮回
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、轉場切換
+- 風格／關鍵字 Style: 燈箱 lightbox 放大 圖片檢視 相簿 Modal Zoom Gallery Photo Viewer Flip 圖片 媒體
+- 標籤 Tag: Flip
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/media/267-lightbox-zoom.md](examples/media/267-lightbox-zoom.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「點圖放大燈箱（Lightbox Zoom）」動態效果：一排正方形縮圖，點擊任一張時，那張圖從原本的位置與大小平滑放大到畫面中央的大尺寸（約 0.55 秒、緩入緩出），同時背後鋪上一層半透明遮罩讓其他內容變暗；點擊大圖或遮罩時，圖片平滑縮回原本在縮圖列中的位置，遮罩淡出。（GSAP Flip：Flip.getState 記錄縮圖 → 加上「放大」的 class（改為絕對定位置中、較大尺寸）→ Flip.from 補間；收回時反向；遮罩用 opacity transition）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 268 · 縮圖列相簿 — Thumbnail Gallery
+
+點下方縮圖，大圖從側邊推入換張並微微縮回，指示條滑到目前縮圖
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 切換、循環待機
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 相簿 縮圖 大圖 商品圖 輪播 Gallery Thumbnails Slider Product Images Carousel 圖片 媒體
+- 標籤 Tag: GSAP
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/media/268-thumbnail-gallery.md](examples/media/268-thumbnail-gallery.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「縮圖列相簿（Thumbnail Gallery）」動態效果：商品相簿：上方一張大圖，下方一排縮圖；點擊某張縮圖時，新的大圖從對應方向（往後點從右、往前點從左）推入，舊圖往反方向稍微移出，新圖內部同時從 1.25 倍緩緩縮回原尺寸，增加景深感；縮圖列中目前那張變得完全不透明，其他半透明，下方一條指示條滑動並對齊目前縮圖；也可以自動輪播。（GSAP：新圖 fromTo xPercent ±100 → 0，舊圖 to xPercent ∓30，power3.inOut 0.6 秒；指示條用 CSS transform 與 width 過渡）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 269 · 切片轉場 — Slice Transition
+
+圖片被切成直條，一條上一條下依序滑走，露出下一張
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 切換、循環待機
+- 技術 Tech: GSAP
+- 情境 Uses: 轉場切換、標題・Hero
+- 風格／關鍵字 Style: 切片 直條 轉場 換圖 百葉窗 Slice Strips Image Transition Slideshow Venetian 圖片 媒體
+- 標籤 Tag: GSAP stagger
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/media/269-slice-transition.md](examples/media/269-slice-transition.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「切片轉場（Slice Transition）」動態效果：圖片輪播的轉場：目前的圖片被切成 6 條等寬的直條，換下一張時，這些直條依序（每條間隔約 0.06 秒）一條往上、一條往下交錯滑出畫面，露出底下的下一張圖，下一張圖同時從 1.15 倍慢慢縮回原尺寸。（實作：每條直條是 overflow:hidden 的容器，裡面放同一張圖並往左位移「條寬 × 索引」使拼起來是完整一張；GSAP 對所有直條 yPercent ±110、stagger 0.06、power3.in）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 270 · 拍立得洗牌 — Photo Stack Shuffle
+
+一疊微歪的拍立得照片，點一下最上面那張被抽走、塞回最底下
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、標題・Hero
+- 風格／關鍵字 Style: 拍立得 照片 堆疊 洗牌 相簿 Polaroid Photo Stack Shuffle Deck 圖片 媒體
+- 標籤 Tag: GSAP timeline
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/media/270-photo-stack-shuffle.md](examples/media/270-photo-stack-shuffle.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「拍立得洗牌（Photo Stack Shuffle）」動態效果：一疊拍立得風格的照片（四周帶寬邊框、下方較寬處寫小標題），每張以不同角度微微歪斜地疊在一起；點擊時最上面那張往右被抽出並旋轉，接著回到整疊的最底下，其他照片同時調整位置與角度補上，形成洗牌的效果，可以一直點下去。（GSAP timeline：最上面那張 x +120%、rotation 18 → 調整 z-index 排到最底 → 回到堆疊位置；每張依堆疊順序設定 rotation 與 x/y 的小偏移）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 271 · 故障錯位圖片 — Glitch Image
+
+滑過時圖片分出兩層色版左右錯位、一段段閃爍，像訊號不良
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、強調重點
+- 風格／關鍵字 Style: 故障 glitch 錯位 色版 訊號 賽博 Glitch Image RGB Split Distortion Cyberpunk 圖片 媒體
+- 標籤 Tag: CSS clip-path
+- 範例文字 Example text: 「SIGNAL」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/media/271-glitch-image.md](examples/media/271-glitch-image.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「故障錯位圖片（Glitch Image）」動態效果：滑鼠滑過圖片時觸發故障效果：圖片疊出兩個不同色版的複本，以「濾色」混合模式疊在原圖上，各自左右錯開幾個百分比，並用 clip-path 只顯示隨機的水平條帶，快速跳動閃爍；原圖本身也小幅左右抖動；中間的標題文字出現左右錯開的兩道色邊；滑開後恢復正常。（CSS：兩個複本用 filter:sepia + saturate + hue-rotate 做成不同色版、mix-blend-mode:screen；keyframes 搭配 steps() 改變 transform 與 clip-path: inset(...)）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 275 · 捲動速度傾斜 — Scroll Velocity Skew
+
+圖片列表在快速捲動時跟著速度歪斜，停下來就回正
+
+- 元件 Component: 圖片・媒體 (`media`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 捲動效果、介面互動
+- 風格／關鍵字 Style: 傾斜 歪斜 速度 慣性 skew 捲動 Scroll Velocity Skew Images List 捲動觸發 ScrollTrigger
+- 標籤 Tag: getVelocity
+- 範例文字 Example text: 「山 海 城 林」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/media/275-scroll-velocity-skew.md](examples/media/275-scroll-velocity-skew.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「捲動速度傾斜（Scroll Velocity Skew）」動態效果：一列可捲動的圖片卡片，平常排列整齊；當使用者快速捲動時，所有卡片依捲動速度沿垂直方向歪斜（skewY），捲得越快歪得越多，方向跟著捲動方向，最大約 12 度；捲動減速或停止時平滑回正，帶出慣性與速度感。（GSAP：ScrollTrigger.create 的 onUpdate 中取得 self.getVelocity()，換算成角度並 clamp，用 gsap.quickTo(元素, "skewY", {duration:.5, ease:"power3.out"}) 平滑設定）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+## 圖形・SVG (shape) — 35
+
+### 088 · 手繪圈重點 — Draw Highlight
+
+手繪圓圈與底線畫出來
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 
+- 標籤 Tag: DrawSVG
+- 範例文字 Example text: 「重點在這」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/shape/088-draw-highlight.md](examples/shape/088-draw-highlight.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「手繪圈重點（Draw Highlight）」動態效果：重點文字外圍用像手繪的線條畫出一個圓圈，接著在下方畫一條底線，停留後線條從起點方向收掉，圓頭線端。（GSAP：DrawSVGPlugin，drawSVG "0%"→"100%"，再到 "100% 100%"）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 089 · 形狀變形 — Shape Morph
+
+圓、星、心、雲朵互相變形
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: Logo・品牌、轉場切換
+- 風格／關鍵字 Style: 
+- 標籤 Tag: MorphSVG
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/shape/089-shape-morph.md](examples/shape/089-shape-morph.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「形狀變形（Shape Morph）」動態效果：一個色塊在圓形、星形、愛心、雲朵之間平滑變形，每次變形同時換一個顏色，整體緩慢旋轉。（GSAP：MorphSVGPlugin，morphSVG 切換路徑，ease expo.inOut）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 090 · 路徑飛行 — Path Flight
+
+紙飛機沿曲線飛行並轉向
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 循環待機
+- 技術 Tech: GSAP
+- 情境 Uses: 背景裝飾
+- 風格／關鍵字 Style: 
+- 標籤 Tag: MotionPath
+- 範例文字 Example text: 「」（預覽底色：acc，固定文字）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/shape/090-path-flight.md](examples/shape/090-path-flight.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「路徑飛行（Path Flight）」動態效果：一架紙飛機沿著帶迴圈的虛線曲線飛過畫面，機頭會跟著路徑方向轉彎，飛出畫面後重新開始。（GSAP：MotionPathPlugin，path/align 指定 SVG 路徑，autoRotate:true）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 133 · 上傳 SVG 描繪 — Draw Your SVG
+
+上傳自己的線條 SVG，看它像用筆一筆一筆畫出來
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: Logo・品牌、強調重點
+- 風格／關鍵字 Style: SVG 上傳 自訂 線條 描邊 手繪 筆畫 Logo 插畫 Line Drawing Stroke Draw Upload Custom
+- 標籤 Tag: DrawSVG・上傳
+- 範例文字 Example text: 「」（預覽底色：cream，固定文字）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/shape/133-draw-your-svg.md](examples/shape/133-draw-your-svg.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「上傳 SVG 描繪（Draw Your SVG）」動態效果：把我提供的線條 SVG（貼在這段說明後面）做成「像用筆畫出來」的進場：每條路徑依照原本的繪製順序一筆接一筆描出來，每筆的描繪時間依長度分配（長的線畫久一點、短的快一點），筆畫之間稍微重疊銜接，整體約 3 秒、緩入緩出；畫完停留後可淡出重播，或只播放一次。所有圖形改為只描邊、不填色，線端與轉角使用圓角。（GSAP：DrawSVGPlugin，對每個 path / line / polyline / circle 依序 fromTo drawSVG "0%"→"100%"，duration 依 getTotalLength() 比例計算；純 CSS 也可用 stroke-dasharray + stroke-dashoffset 做到）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 134 · 手寫簽名 — Signature Writing
+
+一顆筆尖沿著簽名路徑書寫，最後補上一道底線
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: Logo・品牌、標題・Hero
+- 風格／關鍵字 Style: 簽名 手寫 草寫 書寫 筆尖 Signature Handwriting Cursive Pen Write On
+- 標籤 Tag: DrawSVG・MotionPath
+- 範例文字 Example text: 「」（預覽底色：cream，固定文字）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/shape/134-signature-writing.md](examples/shape/134-signature-writing.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「手寫簽名（Signature Writing）」動態效果：一個草寫簽名的線條路徑，從起筆處開始被慢慢寫出來，路徑最前端有一顆小圓點筆尖跟著移動，像真的有人在書寫（約 2.6 秒、緩入緩出）；簽名寫完後筆尖消失，下方再快速劃出一道微彎的底線收尾。適合作品集 Hero 或品牌簽名。（GSAP：DrawSVGPlugin 描繪簽名路徑，同時用 MotionPathPlugin 讓筆尖圓點沿同一條路徑移動，兩者時間與 ease 相同；簽名需是單筆的描邊路徑，不是外框字）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 135 · 線條插畫逐筆描繪 — Line Illustration Draw
+
+線條插畫一筆一筆畫完，最後主體淡淡浮現
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero、背景裝飾
+- 風格／關鍵字 Style: 插畫 線條插畫 逐筆 描繪 手繪 圖解 Line Art Illustration Draw Sketch
+- 標籤 Tag: DrawSVG
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/shape/135-line-illustration-draw.md](examples/shape/135-line-illustration-draw.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「線條插畫逐筆描繪（Line Illustration Draw）」動態效果：一張由多條線組成的線條插畫（例如一杯冒著熱氣的咖啡：杯碟、杯身、把手、三縷熱氣），依照由下往上、由主體到細節的順序一筆一筆描出來，每筆約 0.9 秒、間隔約 0.32 秒；全部畫完後，主體淡淡地補上一層半透明填色，熱氣線條輕輕上下飄動一次。整體安靜、有手作感。（GSAP：DrawSVGPlugin 對各路徑 stagger 描繪；填色用另一個相同形狀的 path 從 opacity 0 淡入）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 136 · 圖示描邊 hover — Icon Stroke Redraw
+
+滑過線條圖示時，筆畫重新描一次並微微上浮
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 圖示 icon 線條圖示 hover 重繪 描邊 選單 導覽 Icon Stroke Draw Hover Menu
+- 標籤 Tag: DrawSVG hover
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/shape/136-icon-stroke-redraw.md](examples/shape/136-icon-stroke-redraw.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「圖示描邊 hover（Icon Stroke Redraw）」動態效果：一排線條圖示（首頁、搜尋、愛心、通知），每個放在圓角方框內；滑鼠移到某個圖示上時，該圖示的線條從頭重新描繪一次（約 0.7 秒，多筆畫依序錯開 0.12 秒），方框邊框與線條同時切換成強調色，圖示微微上浮 6px 再回來。（GSAP：pointerenter 時對該圖示的 path / circle fromTo drawSVG "0%"→"100%"，加 overwrite:true 避免快速滑過時打架）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 137 · 流程連線流動 — Flowing Connectors
+
+節點之間的虛線持續流動，小圓點沿線傳遞
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 數字資訊、背景裝飾
+- 風格／關鍵字 Style: 流程圖 架構圖 節點 連線 虛線 流動 資料流 Flow Diagram Connector Dashed Line Data Flow
+- 標籤 Tag: stroke-dashoffset
+- 範例文字 Example text: 「使用者 前端 後端 資料庫」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/shape/137-flowing-connectors.md](examples/shape/137-flowing-connectors.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「流程連線流動（Flowing Connectors）」動態效果：流程圖或系統架構圖中，各節點（圓形＋下方標籤）之間用平滑曲線連接，連線是虛線且虛線持續朝資料流動的方向移動，另外有小圓點沿著每條連線來回傳遞，表達資料正在流動；速度平穩、循環不停。（CSS：path 設 stroke-dasharray，用 keyframes 持續改變 stroke-dashoffset；小圓點用 SVG animateMotion 或 CSS offset-path 沿同一條路徑移動，各條錯開起始時間）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 138 · 波浪分隔線 — Wave Divider
+
+區塊底部多層波浪以不同速度緩慢流動
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾、轉場切換
+- 風格／關鍵字 Style: 波浪 分隔線 區塊分隔 水波 海浪 Wave Divider Section Separator Liquid
+- 標籤 Tag: SVG wave
+- 範例文字 Example text: 「波浪分隔」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/shape/138-wave-divider.md](examples/shape/138-wave-divider.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「波浪分隔線（Wave Divider）」動態效果：兩個區塊之間用波浪形狀分隔，波浪由 3 層組成，後層較淡較高、前層較實較低，三層以不同速度（約 6、9、13 秒一輪）左右緩慢流動、方向不完全相同，形成有深度的水波感，無縫循環。（CSS：每層是一個寬度 200%、內含兩個完整波長的 SVG path，用 translateX(0 → -50%) 的 linear 無限動畫做到無縫；不同層設定不同 animation-duration 與方向）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 139 · 圓環進度 — Circular Progress
+
+圓環描到指定百分比，中間數字同步累加
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 數字資訊
+- 風格／關鍵字 Style: 進度 圓環 百分比 儀表 數據 統計 Progress Ring Donut Percentage Gauge Stats
+- 標籤 Tag: DrawSVG
+- 範例文字 Example text: 「專案完成度」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/shape/139-circular-progress.md](examples/shape/139-circular-progress.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「圓環進度（Circular Progress）」動態效果：一個圓環進度圖，底下有一圈低對比的軌道，進場時進度弧線從正上方開始順時針描到指定百分比（例如 78%），線端圓角；中間的百分比數字從 0 同步累加到 78%，下方小字標示項目名稱；約 1.8 秒、緩入緩出，停在結果。（GSAP：DrawSVGPlugin drawSVG "0%"→"0% 78%"，SVG 整體 rotate(-90deg) 讓起點在上方；數字 tween 一個物件數值 + onUpdate 寫入，與弧線同時間、同 ease）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 140 · 打勾完成 — Success Checkmark
+
+先畫一個圓，再打勾並輕彈，最後浮出成功訊息
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、數字資訊
+- 風格／關鍵字 Style: 成功 完成 打勾 勾選 確認 送出 付款 狀態 Success Check Done Confirm Tick
+- 標籤 Tag: DrawSVG
+- 範例文字 Example text: 「付款成功」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/shape/140-success-checkmark.md](examples/shape/140-success-checkmark.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「打勾完成（Success Checkmark）」動態效果：送出或付款完成時的成功狀態：先描出一個圓（約 0.8 秒），接著在圓內快速劃出一個打勾（約 0.45 秒），打勾完成的瞬間整個圖示輕輕彈大 8% 再回來，同時下方的「付款成功」文字從下方 8px 淡入。乾淨、明確、讓人安心。（GSAP：DrawSVGPlugin 依序描繪 circle 與勾的 path；圖示 scale 1→1.08 yoyo；文字 fromTo y:8 / opacity:0）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 157 · 捲動繪製路徑 — Scroll Draw Path
+
+一條曲線隨捲動一路畫下去，串起各個段落
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 捲動效果、數字資訊
+- 風格／關鍵字 Style: 路徑 曲線 線條 繪製 時間軸 旅程 故事 Scroll Path Draw SVG Line Journey Story 捲動 滾動 scroll ScrollTrigger scrub 捲動觸發
+- 標籤 Tag: DrawSVG scrub
+- 範例文字 Example text: 「起點 探索 成長 抵達」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/shape/157-scroll-draw-path.md](examples/shape/157-scroll-draw-path.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「捲動繪製路徑（Scroll Draw Path）」動態效果：頁面背景有一條左右蜿蜒、貫穿整段內容的曲線，底下先有一條很淡的軌跡；往下捲動時，強調色的線條沿著軌跡一路畫下去，捲到哪畫到哪，往回捲時線條縮回；沿線的幾個節點（圓點＋標題）在線條接近時從兩側交錯淡入。適合品牌故事、旅程、歷程介紹。（GSAP：DrawSVGPlugin drawSVG 0%→100% 綁 ScrollTrigger scrub；SVG 高度與內容同高、preserveAspectRatio:none；節點各自用 toggleActions 淡入）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 192 · Logo 組合登場 — Logo Build Reveal
+
+標誌的圓、方塊、圓點依序畫出組合，再滑出品牌名
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: Logo・品牌、標題・Hero
+- 風格／關鍵字 Style: Logo 標誌 品牌 開場 組合 描繪 Logo Reveal Brand Intro Build SVG 圖形
+- 標籤 Tag: DrawSVG
+- 範例文字 Example text: 「STUDIO」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/shape/192-logo-build-reveal.md](examples/shape/192-logo-build-reveal.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「Logo 組合登場（Logo Build Reveal）」動態效果：品牌標誌依序組合登場：外圈的圓先被描出來（約 0.9 秒），接著中間旋轉 45 度的方塊描邊並填入強調色，中心圓點從 0 彈出放大，最後品牌名稱從左側 12px 滑入淡出現；停留後整體淡出。適合網站開場或影片片頭。（GSAP：DrawSVGPlugin 依序描繪 circle 與 rect，fill-opacity 0→1；圓點 scale 用 back.out(3)；文字 fromTo x:-12 / opacity:0）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 193 · 音訊波形 — Audio Waveform
+
+一排長條像音訊波形一樣隨機跳動
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 循環待機
+- 技術 Tech: GSAP
+- 情境 Uses: 數字資訊、介面互動、App 介面
+- 風格／關鍵字 Style: 音訊 波形 音樂 播放器 等化器 Podcast Audio Waveform Equalizer Visualizer SVG 圖形
+- 標籤 Tag: SVG bars
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/shape/193-audio-waveform.md](examples/shape/193-audio-waveform.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「音訊波形（Audio Waveform）」動態效果：音訊播放器中的波形：一排細長圓角長條以中線為基準上下伸縮，每根長條高度隨機、速度略有不同且持續變化，像正在播放的聲音；左側圓形播放按鈕、右側顯示時間。（GSAP：對所有 rect tween scaleY:"random(.12,1)"、duration:"random(.22,.5)"，repeat:-1、yoyo:true、repeatRefresh:true 讓每次重複都重新取亂數，transformOrigin 置中）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 194 · 漸層光流線條 — Flowing Gradient Stroke
+
+線條上的漸層持續流動，一道光點沿線繞行
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾、Logo・品牌
+- 風格／關鍵字 Style: 漸層 線條 流動 光點 彗星 無限符號 Gradient Stroke Flow Comet Infinity Loop SVG 圖形
+- 標籤 Tag: SVG gradient
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/shape/194-flowing-gradient-stroke.md](examples/shape/194-flowing-gradient-stroke.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「漸層光流線條（Flowing Gradient Stroke）」動態效果：一條封閉的無限符號形曲線，線條本身是多色漸層，漸層沿著線條方向持續流動；同時有一小段明亮的光點像彗星一樣沿著線條繞行並帶微微發光。適合品牌裝飾或科技感背景。（SVG：linearGradient 設 gradientUnits="userSpaceOnUse"、spreadMethod="repeat"，用 animateTransform 平移 gradientTransform；光點用第二條相同路徑，stroke-dasharray 一短段實線、keyframes 改 stroke-dashoffset）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 195 · 液體填充圖示 — Liquid Fill Icon
+
+圖示內的液面帶著波浪慢慢上升，百分比同步增加
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 循環待機
+- 技術 Tech: GSAP
+- 情境 Uses: 數字資訊、介面互動、App 介面
+- 風格／關鍵字 Style: 液體 填充 波浪 進度 百分比 載入 Liquid Fill Wave Progress Loading Icon SVG 圖形
+- 標籤 Tag: SVG clipPath
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/shape/195-liquid-fill-icon.md](examples/shape/195-liquid-fill-icon.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「液體填充圖示（Liquid Fill Icon）」動態效果：一個愛心形狀的圖示，內部的液體帶著兩層互相交錯流動的波浪，液面從底部慢慢上升到填滿，中央的百分比數字從 0% 同步增加到 100%；液面以外保留圖示外框。可用於上傳進度、目標達成率。（SVG：用 clipPath 把波浪限制在圖示形狀內；波浪 path 寬度為兩個波長，CSS translateX 無縫循環；液面高度用 GSAP 控制外層 g 的 y，數字同步 tween）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 196 · 雷達掃描 — Radar Sweep
+
+掃描扇形持續繞圈，掃過的位置亮起光點
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 數字資訊、背景裝飾
+- 風格／關鍵字 Style: 雷達 掃描 搜尋 定位 科技 地圖 Radar Scan Sweep Ping Search Tech SVG 圖形
+- 標籤 Tag: SVG radar
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/shape/196-radar-sweep.md](examples/shape/196-radar-sweep.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「雷達掃描（Radar Sweep）」動態效果：雷達畫面：幾圈同心圓與十字準線，一個半透明的扇形掃描區持續順時針繞圈（約 3 秒一圈），掃描線經過的位置會亮起光點並短暫放大，接著逐漸淡出，等下一圈掃過再亮。適合搜尋中、定位、科技風儀表板。（SVG + CSS：扇形 path 放在 g 中以中心旋轉；每個光點的 animation-delay 依照它的角度換算成掃描線抵達的時間）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 197 · 折線圖繪製 — Line Chart Draw
+
+折線由左到右畫出，資料點依序彈出，下方面積淡入
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 進場、捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 數字資訊
+- 風格／關鍵字 Style: 折線圖 圖表 數據 成長 趨勢 Dashboard Line Chart Graph Data Visualization SVG 圖形
+- 標籤 Tag: DrawSVG
+- 範例文字 Example text: 「月營收成長」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/shape/197-line-chart-draw.md](examples/shape/197-line-chart-draw.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「折線圖繪製（Line Chart Draw）」動態效果：折線圖進場：背景有淡淡的水平格線，折線由左到右描繪出來（約 1.6 秒），每個資料點在線條經過時依序從 0 彈出，線條畫到後段時，線下方的面積以漸層淡入，最後在終點上方浮出成長數值標籤。（GSAP：DrawSVGPlugin 描繪折線 path；資料點 stagger 時間 = 描繪時間 ÷ 點數；面積用同樣路徑加上底邊封閉並填入由上到下漸淡的漸層；實際網站可搭配 ScrollTrigger 捲到時播放）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 198 · 長條圖成長 — Bar Chart Grow
+
+長條依序由下往上長出並略微回彈，數值同步累加
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 進場、捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 數字資訊
+- 風格／關鍵字 Style: 長條圖 柱狀圖 圖表 數據 統計 Dashboard Bar Chart Column Graph Data SVG 圖形
+- 標籤 Tag: Stagger
+- 範例文字 Example text: 「每月瀏覽次數」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/shape/198-bar-chart-grow.md](examples/shape/198-bar-chart-grow.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「長條圖成長（Bar Chart Grow）」動態效果：長條圖進場：每根長條依序（間隔 0.1 秒）從底線往上長出並略微過衝回彈，長條頂端的數值同時從 0 累加到實際數字，下方顯示月份標籤。適合報表、成果頁。（GSAP：長條 transform-origin 底部、fromTo scaleY 0→1、ease back.out(1.6)；數值 tween 物件數值 + onUpdate；可搭配 ScrollTrigger 捲到時播放）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 199 · 圓餅圖分段 — Donut Chart Segments
+
+環圈圖一段接一段畫出，圖例依序滑入
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 進場、捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 數字資訊
+- 風格／關鍵字 Style: 圓餅圖 環圈圖 甜甜圈圖 比例 圖表 數據 Donut Pie Chart Segments Data SVG 圖形
+- 標籤 Tag: DrawSVG
+- 範例文字 Example text: 「流量來源」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/shape/199-donut-chart-segments.md](examples/shape/199-donut-chart-segments.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「圓餅圖分段（Donut Chart Segments）」動態效果：環圈圖（甜甜圈圖）進場：從正上方開始，第一個分類的弧段順時針畫出，接著下一段從前一段的終點接續畫出，依序完成整圈，每段之間保留細小間隙，各段用不同的分類色；中央顯示總計與標題，右側圖例依序從右滑入。（GSAP：每段是一個完整圓圈，用 DrawSVGPlugin 的 drawSVG "起點% 起點%" → "起點% 終點%" 畫出指定區段；SVG rotate(-90deg) 讓起點在上方）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 200 · 幾何載入動畫 — Geometric Loader
+
+圓形、方形、三角形依序彈跳翻轉，作為載入中提示
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 載入 讀取 loading 等待 幾何 彈跳 Loader Spinner Geometric Shapes Bounce SVG 圖形
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/shape/200-geometric-loader.md](examples/shape/200-geometric-loader.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「幾何載入動畫（Geometric Loader）」動態效果：載入中提示：三個描邊的幾何圖形（圓形、方形、三角形）排成一列，依序像波浪一樣先壓扁蓄力、跳起並翻轉 360 度、落地時再壓扁回彈，循環播放，比一般轉圈圖示更有個性。（CSS：同一組 keyframes 包含 scale 壓扁、translateY 跳起、rotate 翻轉，三個圖形用 animation-delay 錯開 0.18 秒）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 201 · SVG 濾鏡水波扭曲 — Turbulence Distortion
+
+文字像隔著水面一樣持續波動扭曲
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、背景裝飾
+- 風格／關鍵字 Style: 濾鏡 扭曲 水波 液態 熱浪 迷幻 SVG Filter Turbulence Displacement Distortion Liquid SVG 圖形
+- 標籤 Tag: feTurbulence
+- 範例文字 Example text: 「水波扭曲」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/shape/201-turbulence-distortion.md](examples/shape/201-turbulence-distortion.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「SVG 濾鏡水波扭曲（Turbulence Distortion）」動態效果：大標題像隔著水面或熱浪一樣持續波動扭曲，扭曲的紋理與強度緩慢變化，文字仍可辨識但帶有液態、迷幻的感覺。（SVG filter：feTurbulence 產生雜訊、feDisplacementMap 依雜訊位移原圖，用 animate 讓 baseFrequency 與 scale 在數值間循環；在 HTML 元素上以 CSS filter:url(#id) 套用；注意效能，避免套在大面積或大量元素上）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 273 · 捲動旋轉立方體 — Scroll Rotating Cube
+
+一個 3D 立方體隨捲動旋轉，每一面寫著不同的關鍵字
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 捲動效果、標題・Hero
+- 風格／關鍵字 Style: 立方體 3D 旋轉 方塊 cube 捲動 Scroll Rotate Cube Faces 捲動觸發 ScrollTrigger
+- 標籤 Tag: ScrollTrigger
+- 範例文字 Example text: 「設計 開發 動態 品牌 策略 測試」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/shape/273-scroll-rotating-cube.md](examples/shape/273-scroll-rotating-cube.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「捲動旋轉立方體（Scroll Rotating Cube）」動態效果：畫面中央一個 3D 立方體，六個面各寫一個關鍵字並使用不同的主題色：隨著使用者往下捲動，立方體略微俯視（rotateX −20 度）並繞垂直軸旋轉，依捲動進度轉過 270 度，讓各面依序轉到正前方。（GSAP ScrollTrigger scrub：立方體 transform-style:preserve-3d，六個面以 rotateY / rotateX ± 90 度加 translateZ(邊長的一半) 組成；捲動時 tween rotationY）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 277 · 捲動形狀變形 — Scroll Shape Morph
+
+一個圖形隨捲動依序變形成星星、愛心、方塊，邊變邊轉
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 捲動效果、強調重點
+- 風格／關鍵字 Style: 變形 形狀 morph 星星 愛心 SVG 捲動 Scroll Shape Morph 捲動觸發 ScrollTrigger
+- 標籤 Tag: MorphSVG
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/shape/277-scroll-shape-morph.md](examples/shape/277-scroll-shape-morph.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「捲動形狀變形（Scroll Shape Morph）」動態效果：畫面中央一個實心的圓形 SVG 圖形，隨著使用者往下捲動，依序平滑變形成五角星、愛心、圓角方塊，每次變形同時旋轉 90 度；變形進度完全由捲動控制，往回捲會反向變回去。（GSAP MorphSVGPlugin + ScrollTrigger scrub：timeline 依序 to(path, {morphSVG: 下一個形狀的 d, rotation:"+=90", transformOrigin:"50% 50%"})）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 285 · 圖示微動畫 — Icon Micro-animations
+
+滑過圖示時各自做出符合意思的小動作：鈴鐺搖、愛心跳、齒輪轉、垃圾桶掀蓋
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 圖示 icon 微動畫 鈴鐺 愛心 齒輪 垃圾桶 Icon Micro Animation Bell Heart Gear Trash Hover hover 懸停 滑過
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/shape/285-icon-micro-animations.md](examples/shape/285-icon-micro-animations.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「圖示微動畫（Icon Micro-animations）」動態效果：一排功能圖示按鈕（通知、收藏、設定、刪除），滑鼠滑過時圖示的底色亮起，並各自做出符合意思的微動畫：鈴鐺以頂端為軸左右搖晃幾下後停住；愛心填滿並跳動一下；齒輪的齒轉 90 度並帶一點回彈；垃圾桶的蓋子以左端為軸掀開一個角度。讓介面更有生命力又不干擾。（CSS：SVG 圖示的特定部位設 transform-origin（SVG 內元素記得 transform-box:fill-box），:hover 時套用各自的 keyframes 或 transform transition）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 322 · 地圖路線導航 — Map Route
+
+地圖上的地標針依序落下，路線從起點畫到終點，小圓點沿路線前進
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 進場、循環待機
+- 技術 Tech: GSAP
+- 情境 Uses: 數字資訊、標題・Hero
+- 風格／關鍵字 Style: 地圖 路線 導航 地標 定位 旅程 外送 物流 Map Route Path Pin Delivery Journey 圖形 SVG
+- 標籤 Tag: MotionPath
+- 範例文字 Example text: 「台北 台中 高雄」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/shape/322-map-route.md](examples/shape/322-map-route.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「地圖路線導航（Map Route）」動態效果：一張簡化的地圖背景（淡淡的陸地輪廓與經緯格線），上面有三個地標針從上方依序落下並彈跳停住，每個地標下方標示地名；接著一條路線從起點沿著彎曲路徑一路畫到終點（約 2.2 秒），同時一個帶光圈的小圓點沿著路線前進；抵達終點時終點地標彈一下。（GSAP：地標 from y:-30 + bounce.out stagger；路線 DrawSVG 0% → 100%；小圓點用 MotionPathPlugin 沿同一條 path 移動，duration 與畫線一致；底下另有一條淡色虛線表示完整路線）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 323 · 即時時鐘 — Analog Clock
+
+顯示現在時間的指針時鐘，秒針每秒跳一格並帶一點回彈
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 數字資訊、介面互動
+- 風格／關鍵字 Style: 時鐘 指針 秒針 即時 時間 Clock Analog Watch Time Real-time 圖形 SVG
+- 標籤 Tag: JS rAF
+- 範例文字 Example text: 「現在時間」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/shape/323-analog-clock.md](examples/shape/323-analog-clock.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「即時時鐘（Analog Clock）」動態效果：一個顯示目前真實時間的指針時鐘：錶面有 60 個刻度（每 5 格較粗較長），時針、分針連續平滑移動，秒針用強調色、每一秒跳一格，跳動時在約 0.15 秒內微微超過再彈回定位，像真的機械錶。（JS requestAnimationFrame：讀取 Date 的時分秒毫秒，計算各指針角度；秒針角度 = (秒 − 1 + 回彈曲線(毫秒/150)) × 6 度；SVG line 用 transform rotate）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 324 · 天氣圖示動畫 — Animated Weather Icons
+
+晴天太陽緩轉、雲朵飄動、雨滴落下、閃電閃一下
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面、數字資訊
+- 風格／關鍵字 Style: 天氣 圖示 太陽 雲 雨 閃電 icon Weather Icons Animated Sun Cloud Rain Thunder 圖形 SVG
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/shape/324-animated-weather-icons.md](examples/shape/324-animated-weather-icons.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「天氣圖示動畫（Animated Weather Icons）」動態效果：一組天氣圖示卡片：晴天的太陽與光芒緩慢自轉；多雲的雲朵左右輕輕飄移；雨天的雨滴從雲下方錯開時間持續落下並淡出；雷雨的閃電大部分時間暗淡，偶爾快速閃兩下。圖示下方標示天氣名稱。（SVG + CSS keyframes：太陽 rotate 10 秒一圈；雲 translateX 來回；雨滴 translateY + opacity，animation-delay 錯開；閃電用 steps(1) 的 keyframes 做閃爍）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 325 · 選取框螞蟻線 — Marching Ants Selection
+
+虛線選取框的線條持續流動，四角有控制點，框的大小改變時尺寸數字即時更新
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、強調重點
+- 風格／關鍵字 Style: 選取框 虛線 螞蟻線 控制點 設計工具 Figma Marching Ants Selection Box Handles 圖形 SVG
+- 標籤 Tag: stroke-dashoffset
+- 範例文字 Example text: 「設計工具」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/shape/325-marching-ants-selection.md](examples/shape/325-marching-ants-selection.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「選取框螞蟻線（Marching Ants Selection）」動態效果：像設計工具裡的選取框：一個虛線矩形框住內容，虛線持續往同一個方向流動（俗稱螞蟻線），四個角落有方形控制點；選取框的大小在兩種尺寸之間平滑變化，下方的尺寸標籤（寬 × 高）跟著即時更新數字。（SVG rect：stroke-dasharray 6 5，keyframes 讓 stroke-dashoffset 從 0 到 −11 無限循環；框的 width/height 用 CSS keyframes 改變；JS 定時讀取尺寸更新標籤）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 326 · 有機流動色塊 — Organic Blob
+
+一團不規則的柔軟色塊持續緩慢變形，後面還有一層淡淡的影子
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾、標題・Hero、強調重點
+- 風格／關鍵字 Style: 有機 色塊 斑點 流動 變形 液態 Blob Organic Shape Morph Liquid 圖形 SVG
+- 標籤 Tag: JS + SVG
+- 範例文字 Example text: 「Blob」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/shape/326-organic-blob.md](examples/shape/326-organic-blob.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「有機流動色塊（Organic Blob）」動態效果：一團有機的不規則色塊（像軟軟的液體或果凍），邊緣以多組不同頻率的正弦波驅動，持續緩慢地變形、永不重複；後方還有一層稍大、較淡的同色影子以不同節奏變形，增加層次；文字放在色塊中央。（JS requestAnimationFrame：取 8 個繞圓分布的控制點，半徑 = 基準 + 多個 sin(時間 + 索引 × 相位) 的和，用 Catmull-Rom 轉成平滑的三次貝茲曲線寫入 path 的 d）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 327 · 成就徽章解鎖 — Badge Unlock
+
+六角形徽章描邊畫出、星星從大縮小蓋上去、四周光芒放射
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 強調重點、App 介面
+- 風格／關鍵字 Style: 徽章 成就 解鎖 獎勵 遊戲化 Badge Achievement Unlock Reward Gamification 圖形 SVG
+- 標籤 Tag: DrawSVG
+- 範例文字 Example text: 「連續登入 7 天」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/shape/327-badge-unlock.md](examples/shape/327-badge-unlock.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「成就徽章解鎖（Badge Unlock）」動態效果：達成成就時的徽章動畫：六角形徽章的外框先沿著邊一筆畫出，接著內部淡入填滿；一顆星星從很大、旋轉、透明的狀態快速縮小落到徽章中央並帶回彈，像蓋章一樣；同時徽章四周的一圈短光芒由內往外快速射出後消失，徽章整體輕彈一下；下方的成就名稱與「成就解鎖」字樣依序浮現。（GSAP timeline：DrawSVG 畫外框 → fillOpacity → 星星 fromTo scale 3 → 1、rotation −60 → 0、back.out → 光芒 DrawSVG "0% 0%" → "0% 100%" → "100% 100%"）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 328 · 心電圖線條 — ECG Heartbeat Line
+
+心電圖的波形由左往右畫出，發光的游標點沿線前進，旁邊心跳數字跳動
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 循環待機
+- 技術 Tech: GSAP
+- 情境 Uses: 數字資訊、App 介面
+- 風格／關鍵字 Style: 心電圖 心跳 波形 健康 醫療 監測 ECG Heartbeat Pulse Monitor Health 圖形 SVG
+- 標籤 Tag: DrawSVG
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/shape/328-ecg-heartbeat-line.md](examples/shape/328-ecg-heartbeat-line.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「心電圖線條（ECG Heartbeat Line）」動態效果：醫療或健康 App 的心電圖顯示：深色帶細格線的螢幕上，一條發光的心電圖波形（平線、小波、尖銳的 QRS 波、T 波重複）由左往右畫出，一顆發光的游標點跟著畫線的前端前進，畫到底後線條從左側開始消失再重畫；右上角顯示心跳數字（偶爾小幅變動）與一顆規律跳動的愛心。（GSAP：DrawSVG "0% 0%" → "0% 100%" 畫出、再到 "100% 100%" 消失；游標點用 MotionPathPlugin 沿同一條路徑；愛心 scale yoyo）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 329 · 樹枝生長 — Growing Plant
+
+樹幹先長出來，再分出枝條，最後葉子一片片冒出
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero、Logo・品牌
+- 風格／關鍵字 Style: 樹 生長 植物 枝條 葉子 成長 永續 Growing Tree Plant Branches Leaves Growth 圖形 SVG
+- 標籤 Tag: DrawSVG
+- 範例文字 Example text: 「慢慢長大」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/shape/329-growing-plant.md](examples/shape/329-growing-plant.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「樹枝生長（Growing Plant）」動態效果：一棵樹由下往上生長：先畫出地面線與主幹（約 0.8 秒），接著左右分枝依序長出，再長出更細的小枝；枝條畫完後，葉子以隨機順序一片片從枝條末端彈出（從 0 放大到 1，帶回彈）；最後下方文字浮現。適合品牌故事、成長或永續主題。（GSAP timeline：每條枝條是 SVG path，用 DrawSVG 0% → 100% 依序畫出；葉子 scale 0 → 1、transform-origin 在葉柄、stagger from:"random"）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 330 · 齒輪連動 — Gear Train
+
+三個大小不同的齒輪咬合在一起，依齒數比例以不同速度互相帶動
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 循環待機
+- 技術 Tech: GSAP
+- 情境 Uses: 背景裝飾、數字資訊
+- 風格／關鍵字 Style: 齒輪 連動 機械 運轉 設定 系統 Gears Cogs Mechanism Rotation Settings 圖形 SVG
+- 標籤 Tag: GSAP
+- 範例文字 Example text: 「系統運作中」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/shape/330-gear-train.md](examples/shape/330-gear-train.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「齒輪連動（Gear Train）」動態效果：三個大小與齒數不同的齒輪彼此咬合：最大的齒輪以固定速度順時針轉動，與它咬合的兩個較小齒輪依照齒數比例以較快的速度逆時針轉動（齒數少的轉得快），齒與齒對準不會穿模，像機械系統正在運作；適合「處理中」、設定或系統狀態的畫面。（SVG：用程式依半徑與齒數產生齒輪輪廓 path；GSAP 讓每個齒輪 rotation 無限循環，小齒輪的角速度 = 大齒輪 × (大齒數 ÷ 小齒數)、方向相反，並設定初始相位讓齒對齊）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 331 · 指紋掃描解鎖 — Fingerprint Scan
+
+指紋紋路一圈圈畫出，掃描光條上下掃過，成功後外框發光並打勾
+
+- 元件 Component: 圖形・SVG (`shape`)
+- 時機 Timing: 進場、切換
+- 技術 Tech: GSAP
+- 情境 Uses: App 介面、介面互動
+- 風格／關鍵字 Style: 指紋 掃描 解鎖 生物辨識 驗證 登入 Fingerprint Scan Biometric Unlock Auth 圖形 SVG
+- 標籤 Tag: DrawSVG
+- 範例文字 Example text: 「驗證成功」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/shape/331-fingerprint-scan.md](examples/shape/331-fingerprint-scan.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「指紋掃描解鎖（Fingerprint Scan）」動態效果：手機指紋解鎖畫面：圓角方形感應區中，指紋的弧線紋路由內而外一圈圈依序畫出；接著一條發光的掃描光條由上往下、再由下往上掃過，下方文字顯示「掃描中…」；掃描完成後指紋紋路變淡，一個粗勾勾快速畫出，感應區外框發出光暈，文字變成「驗證成功」。（GSAP timeline：指紋弧線用 DrawSVG stagger 畫出；掃描條 top 0% → 100% yoyo；完成時加 class 讓外框 box-shadow 發光，勾勾 DrawSVG 0% → 100%）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+## 背景・氛圍 (bg) — 36
+
+### 011 · 文字雨 — Letter Rain
+
+文字如雨般落下
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾
+- 風格／關鍵字 Style: 流動背景
+- 標籤 Tag: 奇幻・背景
+- 範例文字 Example text: 「あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろ」（預覽底色：cream，固定文字）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/bg/011-letter-rain.md](examples/bg/011-letter-rain.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「文字雨（Letter Rain）」動態效果：整個區塊背景布滿直排的假名文字，像雨一樣由上往下不斷落下，每一行速度不同（約 3–5 秒落完），少數幾行用強調色，其餘用低對比色調，奇幻背景感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 022 · 脈動格子 — Word Pulse Grid
+
+格狀文字隨波膨脹
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾
+- 風格／關鍵字 Style: 流動背景
+- 標籤 Tag: 背景・節奏
+- 範例文字 Example text: 「脈」（預覽底色：acc，固定文字）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/bg/022-word-pulse-grid.md](examples/bg/022-word-pulse-grid.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「脈動格子（Word Pulse Grid）」動態效果：同一個字排成 8×4 的格子，從中心往外一圈圈依序放大、變亮再縮小變暗，形成脈動波紋。約 1.8 秒一個波，節奏背景感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 030 · 棋盤翻轉 — Checker Words
+
+棋盤格文字依波浪翻轉
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾
+- 風格／關鍵字 Style: 流動背景
+- 標籤 Tag: 花紋・背景
+- 範例文字 Example text: 「文」（預覽底色：acc，固定文字）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/bg/030-checker-words.md](examples/bg/030-checker-words.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「棋盤翻轉（Checker Words）」動態效果：同一個字排成 10×4 的棋盤格，深淺方塊交錯，從左上到右下依序以 Y 軸翻轉，形成斜向的翻牌波浪。約 2.6 秒一輪，花紋背景感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 048 · 巨字滑過 — Huge Text Scroll
+
+超大字一快一慢橫越畫面
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾
+- 風格／關鍵字 Style: 流動背景
+- 標籤 Tag: 背景・遠景
+- 範例文字 Example text: 「台北夜行」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/bg/048-huge-text-scroll.md](examples/bg/048-huge-text-scroll.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「巨字滑過（Huge Text Scroll）」動態效果：超大字級的文字（比畫面還大）持續由右往左慢慢橫越，底部另有一條細帶，帶上的小字以較快速度反方向滑動。大字約 9 秒一輪，遠景背景感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 049 · 直書逆走 — Vertical Typography
+
+直排文字往反方向流
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾
+- 風格／關鍵字 Style: 流動背景
+- 標籤 Tag: 東方・靜與動
+- 範例文字 Example text: 「寂靜」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/bg/049-vertical-typography.md](examples/bg/049-vertical-typography.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「直書逆走（Vertical Typography）」動態效果：多欄直排文字，粗欄與細欄交錯，相鄰欄位一欄往上、一欄往下反方向流動，明體字。大欄慢（約 11 秒）、小欄快（約 6 秒），東方靜與動。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 050 · 斜線帶 — Diagonal Text Bands
+
+斜斜的帶子，文字反向跑
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾、轉場切換
+- 風格／關鍵字 Style: 流動背景
+- 標籤 Tag: 轉場・俏皮
+- 範例文字 Example text: 「天亮以前」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/bg/050-diagonal-text-bands.md](examples/bg/050-diagonal-text-bands.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「斜線帶（Diagonal Text Bands）」動態效果：兩條斜放的文字帶子交錯穿過畫面，兩條帶子用不同底色區分，帶上的重複文字往相反方向持續滑動，帶子有陰影。約 7–9 秒一輪，俏皮轉場感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 051 · 緞帶 — Text Ribbon
+
+文字沿著波浪線流動
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾
+- 風格／關鍵字 Style: 流動背景
+- 標籤 Tag: 裝飾・配樂感
+- 範例文字 Example text: 「跟著節奏走」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/bg/051-text-ribbon.md](examples/bg/051-text-ribbon.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「緞帶（Text Ribbon）」動態效果：一條寬的半透明波浪緞帶橫過畫面，文字沿著波浪曲線持續流動前進。約 2.4 秒流過一段，有配樂律動的裝飾感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 052 · 跑馬燈 — Marquee
+
+字體、速度都不同的帶子疊在一起
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾、數字資訊
+- 風格／關鍵字 Style: 流動背景
+- 標籤 Tag: 公告・街頭
+- 範例文字 Example text: 「限時開賣 新品上市 預購中 最後一天」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/bg/052-marquee.md](examples/bg/052-marquee.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「跑馬燈（Marquee）」動態效果：四條橫向跑馬燈疊在一起，每條字體、字級、速度、方向都不同，帶子之間有細分隔線。速度 5–11 秒一輪不等，像街頭公告看板。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 053 · 直書三層 — Parallax Columns
+
+三層直排文字一起流動
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾
+- 風格／關鍵字 Style: 流動背景
+- 標籤 Tag: 夜・東方
+- 範例文字 Example text: 「雨街燈夜」（預覽底色：cream）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/bg/053-parallax-columns.md](examples/bg/053-parallax-columns.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「直書三層（Parallax Columns）」動態效果：三層直排文字直向流動：最後層字小、很淡、速度快；中間層半透明、中速；最前層字大、不透明、速度慢，形成景深視差，明體字。夜晚東方感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 054 · 封鎖膠帶 — Tape Cross
+
+寫著字的膠帶交叉成 X
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 強調重點、背景裝飾
+- 風格／關鍵字 Style: 流動背景
+- 標籤 Tag: 警告・街頭
+- 範例文字 Example text: 「禁止進入」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/bg/054-tape-cross.md](examples/bg/054-tape-cross.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「封鎖膠帶（Tape Cross）」動態效果：兩條上下有粗邊的警示膠帶交叉成 X 形，膠帶上的重複文字往相反方向滑動，帶陰影。約 6–8 秒一輪，警告封鎖感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 056 · 文字走廊 — Text Corridor
+
+地板牆壁都是字，一路往前
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾、標題・Hero
+- 風格／關鍵字 Style: 3D 空間旋轉
+- 標籤 Tag: 沉浸・MV
+- 範例文字 Example text: 「前進」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/bg/056-text-corridor.md](examples/bg/056-text-corridor.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「文字走廊（Text Corridor）」動態效果：3D 透視的走廊，地板、天花板、左右牆面全部鋪滿重複文字，文字往觀者方向持續流動，中心消失點處有暗色漸層。約 6 秒一輪，沉浸往前感。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 069 · 空心字 — Outline Text
+
+空心字一行一行被填滿
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾
+- 風格／關鍵字 Style: 流動背景
+- 標籤 Tag: 質感・MV
+- 範例文字 Example text: 「疾風怒濤」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-15
+- 完整範例 Example: [examples/bg/069-outline-text.md](examples/bg/069-outline-text.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「空心字（Outline Text）」動態效果：畫面鋪滿多行重複的空心描邊文字，每行往不同方向緩慢橫移，並由上到下一行一行填滿顏色再退回空心。約 3.2 秒一輪，質感 MV。
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 082 · 格狀擴散 — Grid Stagger
+
+格子從中心向外一波波縮放
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: GSAP
+- 情境 Uses: 背景裝飾
+- 風格／關鍵字 Style: 
+- 標籤 Tag: Grid stagger
+- 範例文字 Example text: 「動」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/bg/082-grid-stagger.md](examples/bg/082-grid-stagger.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「格狀擴散（Grid Stagger）」動態效果：同一個字排成 10×5 的格子，從中心向外一波波縮小旋轉變淡，再從邊緣往內放大轉回，形成波紋。（GSAP：stagger { grid:[5,10], from:"center" / "edges", amount:1 }）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 099 · 彩紙爆發 — Confetti Burst
+
+受重力影響的彩紙噴發
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 強調重點
+- 風格／關鍵字 Style: 
+- 標籤 Tag: Physics2D
+- 範例文字 Example text: 「恭喜」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/bg/099-confetti-burst.md](examples/bg/099-confetti-burst.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「彩紙爆發（Confetti Burst）」動態效果：文字彈性放大的同時，從下方噴出一大把紙片，紙片受重力拋物線落下、旋轉並在尾段淡出，每 2 秒一次。（GSAP：Physics2DPlugin velocity / angle / gravity，random 隨機化）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 100 · 滾輪加速跑馬燈 — Velocity Marquee
+
+滾輪或拖曳讓跑馬燈加速傾斜
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 捲動觸發、拖曳手勢
+- 技術 Tech: GSAP
+- 情境 Uses: 背景裝飾、介面互動
+- 風格／關鍵字 Style: 
+- 標籤 Tag: Observer
+- 範例文字 Example text: 「滾輪加速」（預覽底色：acc）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/bg/100-velocity-marquee.md](examples/bg/100-velocity-marquee.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「滾輪加速跑馬燈（Velocity Marquee）」動態效果：兩行無限跑馬燈（一行實心、一行空心描邊，方向相反），使用者滾動滾輪或拖曳時加速並依方向傾斜，停下後慢慢恢復原速。（GSAP：Observer 取得 velocityY，調整 tween.timeScale 與 skewX）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 106 · 流動光暈漸層 — Aurora Gradient
+
+幾團模糊光暈緩慢漂移交融，像極光一樣流動
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾、標題・Hero
+- 風格／關鍵字 Style: 背景 極光 漸層 光暈 Aurora Mesh Gradient Blob Glow Hero 背景
+- 標籤 Tag: CSS blur
+- 範例文字 Example text: 「Aurora」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/bg/106-aurora-gradient.md](examples/bg/106-aurora-gradient.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「流動光暈漸層（Aurora Gradient）」動態效果：Hero 區塊背景放 3–4 團大型圓形光暈，經過強烈模糊後互相重疊交融，各自以不同速度（約 9–16 秒）緩慢漂移、放大縮小、來回擺盪，形成像極光一樣持續流動的漸層；前景標題保持清楚可讀。（CSS：每團用大尺寸圓形 + filter:blur + mix-blend-mode:screen，各自設不同 animation-duration 與負的 animation-delay，animation-direction:alternate）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 107 · 聚光網格 — Spotlight Grid
+
+細格線背景，游標附近的格線被點亮並帶柔光
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾、介面互動
+- 風格／關鍵字 Style: 背景 網格 格線 聚光 游標 光暈 Spotlight Grid Pattern Cursor Glow SaaS
+- 標籤 Tag: CSS mask
+- 範例文字 Example text: 「Spotlight」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/bg/107-spotlight-grid.md](examples/bg/107-spotlight-grid.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「聚光網格（Spotlight Grid）」動態效果：整個區塊背景是淡淡的細格線，游標所在位置周圍一圈的格線會被點亮成強調色，並帶一團柔和光暈，亮區跟著游標移動、邊緣自然淡出；游標離開時亮區消失。（做法：兩層相同的格線背景，上層用強調色，再用 mask:radial-gradient(circle at var(--mx) var(--my)) 只露出游標附近；mousemove 時更新 CSS 變數 --mx、--my）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 108 · 粒子連線 — Particle Network
+
+漂浮的粒子靠近時自動連線，游標會吸引附近粒子
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機、懸停・點擊
+- 技術 Tech: Canvas
+- 情境 Uses: 背景裝飾、標題・Hero
+- 風格／關鍵字 Style: 背景 粒子 連線 網路 星座 Particles Network Constellation particles.js Canvas
+- 標籤 Tag: Canvas 2D
+- 範例文字 Example text: 「Network」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/bg/108-particle-network.md](examples/bg/108-particle-network.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「粒子連線（Particle Network）」動態效果：背景有數十顆小粒子緩慢隨機漂浮、碰到邊界反彈；兩顆粒子距離夠近時自動連一條線，越近線越清楚、越遠越淡；游標移入時，附近粒子會被輕輕吸過去並和游標連線，形成像星座網路的效果。前景標題保持清楚。（Canvas 2D：requestAnimationFrame 每幀更新位置，兩兩計算距離畫線並依距離調整透明度；注意依 devicePixelRatio 設定畫布尺寸）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 160 · 章節主題切換 — Section Theme Switch
+
+捲到不同章節時，整個頁面背景與文字配置跟著切換
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 捲動觸發、切換
+- 技術 Tech: GSAP
+- 情境 Uses: 背景裝飾、捲動效果、轉場切換
+- 風格／關鍵字 Style: 背景 主題 切換 章節 區塊 Section Theme Background Change On Scroll Chapters 捲動 滾動 scroll ScrollTrigger scrub 捲動觸發
+- 標籤 Tag: ScrollTrigger toggle
+- 範例文字 Example text: 「序章 理念 作品 聯絡」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/bg/160-section-theme-switch.md](examples/bg/160-section-theme-switch.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「章節主題切換（Section Theme Switch）」動態效果：頁面分成幾個章節，每個章節有自己的背景與文字配色主題；當某個章節捲到畫面中線時，整個頁面的背景與文字在約 0.6 秒內平滑過渡到該章節的主題，往回捲時切回前一個，讓每一章有明確的氛圍轉換。（GSAP：每個章節一個 ScrollTrigger，start "top 50%"、end "bottom 50%"，onToggle 時切換 CSS 變數或 class；CSS 對 background / color 加 transition）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 172 · 星空穿越 — Warp Speed
+
+星星從中心往外飛成光線，游標移入時加速
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機、懸停・點擊
+- 技術 Tech: Canvas
+- 情境 Uses: 標題・Hero、背景裝飾
+- 風格／關鍵字 Style: 星空 星星 穿越 太空 光速 隧道 Starfield Warp Hyperspace Space Canvas 粒子 particles requestAnimationFrame 互動背景
+- 標籤 Tag: Canvas 3D
+- 範例文字 Example text: 「加速前進」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/bg/172-warp-speed.md](examples/bg/172-warp-speed.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「星空穿越（Warp Speed）」動態效果：Hero 背景是一片往鏡頭飛來的星星：每顆星星從畫面中心附近出發，越靠近觀者越亮、越大，並拉出放射狀的短光線，像太空船加速穿越；游標移入區塊時速度平滑加快，而且消失點會微微往游標方向偏移，移開後緩緩回到巡航速度。前景標題保持清楚。（Canvas 2D：每顆星有 x、y、z，每幀 z 遞減，投影座標 = 中心 + x/z × 焦距，從上一幀投影位置畫線到這一幀；畫面用半透明底色覆蓋做出殘影）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 173 · 流場線條 — Flow Field
+
+上千條細線順著看不見的氣流緩慢流動，游標會攪動氣流
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機、懸停・點擊
+- 技術 Tech: Canvas
+- 情境 Uses: 背景裝飾、標題・Hero
+- 風格／關鍵字 Style: 流場 氣流 線條 生成藝術 有機 Flow Field Generative Art Perlin Noise Lines Canvas 粒子 particles requestAnimationFrame 互動背景
+- 標籤 Tag: Canvas trails
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/bg/173-flow-field.md](examples/bg/173-flow-field.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「流場線條（Flow Field）」動態效果：背景佈滿數百個看不見的小粒子，每個粒子依照所在位置的「流向」（由平滑變化的雜訊或三角函數決定，且隨時間緩慢改變）前進並留下很細的軌跡，軌跡慢慢淡出，整體像風或水流的紋理不斷流動；游標附近的流向會被扭轉，形成被攪動的漩渦。（Canvas 2D：每幀先用低透明度的底色覆蓋畫面製造拖尾，再讓每個粒子依 angle = f(x, y, t) 前進一小段並畫線；粒子壽命到了或出界就重生；可用 simplex noise 讓流場更自然）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 174 · 飄落花瓣 — Falling Petals
+
+花瓣緩緩旋轉飄落，游標經過會把花瓣吹開
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機、懸停・點擊
+- 技術 Tech: Canvas
+- 情境 Uses: 背景裝飾、標題・Hero
+- 風格／關鍵字 Style: 花瓣 櫻花 飄落 下雪 天氣 季節 Petals Sakura Snow Weather Falling Particles Canvas 粒子 particles requestAnimationFrame 互動背景
+- 標籤 Tag: Canvas particles
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/bg/174-falling-petals.md](examples/bg/174-falling-petals.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「飄落花瓣（Falling Petals）」動態效果：背景有數十片花瓣從上方緩緩飄落，每片都會左右擺盪、翻轉（用縮放模擬翻面）並各自旋轉，速度大小略有差異；游標經過時會依移動方向與速度把附近的花瓣吹開，之後花瓣慢慢回到自然飄落。也可以換成雪花、雨滴等天氣粒子。（Canvas 2D：每片花瓣有位置、速度、角度與擺盪相位；游標速度 = 本幀與上一幀座標差，距離內的花瓣依距離加上推力，再逐漸衰減；落出畫面底部就回到頂端重生）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 175 · 數字雨 — Matrix Rain
+
+一行行字元像下雨一樣往下落，帶殘影拖尾
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: Canvas
+- 情境 Uses: 背景裝飾
+- 風格／關鍵字 Style: 數字雨 駭客 程式碼 字元 矩陣 科技 Matrix Code Rain Hacker Digital Canvas 粒子 particles requestAnimationFrame 互動背景
+- 標籤 Tag: Canvas text
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/bg/175-matrix-rain.md](examples/bg/175-matrix-rain.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「數字雨（Matrix Rain）」動態效果：整個區塊被一欄欄往下落的字元填滿（片假名、數字、英文），每欄速度一致、起點不同，最前端的字最亮，後面的字逐漸變暗拉出拖尾；落到底部後隨機回到頂端重新開始。科技、駭客感。（Canvas 2D：欄數 = 寬度 ÷ 字級，每欄記錄目前的 y；每約 55ms 用半透明底色覆蓋整個畫面一次，再在每欄目前位置畫一個隨機字元，y 往下一格，超出畫面後隨機重置）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 176 · 融合球 — Metaballs
+
+幾顆圓球漂浮移動，靠近時像液體一樣黏在一起
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機、懸停・點擊
+- 技術 Tech: Canvas
+- 情境 Uses: 背景裝飾、標題・Hero
+- 風格／關鍵字 Style: 融合球 液體 黏液 有機 熔岩燈 Metaballs Liquid Blob Gooey Lava Lamp Canvas 粒子 particles requestAnimationFrame 互動背景
+- 標籤 Tag: Canvas field
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/bg/176-metaballs.md](examples/bg/176-metaballs.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「融合球（Metaballs）」動態效果：背景有幾顆大小不一的圓球緩慢漂浮、碰到邊界反彈，當兩顆球靠近時邊緣會像液體一樣平滑地黏在一起、拉出連接的頸部，分開時再斷開；其中一顆會跟著游標移動，可以去「黏」其他球。像熔岩燈的有機感。（Canvas：在低解析度格子上計算每格的場強 Σ r²/d²，大於門檻就填色、邊緣做柔和過渡，再放大繪製到畫布；或用 CSS filter blur + contrast 的 gooey 技巧）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 178 · 磁力點陣 — Magnetic Dot Grid
+
+滿版小圓點，游標經過時被推開並放大
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: Canvas
+- 情境 Uses: 背景裝飾、介面互動
+- 風格／關鍵字 Style: 點陣 圓點 網格 磁力 排斥 互動背景 Dot Grid Repel Magnetic Interactive Background Canvas 粒子 particles requestAnimationFrame 互動背景
+- 標籤 Tag: Canvas spring
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/bg/178-magnetic-dot-grid.md](examples/bg/178-magnetic-dot-grid.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「磁力點陣（Magnetic Dot Grid）」動態效果：背景是整齊排列的細小圓點，游標移動時，附近的圓點被往外推開並變大、改用強調色，距離越近推得越遠，離開後以彈簧般的動作回到原位，形成跟著游標流動的凹陷。低調但很有互動感的背景。（Canvas 2D：每個點記錄原始位置，目標位置 = 原位 + 遠離游標方向 × 影響係數，用速度 + 阻尼做彈簧回彈；大小與透明度依距離插值）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 179 · 水波漣漪 — Water Ripple
+
+游標滑過或點擊的地方，畫面像水面一樣泛起漣漪
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: Canvas
+- 情境 Uses: 背景裝飾、標題・Hero
+- 風格／關鍵字 Style: 水波 漣漪 水面 波紋 折射 Water Ripple Wave Refraction Liquid Canvas 粒子 particles requestAnimationFrame 互動背景
+- 標籤 Tag: Canvas pixels
+- 範例文字 Example text: 「水面」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/bg/179-water-ripple.md](examples/bg/179-water-ripple.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「水波漣漪（Water Ripple）」動態效果：整個區塊像一面水，游標滑過時沿路產生細小波紋，點擊時產生較大的漣漪，波紋會向外擴散、互相干涉並逐漸平息，水面下的圖文會跟著波紋折射扭曲；沒有互動時偶爾自動滴下一滴水。（Canvas：在低解析度上用兩個高度緩衝區做經典水波演算法 next = (四鄰平均×2 − prev) × 阻尼；繪製時依高度梯度偏移取樣底圖的像素，再放大到畫布）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 181 · 煙火 — Fireworks
+
+點擊的位置升起煙火並炸開，沒操作時自動施放
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 懸停・點擊、循環待機
+- 技術 Tech: Canvas
+- 情境 Uses: 強調重點、背景裝飾
+- 風格／關鍵字 Style: 煙火 慶祝 爆炸 粒子 活動 節慶 Fireworks Celebration Particles Explosion Click Canvas 粒子 particles requestAnimationFrame 互動背景
+- 標籤 Tag: Canvas particles
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/bg/181-fireworks.md](examples/bg/181-fireworks.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「煙火（Fireworks）」動態效果：夜空背景，點擊任一位置時，從畫面底部發射一枚煙火往上升到點擊處，抵達後炸開成數十顆火花，火花向四周散開、受重力下墜、阻力減速並逐漸淡出，留下短暫拖尾；沒有操作時會隨機自動施放。適合活動頁、完成慶祝。（Canvas 2D：火箭用 ease-out 插值上升，爆炸時產生粒子陣列，每幀更新速度（×阻力、+重力）與壽命；畫面每幀用半透明底色覆蓋做拖尾）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 222 · 顆粒漸層 — Grain Gradient
+
+柔和的大片漸層緩慢流動，上面疊一層細微跳動的底片顆粒
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、背景裝飾
+- 風格／關鍵字 Style: 顆粒 雜訊 底片 噪點 漸層 質感 Grain Noise Film Gradient Texture 網格漸層 mesh gradient 背景 氛圍
+- 標籤 Tag: SVG noise
+- 範例文字 Example text: 「Grain」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/bg/222-grain-gradient.md](examples/bg/222-grain-gradient.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「顆粒漸層（Grain Gradient）」動態效果：Hero 背景是三團大面積、邊緣柔和的漸層光暈，以約 12 秒的週期緩慢交錯移動、來回飄移；上方再疊一層非常細的底片顆粒（雜訊）紋理，顆粒每秒跳動數次，讓畫面有類比印刷般的質感，前景標題保持清楚。（CSS：多個 radial-gradient 疊在同一背景，以 keyframes 動畫 background-position；顆粒層用 SVG feTurbulence 產生的雜訊當 background-image，mix-blend-mode:overlay、低透明度，用 steps() 的 keyframes 隨機位移製造跳動）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 223 · 復古透視網格 — Retro Grid Horizon
+
+地平線上一顆條紋夕陽，透視網格地板不斷往前推進
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、背景裝飾
+- 風格／關鍵字 Style: 復古 合成波 synthwave vaporwave 透視 網格 地板 地平線 夕陽 80年代 Retro Grid Horizon Perspective 背景 氛圍
+- 標籤 Tag: CSS 3D
+- 範例文字 Example text: 「RETRO WAVE」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/bg/223-retro-grid-horizon.md](examples/bg/223-retro-grid-horizon.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「復古透視網格（Retro Grid Horizon）」動態效果：80 年代合成波風格的背景：畫面中間是一條地平線，上方是一顆下半部被水平條紋切開的圓形夕陽並帶柔光；下方是一片透視傾斜的網格地板，格線持續朝觀者方向推進、遠處漸隱，形成無限往前開的感覺；標題浮在夕陽上方並帶微微發光。（CSS：地板是兩組 linear-gradient 格線，transform:perspective + rotateX(72deg)，keyframes 讓 background-position 前進一格長度無縫循環；遠端用 mask 漸隱；夕陽條紋用 repeating-linear-gradient 的 mask）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 224 · 散景光點 — Bokeh Lights
+
+大小不一的柔焦光點緩緩上飄、淡入淡出
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾、標題・Hero
+- 風格／關鍵字 Style: 散景 光點 柔焦 泡泡 漂浮 上飄 夢幻 Bokeh Lights Bubbles Floating Blur 背景 氛圍
+- 標籤 Tag: CSS blur
+- 範例文字 Example text: 「Bokeh」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/bg/224-bokeh-lights.md](examples/bg/224-bokeh-lights.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「散景光點（Bokeh Lights）」動態效果：背景飄著十多個大小不一、帶柔焦模糊的圓形光點，每個從下方以不同速度（約 7–14 秒）緩緩上飄，途中輕微左右偏移，出現時淡入、接近頂端時淡出，透明度各不相同，營造夢幻、溫暖的氛圍；標題在中間保持清楚。（CSS：每顆光點用 CSS 變數設定大小、水平位置、時長、負的 animation-delay 與偏移量，filter:blur，keyframes 控制 translate 與 opacity）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 226 · 同心圓擴散 — Pulse Rings
+
+中心點規律脈動，一圈圈圓環向外擴散後淡出
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 背景裝飾、強調重點、App 介面
+- 風格／關鍵字 Style: 同心圓 擴散 脈動 雷達 聲波 直播 定位 訊號 Pulse Rings Ripple Radar Signal Live 背景 氛圍
+- 標籤 Tag: CSS keyframes
+- 範例文字 Example text: 「Live」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/bg/226-pulse-rings.md](examples/bg/226-pulse-rings.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「同心圓擴散（Pulse Rings）」動態效果：畫面中心有一個實心圓點規律地輕輕脈動，從它的位置不斷有細圓環一圈圈向外擴散放大並逐漸變淡消失，多個圓環錯開時間形成連續的波紋，像雷達、聲波或「直播中」的訊號；中心圓點上可放短標籤。（CSS：3–4 個圓環共用同一個 keyframes：scale 0.15 → 1.25、opacity 0.9 → 0，用負的 animation-delay 均分錯開；中心點用另一個 scale 的 keyframes）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 227 · 旋轉光芒 — Sunburst Rays
+
+放射狀光芒在標題後方緩緩旋轉，中心最亮往外淡出
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、強調重點、背景裝飾
+- 風格／關鍵字 Style: 光芒 放射 太陽光 旋轉 慶祝 得獎 抽獎 Sunburst Rays Rotating God Rays Conic 背景 氛圍
+- 標籤 Tag: conic-gradient
+- 範例文字 Example text: 「WINNER」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/bg/227-sunburst-rays.md](examples/bg/227-sunburst-rays.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「旋轉光芒（Sunburst Rays）」動態效果：標題後方有一圈從中心向外放射的光芒條紋，整圈以約 30 秒一圈的速度緩慢旋轉，中心最亮、往外漸漸融入背景，像得獎、抽獎或慶祝畫面的聚光效果。（CSS：repeating-conic-gradient 畫出放射條紋並放大超出容器，keyframes rotate 360deg linear infinite；上方疊一層 radial-gradient 讓中心亮、邊緣暗）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 228 · 閃爍星空 — Twinkling Sky
+
+滿天星星各自閃爍，偶爾劃過一道流星，游標移動時星空微微視差
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機、懸停・點擊
+- 技術 Tech: Canvas
+- 情境 Uses: 標題・Hero、背景裝飾
+- 風格／關鍵字 Style: 星空 星星 閃爍 流星 夜空 宇宙 視差 Twinkling Stars Night Sky Shooting Star Canvas particles requestAnimationFrame 互動背景 背景 氛圍
+- 標籤 Tag: Canvas 2D
+- 範例文字 Example text: 「晚安」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/bg/228-twinkling-sky.md](examples/bg/228-twinkling-sky.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「閃爍星空（Twinkling Sky）」動態效果：夜空背景：上方深、往下帶一點柔和光暈，佈滿兩百多顆大小與亮度不同的星星，每顆以各自的速度與相位緩慢閃爍，最亮的幾顆閃爍到最亮時會出現細小的十字星芒；每隔幾秒有一道流星從右上斜向左下劃過並拖出漸淡的尾巴；游標移動時星空依星星的遠近做不同幅度的反向視差。（Canvas 2D：每顆星記錄位置、半徑、深度、閃爍頻率與相位，亮度 = sin(時間 × 頻率 + 相位)；流星用 createLinearGradient 畫線段；視差位移以 lerp 平滑）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 229 · 景深視差圖層 — Depth Parallax
+
+前中後三層圖形依距離不同幅度跟著游標反向移動，產生立體感
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、背景裝飾
+- 風格／關鍵字 Style: 視差 景深 圖層 立體 滑鼠 游標 Mouse Parallax Depth Layers 3D Hero 背景 氛圍
+- 標籤 Tag: JS parallax
+- 範例文字 Example text: 「Depth」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/bg/229-depth-parallax.md](examples/bg/229-depth-parallax.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「景深視差圖層（Depth Parallax）」動態效果：Hero 背景由三層裝飾圖形組成：遠層是模糊的大圓、中層是圓角方塊、前層是空心圓環，標題夾在中層與前層之間；游標在區塊內移動時，各層朝游標的反方向移動，越近的圖層移動幅度越大（例如遠層 15%、中層 45%、前層 100%），標題只微微移動，形成立體的景深感，移動帶有平滑的延遲跟隨。（JS：mousemove 計算游標相對於中心的比例 -0.5 ~ 0.5，每層 translate = -比例 × 該層係數，搭配 CSS transition 或 lerp 平滑）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 230 · 起伏線條 — Wavy Lines
+
+一整片細線像布料般起伏，游標經過的地方被輕輕拱起
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機、懸停・點擊
+- 技術 Tech: Canvas
+- 情境 Uses: 標題・Hero、背景裝飾
+- 風格／關鍵字 Style: 線條 波浪 起伏 布料 地形 等高線 Wavy Lines Wave Field Terrain Canvas 互動背景 requestAnimationFrame 背景 氛圍
+- 標籤 Tag: Canvas 2D
+- 範例文字 Example text: 「Flow」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/bg/230-wavy-lines.md](examples/bg/230-wavy-lines.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「起伏線條（Wavy Lines）」動態效果：整個背景是約 26 條水平細線，每條線由兩組不同頻率的正弦波疊加而起伏，並隨時間緩慢流動，相鄰的線相位略錯開，整片看起來像飄動的布料或地形線；其中每隔幾條用較粗、較亮的線點綴；游標經過的地方，附近的線條會被平滑地往上拱起，離開後恢復。（Canvas 2D：每條線取 80 個點，y = 基準 + sin(x×f1 + t + j×相位) × A1 + sin(x×f2 − t + j×相位) × A2，再減去以游標為中心的高斯函數 × 高度）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 231 · 漂浮幾何 — Floating Shapes
+
+圓形、方塊、三角形、圓環等幾何圖形在背景隨機緩慢漂浮旋轉
+
+- 元件 Component: 背景・氛圍 (`bg`)
+- 時機 Timing: 循環待機、進場
+- 技術 Tech: GSAP
+- 情境 Uses: 背景裝飾、標題・Hero
+- 風格／關鍵字 Style: 漂浮 幾何 圖形 隨機 裝飾 背景 Floating Shapes Geometric Random Decoration 背景 氛圍
+- 標籤 Tag: repeatRefresh
+- 範例文字 Example text: 「Shapes」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/bg/231-floating-shapes.md](examples/bg/231-floating-shapes.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「漂浮幾何（Floating Shapes）」動態效果：背景散佈十多個簡單的幾何圖形：實心圓、圓角方塊、三角形、空心圓環與十字，大小不一；進場時各自以彈性放大依序出現，之後每個圖形持續朝隨機方向緩慢漂移並旋轉，每次來回都換一個新的隨機目標，看起來自然不重複；標題位於中間。（GSAP：每個圖形 gsap.to x / y / rotation 用 "random(-40,40)" 字串，duration random(3,6)、ease sine.inOut、repeat:-1、yoyo:true、repeatRefresh:true；進場 gsap.from scale:0 搭配 back.out）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+## 版面・頁面 (layout) — 37
+
+### 092 · 捲動揭示 — Scroll Reveal
+
+捲到時淡入、進度條同步
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 捲動效果
+- 風格／關鍵字 Style: 
+- 標籤 Tag: ScrollTrigger
+- 範例文字 Example text: 「捲動揭示」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/layout/092-scroll-reveal.md](examples/layout/092-scroll-reveal.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「捲動揭示（Scroll Reveal）」動態效果：在可捲動的區塊中，頂端進度條隨捲動比例填滿，每段文字捲到畫面 85% 處時從左側淡入，往回捲時再淡出。（GSAP：ScrollTrigger toggleActions "play none none reverse"，進度條用 scrub:true）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 093 · 橫向捲動 — Horizontal Scroll
+
+往下捲、內容往左滑
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 捲動效果
+- 風格／關鍵字 Style: 
+- 標籤 Tag: ScrollTrigger scrub
+- 範例文字 Example text: 「橫向 捲動 展示 作品」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/layout/093-horizontal-scroll.md](examples/layout/093-horizontal-scroll.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「橫向捲動（Horizontal Scroll）」動態效果：往下捲動時，整排作品卡片改為往左橫向滑動，捲到底剛好看到最後一張，像橫向作品集展示。（GSAP：ScrollTrigger pin（或 sticky）+ scrub，x 移動距離 = 軌道寬 − 視窗寬）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 094 · 視差圖層 — Parallax Layers
+
+遠中近景以不同速度移動
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 捲動效果、背景裝飾
+- 風格／關鍵字 Style: 
+- 標籤 Tag: ScrollTrigger scrub
+- 範例文字 Example text: 「視差」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/layout/094-parallax-layers.md](examples/layout/094-parallax-layers.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「視差圖層（Parallax Layers）」動態效果：捲動時遠景大字、中景圓點、近景標題以不同速度上下移動，近景最快、遠景最慢，產生景深視差。（GSAP：一個 timeline 綁 ScrollTrigger scrub，三個圖層分別設定不同 yPercent 範圍）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 101 · 捲動導覽點 — Scroll Spy Dot Nav
+
+側邊導覽點隨捲動亮起，點了跳到該段
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 捲動觸發、懸停・點擊
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、捲動效果
+- 風格／關鍵字 Style: 捲動導覽 側邊導覽點 錨點導覽 頁面進度導覽 Scroll Spy Navigation Dot Navigation
+- 標籤 Tag: ScrollTrigger
+- 範例文字 Example text: 「簡介 作品 服務 聯絡」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/layout/101-scroll-spy-dot-nav.md](examples/layout/101-scroll-spy-dot-nav.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「捲動導覽點（Scroll Spy Dot Nav）」動態效果：捲動導覽／側邊導覽點（Scroll Spy / Dot Navigation，也稱錨點導覽、頁面進度導覽）：頁面右側固定一排小圓點，每個點對應一個區段；捲到哪一段，對應的點就放大並以強調色填滿，旁邊浮出該段名稱的膠囊標籤；點與點之間有一條細軌道，軌道裡的進度條隨整頁捲動比例往下長；點擊任一個點會平滑捲動到該段，滑鼠移到點上也會顯示名稱。各區段底色深淺交錯。（GSAP：每段一個 ScrollTrigger，start "top center"、end "bottom center"，onToggle 切換 active；進度條用 scrub:true 的 scaleY；點擊用 gsap.to(scroller,{scrollTop}) 或 ScrollToPlugin）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 117 · 導覽列捲動縮小 — Shrinking Sticky Header
+
+往下捲時導覽列變矮、Logo 縮小，並加上毛玻璃底
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: CSS
+- 情境 Uses: 捲動效果、介面互動
+- 風格／關鍵字 Style: 導覽列 頁首 選單 header navbar 捲動 縮小 黏著 毛玻璃 Sticky Shrink Header On Scroll
+- 標籤 Tag: Sticky
+- 範例文字 Example text: 「LOGO」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/layout/117-shrinking-sticky-header.md](examples/layout/117-shrinking-sticky-header.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「導覽列捲動縮小（Shrinking Sticky Header）」動態效果：頁首導覽列固定在最上方（sticky）。在頁面頂端時導覽列較高、Logo 較大、背景透明；一旦往下捲超過一點距離，導覽列平滑變矮、Logo 縮小，並出現半透明的毛玻璃背景與淡淡的陰影，捲回頂端時恢復原狀。約 0.35 秒過場。（做法：監聽 scroll，scrollY > 某個值時加上 .shrink class；CSS 對 padding、font-size、background、box-shadow 做 transition，背景用 backdrop-filter:blur）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 125 · 柔和上浮 — Gentle Fade Up
+
+區塊內元素依閱讀順序由上到下輕輕浮現
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 區塊 段落 標題 上浮 淡入 溫和 柔和 輕柔 引導 動線 視線 閱讀順序 低調 Subtle Gentle Soft Entrance Visual Flow Hierarchy Canva 風格 Canva Rise 上升
+- 標籤 Tag: Fade up
+- 範例文字 Example text: 「讓設計說故事」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/layout/125-gentle-fade-up.md](examples/layout/125-gentle-fade-up.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「柔和上浮（Gentle Fade Up）」動態效果：一個內容區塊（小標、主標題、兩行內文、按鈕）進場時，依照由上到下的閱讀順序，每個元素從下方約 18px、完全透明的狀態輕輕浮上並淡入，元素之間間隔約 0.14 秒，每個約 0.9 秒、平順減速（power2.out），沒有彈跳也沒有縮放，讓視線自然地從標題被帶到按鈕。（GSAP：fromTo y:18 / opacity:0 → y:0 / opacity:1，stagger 0.14；實際網站搭配 ScrollTrigger 在區塊進入畫面時播放一次即可）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 127 · 時間軸延伸 — Timeline Draw
+
+一條線往下延伸，碰到哪個步驟就出現哪一步
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 進場、捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、數字資訊
+- 風格／關鍵字 Style: 時間軸 流程 步驟 歷程 線條 延伸 溫和 柔和 輕柔 引導 動線 視線 閱讀順序 低調 Subtle Gentle Soft Entrance Visual Flow Hierarchy
+- 標籤 Tag: Timeline
+- 範例文字 Example text: 「需求訪談 概念發想 設計製作 上線交付」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/layout/127-timeline-draw.md](examples/layout/127-timeline-draw.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「時間軸延伸（Timeline Draw）」動態效果：垂直時間軸：左側一條細線從頂端慢慢往下延伸（約 2.4 秒、緩入緩出），每當線延伸到某個節點，該節點的圓點、標題與說明文字列就從左側約 10px 輕輕滑入淡出現，讓視線跟著線一路往下讀完流程。（GSAP：線條 scaleY 0→1、transform-origin 頂端；各節點依序在對應時間點 fromTo x:-10 / opacity:0；實際網站可用 ScrollTrigger scrub 讓線條長度跟著捲動進度）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 128 · Z 字閱讀動線 — Z-pattern Reveal
+
+首頁版面依 Z 字閱讀順序依序出現
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 標題・Hero
+- 風格／關鍵字 Style: 首頁 Hero 版面 Z 字 F 字 閱讀模式 Logo 導覽 圖片 行動按鈕 溫和 柔和 輕柔 引導 動線 視線 閱讀順序 低調 Subtle Gentle Soft Entrance Visual Flow Hierarchy
+- 標籤 Tag: Z-pattern
+- 範例文字 Example text: 「讓動線自然發生」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/layout/128-z-pattern-reveal.md](examples/layout/128-z-pattern-reveal.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「Z 字閱讀動線（Z-pattern Reveal）」動態效果：首頁 Hero 進場時，元素依照 Z 字閱讀動線依序淡入上浮：左上 Logo → 右上導覽選單 → 左側主標題與內文 → 右側主視覺圖片 → 左下行動按鈕 → 右下次要連結，每個元素間隔約 0.4 秒、從下方約 12px 輕輕浮現，節奏平均、沒有誇張位移，讓使用者的視線照著設計好的順序移動。（預覽中的細線只是示意 Z 字路徑，實際網站不需要。GSAP：依閱讀順序排列元素陣列，fromTo y:12 / opacity:0，stagger 0.42，ease power2.out）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 142 · 下拉重新整理 — Pull to Refresh
+
+往下拉列表，轉圈圖示出現，放開後載入並彈回
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 拖曳手勢
+- 技術 Tech: GSAP
+- 情境 Uses: App 介面、介面互動
+- 風格／關鍵字 Style: 下拉 重新整理 刷新 列表 手勢 Pull Refresh Spinner Gesture App 手機 行動裝置 微互動 Mobile App Micro-interaction
+- 標籤 Tag: Pull to refresh
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/layout/142-pull-to-refresh.md](examples/layout/142-pull-to-refresh.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「下拉重新整理（Pull to Refresh）」動態效果：手機列表頁頂端往下拉時，列表跟著手指往下移（越拉阻力越大），上方露出一個圓形載入圖示，圖示的旋轉角度跟著下拉距離增加；放開後圖示持續旋轉表示載入中，完成後列表平滑彈回頂端，最新一筆資料短暫高亮後淡回。（GSAP：手勢用 Draggable 或 Observer 取得下拉距離並乘上阻尼係數；放開後 timeline：spinner 旋轉 → 列表 y 回 0（power3.out）→ 新項目背景淡出）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 143 · 底部抽屜 — Bottom Sheet
+
+背景變暗，選單從底部帶一點彈性滑上來
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 進場、退場
+- 技術 Tech: GSAP
+- 情境 Uses: App 介面、介面互動
+- 風格／關鍵字 Style: 底部抽屜 底部選單 彈出 分享 動作選單 Bottom Sheet Action Sheet Drawer Modal App 手機 行動裝置 微互動 Mobile App Micro-interaction
+- 標籤 Tag: Bottom sheet
+- 範例文字 Example text: 「分享到」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/layout/143-bottom-sheet.md](examples/layout/143-bottom-sheet.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「底部抽屜（Bottom Sheet）」動態效果：點擊「分享」等操作後，畫面加上一層半透明遮罩逐漸變暗，選單面板從螢幕底部滑上來並帶一點點回彈（約 0.6 秒），面板頂端有一條小把手，裡面的選項依序從下方 8px 淡入；關閉時面板快速往下滑出（約 0.35 秒、加速）、遮罩淡出。（GSAP：面板 yPercent 100→0，ease back.out(1.1)；選項 stagger 0.06；關閉用 power2.in；實際 App 可讓使用者拖曳把手往下關閉）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 144 · 底部導覽列切換 — Tab Bar Indicator
+
+點選分頁時，膠囊指示器拉長滑到新位置，圖示輕彈
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 切換、懸停・點擊
+- 技術 Tech: GSAP
+- 情境 Uses: App 介面、介面互動
+- 風格／關鍵字 Style: 底部導覽列 分頁 tab bar 導覽 指示器 切換 Bottom Navigation Indicator Gooey App 手機 行動裝置 微互動 Mobile App Micro-interaction
+- 標籤 Tag: Tab bar
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/layout/144-tab-bar-indicator.md](examples/layout/144-tab-bar-indicator.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「底部導覽列切換（Tab Bar Indicator）」動態效果：App 底部的膠囊形導覽列有 4 個圖示，目前分頁底下有一顆膠囊指示器；點選另一個分頁時，指示器先往目標方向拉長、同時覆蓋新舊兩個位置（約 0.18 秒），再收縮到新分頁（約 0.34 秒、減速），像液體一樣流過去；新分頁的圖示同時從 0.7 倍彈回原尺寸，圖示與指示器形成反差。（GSAP：兩段 timeline 改變指示器的 x 與 width；圖示 scale 用 back.out(3)）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 150 · 啟動頁轉場 — Splash to Home
+
+啟動 Logo 彈出呼吸，再放大穿過畫面進入首頁
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: App 介面、轉場切換、Logo・品牌
+- 風格／關鍵字 Style: 啟動頁 開場 splash 載入 Logo 首頁 轉場 Launch Screen Intro Zoom Through App 手機 行動裝置 微互動 Mobile App Micro-interaction
+- 標籤 Tag: Splash
+- 範例文字 Example text: 「M」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/layout/150-splash-to-home.md](examples/layout/150-splash-to-home.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「啟動頁轉場（Splash to Home）」動態效果：App 開啟時，畫面中央的 Logo 從小彈出（back.out），輕輕呼吸一次；接著 Logo 加速放大到充滿整個螢幕並淡出，像穿過 Logo 進入 App，底下的首頁內容（主視覺卡片、列表）同時由上到下依序淡入上浮。整段約 2 秒，結束後停在首頁。（GSAP：timeline：logo scale 0.6→1 → yoyo 1.06 → scale 14（power3.in）＋啟動層 opacity 0 → 首頁元素 stagger fromTo y:10 / opacity:0）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 156 · 往下捲隱藏導覽列 — Hide Header on Scroll
+
+往下捲時導覽列收起，往回捲時立刻滑出
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、捲動效果、App 介面
+- 風格／關鍵字 Style: 導覽列 頁首 選單 header navbar 隱藏 顯示 方向 Headroom Hide On Scroll Down Show On Scroll Up 捲動 滾動 scroll ScrollTrigger scrub 捲動觸發
+- 標籤 Tag: ScrollTrigger direction
+- 範例文字 Example text: 「LOGO」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/layout/156-hide-header-on-scroll.md](examples/layout/156-hide-header-on-scroll.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「往下捲隱藏導覽列（Hide Header on Scroll）」動態效果：頁首導覽列固定在頂端；使用者往下捲動（閱讀內容）時導覽列往上滑出畫面讓出空間，一旦往上捲（想找選單）就立刻從頂端滑回來，在最頂端時一定顯示；約 0.35 秒、減速。手機版很常用。（做法：比較目前與上一次的 scrollY 判斷方向，或用 ScrollTrigger 的 self.direction；切換 class 讓 header translateY(-100%)，加 transition）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 161 · 圓形擴張轉場 — Circle Reveal Transition
+
+捲動時圓形遮罩從中央擴大，揭開下一章
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 捲動觸發、切換
+- 技術 Tech: GSAP
+- 情境 Uses: 轉場切換、捲動效果
+- 風格／關鍵字 Style: 轉場 圓形 遮罩 擴張 揭開 章節 Circle Reveal Clip Path Transition Section 捲動 滾動 scroll ScrollTrigger scrub 捲動觸發
+- 標籤 Tag: clip-path scrub
+- 範例文字 Example text: 「第二章」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/layout/161-circle-reveal-transition.md](examples/layout/161-circle-reveal-transition.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「圓形擴張轉場（Circle Reveal Transition）」動態效果：兩個章節之間的轉場：捲動時下一章從畫面中央以一個圓形遮罩出現，圓形隨捲動進度從 0 擴大到蓋滿整個畫面，同時上一章的標題慢慢縮小變淡，下一章的標題從 1.2 倍縮回原尺寸；往回捲時圓形縮回。（GSAP：timeline 綁 ScrollTrigger scrub，區塊 pin 或 sticky；tween clipPath "circle(0% at 50% 50%)" → "circle(75% at 50% 50%)"）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 167 · 選單滑塊跟隨 — Sliding Nav Highlight
+
+滑過選單項目時，背景膠囊滑塊跟著移到該項目
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 選單 導覽 滑塊 膠囊 highlight 跟隨 nav pill hover indicator tabs hover 懸停 滑鼠移入 滑過 互動
+- 標籤 Tag: CSS + JS
+- 範例文字 Example text: 「首頁 作品 服務 文章 聯絡」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/layout/167-sliding-nav-highlight.md](examples/layout/167-sliding-nav-highlight.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「選單滑塊跟隨（Sliding Nav Highlight）」動態效果：膠囊形導覽列，滑鼠移到某個項目時，一顆膠囊背景滑塊從原本位置平滑滑過去並改變寬度貼合該項目，文字同時切換成與滑塊反差的顏色；滑鼠離開整個選單時滑塊回到目前所在的頁面項目。約 0.4 秒，帶一點點過衝。（做法：pointerenter 時讀取項目的 offsetLeft 與 offsetWidth，設定滑塊的 translateX 與 width，transition cubic-bezier(.2,.9,.3,1.1)）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 202 · 頁面轉場簾幕 — Curtain Page Transition
+
+切換頁面時三片簾幕依序落下蓋住，再往下收走露出新頁
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 轉場切換
+- 風格／關鍵字 Style: 頁面轉場 換頁 簾幕 遮罩 SPA 路由 Page Transition Curtain Wipe Router 版面 頁面 網頁結構
+- 標籤 Tag: Timeline
+- 範例文字 Example text: 「首頁 作品 關於」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/layout/202-curtain-page-transition.md](examples/layout/202-curtain-page-transition.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「頁面轉場簾幕（Curtain Page Transition）」動態效果：點擊導覽切換頁面時，三片直條狀的簾幕從上方依序（間隔約 0.08 秒）落下蓋住整個畫面，此時在背後替換成新頁面，接著三片簾幕再依序往下收走，新頁面的標題與內容區塊由上到下淡入上浮。整段約 1.4 秒，讓換頁有完整的節奏感。（GSAP：簾幕 yPercent -101→0→101，stagger 0.08，ease power3.inOut；在兩段之間的 callback 切換內容；SPA 可搭配 Barba.js 或框架的路由轉場 hook）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 203 · 漢堡選單展開 — Hamburger Menu Reveal
+
+三條線變成叉叉，全螢幕選單從按鈕處圓形擴散展開
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 懸停・點擊、切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 漢堡選單 選單 全螢幕 導覽 手機版 叉叉 Hamburger Menu Overlay Fullscreen Nav Toggle 版面 頁面 網頁結構
+- 標籤 Tag: clip-path
+- 範例文字 Example text: 「首頁 作品 服務 聯絡」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/layout/203-hamburger-menu-reveal.md](examples/layout/203-hamburger-menu-reveal.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「漢堡選單展開（Hamburger Menu Reveal）」動態效果：點擊右上角的漢堡選單按鈕時，三條線變形成叉叉（上下兩條旋轉 ±45 度並移到中間、中間那條縮短淡出），同時全螢幕選單以按鈕位置為圓心用圓形遮罩擴散展開，選單項目由上到下依序從下方滑入淡出現（間隔約 0.07 秒）；再點一次則反向收合。約 0.6 秒、緩入緩出。（CSS：切換一個 open class；選單層 clip-path:circle(0% at 按鈕位置) → circle(150%)；線條用 top 與 rotate 的 transition；項目 transition-delay 依索引遞增）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 204 · 側邊抽屜推移 — Push Side Drawer
+
+開啟選單時整個內容頁縮小推到右側，露出底下的選單
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 懸停・點擊、切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 側邊選單 抽屜 推移 縮小 off-canvas 手機 Side Drawer Push Menu Off Canvas Scale 版面 頁面 網頁結構
+- 標籤 Tag: CSS transform
+- 範例文字 Example text: 「首頁 作品 服務 聯絡」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/layout/204-push-side-drawer.md](examples/layout/204-push-side-drawer.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「側邊抽屜推移（Push Side Drawer）」動態效果：點擊漢堡圖示時，目前的內容頁整體往右推並縮小到約 86%、加上圓角與陰影，像卡片一樣被推開，露出藏在底下的選單，選單項目從左側依序滑入淡出現；再點一次內容頁滑回來蓋住選單。約 0.55 秒、緩入緩出。（CSS：內容層 transform:translateX(38%) scale(.86)、transform-origin 左側中間，border-radius 一起 transition；選單項目 transition-delay 錯開）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 205 · 彈出視窗 — Modal Dialog
+
+背景模糊變暗，視窗從稍小稍低的位置彈性浮出
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 進場、退場
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 彈窗 對話框 視窗 確認 modal dialog popup 背景模糊 Overlay 版面 頁面 網頁結構
+- 標籤 Tag: CSS transition
+- 範例文字 Example text: 「確定要送出嗎？」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/layout/205-modal-dialog.md](examples/layout/205-modal-dialog.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「彈出視窗（Modal Dialog）」動態效果：點擊按鈕後，背景加上一層半透明遮罩並輕微模糊（約 0.35 秒淡入），對話框從 90% 大小、略低於中心的位置以帶一點過衝的彈性浮到正中央，內容包含標題、說明與取消／確定兩顆按鈕；點擊遮罩或任一按鈕時，對話框淡出縮回、遮罩淡出。（CSS：開關一個 open class；遮罩 opacity + backdrop-filter:blur；對話框 transform:translate(-50%,-40%) scale(.9) → translate(-50%,-50%) scale(1)，transition cubic-bezier(.3,1.4,.5,1)；記得處理焦點與 Esc 鍵關閉）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 206 · 手風琴問答 — Accordion FAQ
+
+點開問題時答案區平滑展開，加號轉成叉叉，同時收起其他題
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 懸停・點擊、切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、數字資訊
+- 風格／關鍵字 Style: 手風琴 常見問題 FAQ 展開 收合 摺疊 Accordion Collapse Expand Details 版面 頁面 網頁結構
+- 標籤 Tag: grid-template-rows
+- 範例文字 Example text: 「如何下單？ 運費怎麼算？ 可以退貨嗎？」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/layout/206-accordion-faq.md](examples/layout/206-accordion-faq.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「手風琴問答（Accordion FAQ）」動態效果：常見問題列表，每題右側有一個加號；點開某一題時，答案區的高度從 0 平滑展開到內容高度（不是瞬間跳出），加號同時旋轉 135 度變成叉叉，其他已展開的題目同步收起，一次只開一題。約 0.45 秒、緩入緩出。（CSS：答案外層 display:grid + grid-template-rows:0fr → 1fr 的 transition，內層 overflow:hidden；加號用兩條線組成並 rotate；也可用 details/summary 搭配 JS）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 207 · 分頁標籤切換 — Directional Tabs
+
+底線指示器滑到新分頁，內容依切換方向左右滑動交替
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 分頁 頁籤 標籤 tab 切換 方向 內容 Tabs Directional Slide Indicator 版面 頁面 網頁結構
+- 標籤 Tag: GSAP
+- 範例文字 Example text: 「設計 開發 行銷」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/layout/207-directional-tabs.md](examples/layout/207-directional-tabs.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「分頁標籤切換（Directional Tabs）」動態效果：一組分頁標籤，點選其他分頁時，標籤下方的底線指示器平滑滑到新標籤並調整成它的寬度；內容區依切換方向滑動——往右邊的分頁切時，舊內容往左滑出淡出、新內容從右側滑入淡入，往左切則相反，讓使用者感受到分頁的前後順序。約 0.45 秒。（GSAP：比較新舊索引決定方向 d，舊內容 xPercent → -30×d 並淡出後移除，新內容從 xPercent 30×d 進來；指示器用 offsetLeft / offsetWidth 設定 transform 與 width）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 208 · 作品篩選重排 — Filterable Grid
+
+切換分類時，不符合的作品縮小消失，其他作品平滑補位
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 篩選 分類 作品集 格狀 重排 補位 Filter Grid Portfolio Isotope Reflow Flip 版面 頁面 網頁結構
+- 標籤 Tag: Flip
+- 範例文字 Example text: 「品牌 網站 插畫」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/layout/208-filterable-grid.md](examples/layout/208-filterable-grid.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「作品篩選重排（Filterable Grid）」動態效果：作品集上方有分類標籤（全部／品牌／網站／插畫），點選分類時，不符合的作品縮小淡出，符合的作品從原本位置平滑移動到新的排列位置補滿空位，重新出現的作品從小放大淡入；選中的分類標籤切換成強調狀態。約 0.6 秒。（GSAP：Flip.getState 記錄所有卡片 → 切換 display → Flip.from，設定 absolute:true、onEnter / onLeave 處理出現與消失的縮放淡入淡出）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 209 · Bento 格局展開 — Bento Grid Expand
+
+滑過便當盒格局的某一格，那一格變大、其他格同步讓位
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、標題・Hero
+- 風格／關鍵字 Style: Bento 便當盒 格局 網格 展開 放大 特色介紹 Bento Grid Expand Hover Feature 版面 頁面 網頁結構
+- 標籤 Tag: CSS grid
+- 範例文字 Example text: 「設計 開發 策略 品牌 數據 社群」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/layout/209-bento-grid-expand.md](examples/layout/209-bento-grid-expand.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「Bento 格局展開（Bento Grid Expand）」動態效果：Bento（便當盒）式的 3×2 格局，滑鼠移到某一格時，該格所在的欄與列放大（欄寬約 2.4 倍、列高約 1.8 倍），其他格同步縮小讓位，整個格局平滑重新分配，放大那一格的標題也同步變大；滑鼠離開後恢復平均。約 0.55 秒、緩入緩出。（CSS：容器 grid-template-columns / rows 用 fr 值，hover 時以 JS 改寫目標欄列的 fr，並對 grid-template-columns 與 grid-template-rows 加 transition）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 210 · 左右分割捲動 — Split Screen Scroll
+
+右側文字往下捲，左側固定的圖片跟著切換對應的段落
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 捲動效果、標題・Hero
+- 風格／關鍵字 Style: 分割畫面 左右 雙欄 固定 圖片切換 說故事 Split Screen Sticky Image Scrollytelling 版面 頁面 網頁結構
+- 標籤 Tag: Sticky・ScrollTrigger
+- 範例文字 Example text: 「清晨 午後 夜晚」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/layout/210-split-screen-scroll.md](examples/layout/210-split-screen-scroll.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「左右分割捲動（Split Screen Scroll）」動態效果：畫面分成左右兩欄：左欄是固定不動（sticky）的大圖區，右欄是一段段可以捲動的文字章節；每當右側某一章節捲到畫面中段時，左側圖片交叉淡入成對應章節的圖片，並從略為放大的狀態縮回原尺寸，形成圖文同步的說故事體驗。（CSS position:sticky + GSAP ScrollTrigger：每個章節 start "top 55%"、end "bottom 55%"，onToggle 切換左側對應圖片的 active class；圖片用 opacity 與 scale 的 transition）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 211 · 回到頂部進度環 — Back to Top Progress
+
+捲動後右下角浮出按鈕，外圈顯示閱讀進度，點了回到頂部
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 捲動觸發、懸停・點擊
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、捲動效果
+- 風格／關鍵字 Style: 回到頂部 頂端 進度環 閱讀進度 捲動進度 Back To Top Scroll Progress Ring Button 版面 頁面 網頁結構
+- 標籤 Tag: DrawSVG scrub
+- 範例文字 Example text: 「閱讀進度」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-17
+- 完整範例 Example: [examples/layout/211-back-to-top-progress.md](examples/layout/211-back-to-top-progress.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「回到頂部進度環（Back to Top Progress）」動態效果：長文章頁面往下捲超過一小段後，右下角的圓形按鈕從 0 彈性放大出現，按鈕外圈是一條隨整頁捲動比例畫滿的進度環（從正上方順時針），中間是向上箭頭；點擊時頁面平滑捲回頂部，回到頂端附近時按鈕縮小消失。（GSAP：DrawSVGPlugin 綁 ScrollTrigger scrub 畫進度環，onUpdate 依 progress 切換顯示；點擊用 gsap.to(window,{scrollTo:0}) 或 window.scrollTo({top:0,behavior:"smooth"})）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 281 · 對開門轉場 — Split Doors Reveal
+
+整個畫面從中間切開成左右兩扇門，隨捲動往兩側拉開，露出下一段
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 捲動效果、轉場切換
+- 風格／關鍵字 Style: 對開 開門 拉開 分割 轉場 揭開 Split Doors Curtain Reveal Scroll Transition 捲動觸發 ScrollTrigger
+- 標籤 Tag: ScrollTrigger
+- 範例文字 Example text: 「歡迎光臨」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/layout/281-split-doors-reveal.md](examples/layout/281-split-doors-reveal.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「對開門轉場（Split Doors Reveal）」動態效果：兩段內容之間的轉場：前一段是一整面強調色的畫面，中間有一個巨大的字；使用者往下捲動時，這個畫面從正中央垂直切開成左右兩扇門（大字也跟著被切成兩半），兩扇門隨捲動進度往左右兩側滑開，露出後面的下一段內容，下一段同時從 0.8 倍放大並變清楚。（GSAP ScrollTrigger scrub：左右兩個各寬 50%、overflow:hidden 的區塊，內部各放一份寬度 200% 的同一個大字（左邊靠左、右邊靠右對齊）讓它看起來是同一個字；timeline 讓兩扇門 xPercent −100 / 100）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 284 · 清單列滑入填滿 — List Row Fill
+
+滑過清單某一列時，底色從左邊刷進來，文字往右讓位、箭頭滑出
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 清單 列表 服務項目 選單 底色 填滿 箭頭 List Row Hover Fill Sweep Arrow Services Menu hover 懸停 滑過
+- 標籤 Tag: CSS hover
+- 範例文字 Example text: 「品牌識別 網站設計 動態影像 包裝設計」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-20
+- 完整範例 Example: [examples/layout/284-list-row-fill.md](examples/layout/284-list-row-fill.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「清單列滑入填滿（List Row Fill）」動態效果：一份服務項目清單，每列有編號、項目名稱、右側箭頭，列與列之間有細分隔線：滑鼠滑過某一列時，一塊實心底色從左邊刷進來填滿整列，項目名稱往右移一點讓位，右側箭頭從左邊滑入出現，文字顏色反轉以保持可讀；滑開時底色往右收走。約 0.5 秒。（CSS：每列內一個絕對定位的底色層 transform:scaleX(0)，hover 時 scaleX(1) 且 transform-origin 從 left；離開時 transform-origin 改成 right，形成「左進右出」）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 312 · 頂部載入進度條 — Top Loading Bar
+
+換頁時頁面頂端一條細線快速跑到一半、慢慢爬，載完衝到底消失，內容再依序浮現
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 進場、切換
+- 技術 Tech: GSAP
+- 情境 Uses: 轉場切換、介面互動
+- 風格／關鍵字 Style: 載入 進度條 頂部 換頁 NProgress YouTube Loading Bar Page Load Progress 版面 頁面
+- 標籤 Tag: GSAP
+- 範例文字 Example text: 「文章標題」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/layout/312-top-loading-bar.md](examples/layout/312-top-loading-bar.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「頂部載入進度條（Top Loading Bar）」動態效果：網站換頁或載入內容時，頁面最頂端出現一條細細的強調色進度條（帶微光）：先快速跑到約 30%，接著慢慢爬到約 70%（給人「正在載入」的感覺），載入完成時迅速衝到 100% 並淡出；同時頁面內容（標題、段落、卡片）依序從下方淡入浮現。（GSAP timeline：進度條 transform-origin:left，scaleX 0 → .3（power2.out）→ .7（較慢）→ 1（快），再 opacity 0；內容 stagger 淡入）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 313 · 步驟進度條 — Step Progress
+
+多步驟表單上方的步驟圓點，完成的打勾、目前這步放大，連接線跟著填滿
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 步驟 進度 多步驟 表單 結帳 精靈 Stepper Multi Step Form Wizard Progress Checkout 版面 頁面
+- 標籤 Tag: CSS transition
+- 範例文字 Example text: 「帳號 資料 付款 完成」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/layout/313-step-progress.md](examples/layout/313-step-progress.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「步驟進度條（Step Progress）」動態效果：多步驟表單（例如註冊或結帳）上方的步驟指示：一排圓形步驟編號以一條線連接，已完成的步驟圓點填滿並以回彈出現勾勾，目前這一步外圈亮起並略為放大，未到的步驟維持淡色；連接線的填滿長度跟著步驟平滑延伸；下方有「上一步／下一步」按鈕。（CSS：連接線內層 transform:scaleX(目前索引 / (總數 − 1))，transition 0.5 秒；步驟以 .done / .on class 切換樣式，勾勾用 scale 0 → 1 的 keyframes）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 314 · 大型下拉選單 — Mega Menu
+
+滑過導覽列項目時，下方展開一大塊多欄選單，各欄依序滑入
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 大型選單 下拉 導覽列 多欄 mega menu Dropdown Navigation Header 版面 頁面
+- 標籤 Tag: CSS transition
+- 範例文字 Example text: 「品牌設計 網站開發 動態影像 社群經營 案例分享 設計指南」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/layout/314-mega-menu.md](examples/layout/314-mega-menu.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「大型下拉選單（Mega Menu）」動態效果：網站導覽列：滑鼠滑到「產品」時，下方展開一整塊寬版的大型選單面板（從略高處滑下並淡入），面板內分成三欄：兩欄是帶小圖示的連結清單，一欄是精選圖片卡；三欄依序（間隔約 0.06 秒）往上滑入；滑鼠離開導覽區時面板收起。（CSS：面板預設 opacity 0、translateY(−8px)、pointer-events:none，父層 :hover 或 .open 時恢復；每欄設 transition-delay 形成依序出現）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 315 · 推入換頁 — Push Navigation
+
+點清單項目，新頁面從右邊推進來、舊頁面往左退並變暗；按返回則反向
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 轉場切換、App 介面
+- 風格／關鍵字 Style: 推入 換頁 返回 導覽 iOS 堆疊 Push Pop Navigation Stack Page Transition App 版面 頁面
+- 標籤 Tag: GSAP
+- 範例文字 Example text: 「設定 通知 隱私 關於」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/layout/315-push-navigation.md](examples/layout/315-push-navigation.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「推入換頁（Push Navigation）」動態效果：模擬 App 的頁面堆疊導覽：點擊清單中的某一項時，詳細頁面從右側整頁推入（帶左側陰影），原本的清單頁同時往左移動約 30% 並變暗，像被新頁面蓋過去；點左上角「‹ 返回」時反向：詳細頁往右退出，清單頁移回原位並恢復亮度。約 0.5 秒、緩入緩出。（GSAP：新頁 xPercent 100 → 0，舊頁 xPercent 0 → −30 並 filter: brightness(.6)；返回時相反）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 316 · 空狀態插畫 — Empty State
+
+沒有搜尋結果時，空箱子彈跳落下、蓋子掀開冒出問號，文字與按鈕依序出現
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 進場
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 空狀態 無結果 找不到 404 插畫 Empty State No Results Illustration 版面 頁面
+- 標籤 Tag: GSAP timeline
+- 範例文字 Example text: 「找不到相關效果」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/layout/316-empty-state.md](examples/layout/316-empty-state.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「空狀態插畫（Empty State）」動態效果：搜尋沒有結果或清單為空時的空狀態：一個簡單的箱子插畫從上方落下並彈跳停住，接著箱子的蓋子以一角為軸掀開，裡面冒出一個問號並上下輕輕漂浮；下方的標題、說明文字與「瀏覽全部」按鈕依序淡入上移；之後蓋子闔上、問號消失。讓空白畫面不冷冰冰並引導下一步。（GSAP timeline：插畫 from y:-20 ease bounce.out → 蓋子 rotation −28 back.out → 問號 from scale 0 → 文字 stagger 淡入 → 問號 yoyo 漂浮）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 317 · Cookie 同意橫幅 — Cookie Banner
+
+底部彈出 Cookie 同意卡片，餅乾圖示晃一下；按下按鈕後縮回滑走
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 進場、退場
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: Cookie 同意 橫幅 隱私 GDPR 提示 Consent Banner Privacy Notice 版面 頁面
+- 標籤 Tag: GSAP
+- 範例文字 Example text: 「這個網站使用 Cookie」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/layout/317-cookie-banner.md](examples/layout/317-cookie-banner.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「Cookie 同意橫幅（Cookie Banner）」動態效果：網站底部的 Cookie 同意卡片：進入頁面時卡片從下方帶回彈滑上來，左側的餅乾圖示從小、歪斜的狀態彈性轉正放大；卡片內有標題、簡短說明與兩個按鈕（只用必要／全部接受）；按下任一按鈕時按鈕輕壓一下，卡片隨即往下滑出並淡出。（GSAP：卡片 fromTo yPercent 140 → 0、ease back.out(1.4)；圖示 rotation −40 → 0、scale .4 → 1、ease elastic.out；關閉時 yPercent → 140、power3.in）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 318 · 浮動按鈕展開選單 — Speed Dial FAB
+
+右下角的「+」按鈕點開時轉成「×」，上方依序彈出幾個小動作按鈕和標籤
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 浮動按鈕 FAB 展開 快捷 動作 Speed Dial Floating Action Button Menu 版面 頁面
+- 標籤 Tag: CSS transition
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/layout/318-speed-dial-fab.md](examples/layout/318-speed-dial-fab.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「浮動按鈕展開選單（Speed Dial FAB）」動態效果：畫面右下角的圓形浮動按鈕（+）：點擊時按鈕旋轉 135 度變成 ×，背景鋪上一層半透明遮罩，上方由下往上依序彈出三個小圓形動作按鈕，每個左側帶一個文字標籤（例如新增筆記、拍照、分享連結），出現時從小、略低的位置帶回彈放大；再點一次或點遮罩則依相反順序收回。（CSS：.open 時主按鈕 rotate(135deg)；每個動作項設 --i，transform: translateY + scale 過渡，transition-delay 依索引計算，收合時順序相反）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 319 · 無限捲動載入 — Infinite Scroll
+
+捲到底時出現轉圈的「載入更多」，新內容接著一張張浮上來
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 捲動觸發
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、App 介面、捲動效果
+- 風格／關鍵字 Style: 無限捲動 載入更多 分頁 動態牆 Infinite Scroll Load More Feed Pagination 版面 頁面
+- 標籤 Tag: GSAP
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/layout/319-infinite-scroll.md](examples/layout/319-infinite-scroll.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「無限捲動載入（Infinite Scroll）」動態效果：社群動態牆或文章列表的無限捲動：使用者捲到清單底部時，底部出現一個轉圈的載入指示與「載入更多…」，約一秒後新的一批卡片接在清單後面，從下方依序（間隔約 0.12 秒）淡入浮上，使用者可以繼續往下捲。（實作：IntersectionObserver 觀察清單底部的哨兵元素，進入畫面時顯示載入指示並請求下一頁；新卡片插入後用 GSAP from y:24、opacity:0、stagger 進場）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 320 · 側欄收合 — Collapsible Sidebar
+
+後台側邊欄按一下收成只剩圖示，文字淡出，主內容區同步變寬
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 切換
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 側邊欄 收合 展開 後台 儀表板 Collapsible Sidebar Nav Dashboard Admin 版面 頁面
+- 標籤 Tag: CSS transition
+- 範例文字 Example text: 「首頁 報表 訊息 設定」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/layout/320-collapsible-sidebar.md](examples/layout/320-collapsible-sidebar.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「側欄收合（Collapsible Sidebar）」動態效果：後台介面左側的側邊欄：點擊側欄頂端的收合按鈕時，側欄寬度平滑縮窄到只容得下圖示（約 0.45 秒），每個項目的文字同時往左淡出，右側主內容區同步變寬；再點一次展開時文字淡入回來；目前所在的項目有淡淡的強調底色。（CSS：側欄 width transition，cubic-bezier(.6,0,.2,1)；項目文字 opacity 與 translateX 過渡，white-space:nowrap + overflow:hidden 避免換行；主內容 flex:1 自動填滿）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 321 · 指令面板 — Command Palette
+
+按 ⌘K 跳出搜尋面板，邊打字邊篩選指令，選中的那項亮起、按 Enter 執行
+
+- 元件 Component: 版面・頁面 (`layout`)
+- 時機 Timing: 切換
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、App 介面
+- 風格／關鍵字 Style: 指令面板 快捷鍵 搜尋 Cmd K Command Palette Spotlight Quick Search 版面 頁面
+- 標籤 Tag: GSAP timeline
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-21
+- 完整範例 Example: [examples/layout/321-command-palette.md](examples/layout/321-command-palette.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「指令面板（Command Palette）」動態效果：類似 ⌘K 的指令面板：按下快捷鍵時，背景模糊變暗，畫面上方中央彈出一個搜尋面板（從略小略高處放大出現），輸入框有閃爍游標，下方列出所有指令；使用者邊打字，清單即時篩選只留下符合的項目，第一個符合項目以強調底色亮起並顯示 ↵ 提示；按 Enter 時該項閃一下並關閉面板。（JS：keydown 監聽 Meta/Ctrl + K 開啟；input 事件篩選清單；CSS 面板 opacity + scale(.95) → 1 過渡、背景 backdrop-filter:blur）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+## 游標 (cursor) — 16
+
+### 096 · 游標跟隨 — Cursor Follower
+
+拖尾圓點與反相圓圈
+
+- 元件 Component: 游標 (`cursor`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 
+- 標籤 Tag: quickTo
+- 範例文字 Example text: 「跟著游標」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/cursor/096-cursor-follower.md](examples/cursor/096-cursor-follower.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「游標跟隨（Cursor Follower）」動態效果：游標後方跟著一串由快到慢的拖尾圓點，加上一顆較大的圓圈以反色混合模式蓋在文字上，經過時文字變成反色。（GSAP：多個 gsap.quickTo 設不同 duration，大圓用 mix-blend-mode:difference）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 119 · 懸停放大游標 — Hover Expand Cursor
+
+小圓點游標移到作品上時放大成寫著文字的圓
+
+- 元件 Component: 游標 (`cursor`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 游標 自訂游標 放大 懸停 VIEW 查看 Custom Cursor Hover Expand Portfolio
+- 標籤 Tag: Custom cursor
+- 範例文字 Example text: 「VIEW」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/cursor/119-hover-expand-cursor.md](examples/cursor/119-hover-expand-cursor.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「懸停放大游標（Hover Expand Cursor）」動態效果：隱藏系統游標，改用一顆小圓點跟著滑鼠移動（帶一點延遲感）；當游標移到作品縮圖上時，小圓點平滑放大成約 3 倍大的圓，圓中央出現「VIEW」之類的提示文字，作品本身也微微縮小回應；離開作品時再縮回小圓點、文字淡出。放大約 0.35 秒、緩出。（做法：容器設 cursor:none；自訂游標用 position:fixed + transform 跟隨 mousemove；hover 目標時加 class，讓內層圓 scale(0.16→1)、文字 opacity 0→1；觸控裝置上應關閉此效果）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 120 · 清單懸停預覽圖 — Hover Image Reveal
+
+滑過作品清單時，預覽圖跟著游標浮出並隨移動傾斜
+
+- 元件 Component: 游標 (`cursor`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、標題・Hero
+- 風格／關鍵字 Style: 游標 清單 列表 預覽 圖片 浮出 跟隨 Hover Image Reveal List Preview Follow Cursor Portfolio
+- 標籤 Tag: Hover preview
+- 範例文字 Example text: 「品牌識別 網站設計 包裝 插畫」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/cursor/120-hover-image-reveal.md](examples/cursor/120-hover-image-reveal.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「清單懸停預覽圖（Hover Image Reveal）」動態效果：一份大字作品清單（每列左邊作品名、右邊編號，列與列之間有細分隔線），未選中的列文字較淡；游標滑到某一列時，該列文字變清楚並稍微往右推，同時一張該作品的預覽圖從小放大浮現在游標旁邊並跟著游標移動，左右移動越快、圖片往移動方向傾斜越多；換到另一列時預覽圖換成另一張，離開清單時圖片縮小淡出。（做法：預覽圖 position:absolute + pointer-events:none，mousemove 時 translate 到游標位置，rotate 依水平速度計算並設上限；圖片切換用 opacity / scale 過場）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 121 · 游標拖尾軌跡 — Cursor Trail
+
+游標後面拖著一條漸細漸淡的線條
+
+- 元件 Component: 游標 (`cursor`)
+- 時機 Timing: 懸停・點擊、循環待機
+- 技術 Tech: Canvas
+- 情境 Uses: 介面互動、背景裝飾
+- 風格／關鍵字 Style: 游標 拖尾 軌跡 線條 殘影 Cursor Trail Line Comet Canvas
+- 標籤 Tag: Canvas trail
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/cursor/121-cursor-trail.md](examples/cursor/121-cursor-trail.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「游標拖尾軌跡（Cursor Trail）」動態效果：游標移動時，後方拖著一條平滑的線條軌跡，越靠近游標越粗越清楚、越尾端越細越透明，像彗星尾巴；游標停下時，尾巴會逐漸收回到游標位置；游標本身是一顆小圓點。（Canvas 2D：每幀把游標座標推入陣列並只保留最近約 28 點，依序畫線段，線寬與透明度隨索引遞增；依 devicePixelRatio 設定畫布；容器 cursor:none）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 122 · 點擊漣漪 — Click Ripple
+
+在畫面任何位置點擊，都會從點擊處擴散出波紋
+
+- 元件 Component: 游標 (`cursor`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 游標 點擊 漣漪 波紋 回饋 Click Ripple Wave Feedback Material
+- 標籤 Tag: Click ripple
+- 範例文字 Example text: 「點任何地方」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/cursor/122-click-ripple.md](examples/cursor/122-click-ripple.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「點擊漣漪（Click Ripple）」動態效果：在區塊內任何位置點擊時，從點擊處同時擴散出一個半透明實心圓與一圈外框環（外框稍晚 0.12 秒），兩者從 0 放大到約一個拇指大小的數倍並淡出，約 0.85 秒、強烈減速，給使用者清楚的點擊回饋；可以快速連點，波紋會重疊。（做法：pointerdown 時在點擊座標建立圓形元素，CSS keyframes 做 scale(0→1) + opacity(1→0)，動畫結束後移除元素）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 123 · 旋轉文字環游標 — Rotating Text Cursor
+
+一圈環狀文字繞著游標持續旋轉
+
+- 元件 Component: 游標 (`cursor`)
+- 時機 Timing: 懸停・點擊、循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、Logo・品牌
+- 風格／關鍵字 Style: 游標 文字環 環狀文字 旋轉 圓形文字 Rotating Text Ring Circular Text Cursor Badge SCROLL
+- 標籤 Tag: SVG textPath
+- 範例文字 Example text: 「SCROLL · EXPLORE」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/cursor/123-rotating-text-cursor.md](examples/cursor/123-rotating-text-cursor.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「旋轉文字環游標（Rotating Text Cursor）」動態效果：隱藏系統游標，改成一個小圓點，外圍是一圈沿圓形排列的文字（例如「SCROLL · EXPLORE ·」重複），文字環持續慢慢旋轉（約 8 秒一圈），整組帶一點延遲感地跟著游標移動；背景的大標題保持很淡，讓游標成為焦點。（做法：SVG 圓形 path + textPath，用 textLength 讓文字剛好繞滿一圈；外層 transform 跟隨游標，內層 svg 用 CSS 旋轉動畫）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 124 · 手電筒探照 — Flashlight Reveal
+
+畫面一片暗，只有游標附近像手電筒一樣照出隱藏內容
+
+- 元件 Component: 游標 (`cursor`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、標題・Hero
+- 風格／關鍵字 Style: 游標 手電筒 探照 聚光燈 揭示 遮罩 Flashlight Spotlight Reveal Mask Cursor Hidden
+- 標籤 Tag: CSS mask
+- 範例文字 Example text: 「找到我了」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-16
+- 完整範例 Example: [examples/cursor/124-flashlight-reveal.md](examples/cursor/124-flashlight-reveal.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「手電筒探照（Flashlight Reveal）」動態效果：整個區塊幾乎是暗的，大標題只隱約可見；游標所在位置像手電筒一樣照出一個邊緣柔和的圓形範圍，範圍內顯示出藏在下面、更鮮明的版本（清楚的標題與漸層背景），手電筒跟著游標移動，探照到哪就揭示到哪。（做法：上下兩層相同版面，上層是鮮明版本，用 mask:radial-gradient(circle at var(--mx) var(--my), #000 55%, transparent) 只露出游標附近；mousemove 時更新 --mx、--my）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 252 · 反色混合游標 — Blend Difference Cursor
+
+一顆圓形游標，經過文字時放大，重疊的地方顏色反轉
+
+- 元件 Component: 游標 (`cursor`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、強調重點
+- 風格／關鍵字 Style: 反色 反轉 混合模式 difference 游標 圓形 Blend Mode Invert Cursor Hero 游標 滑鼠
+- 標籤 Tag: mix-blend-mode
+- 範例文字 Example text: 「INVERT」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/cursor/252-blend-difference-cursor.md](examples/cursor/252-blend-difference-cursor.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「反色混合游標（Blend Difference Cursor）」動態效果：游標替換成一顆實心圓，以平滑的延遲跟隨滑鼠；圓形使用「差異」混合模式，與底下的文字重疊時，文字和背景的顏色互相反轉；當游標移到大標題上時，圓形平滑放大約三倍，讓反轉範圍覆蓋更多文字，離開標題後縮回。（CSS：圓形元素 mix-blend-mode:difference、pointer-events:none；JS 每幀以 lerp 追上滑鼠座標，並偵測是否在標題範圍內以插值改變 scale；容器 cursor:none 隱藏原生游標）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 253 · 黏性游標 — Sticky Cursor
+
+游標靠近按鈕時被吸附，變形包住整顆按鈕，按鈕也被輕輕拉動
+
+- 元件 Component: 游標 (`cursor`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: GSAP
+- 情境 Uses: 介面互動、強調重點
+- 風格／關鍵字 Style: 黏性 吸附 磁吸 變形 包覆 導覽 Sticky Cursor Magnetic Morph Nav 游標 滑鼠
+- 標籤 Tag: GSAP
+- 範例文字 Example text: 「作品 關於 聯絡」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/cursor/253-sticky-cursor.md](examples/cursor/253-sticky-cursor.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「黏性游標（Sticky Cursor）」動態效果：導覽列的一排按鈕，游標是一顆小圓：游標靠近某顆按鈕時，小圓被「吸」過去，變形成圓角長方形把整顆按鈕包起來，且位置仍隨滑鼠在按鈕內輕微偏移；按鈕本身也朝滑鼠方向被輕輕拉動、文字與底色反轉；移開按鈕時小圓縮回、按鈕彈回原位。（GSAP：mousemove 判斷游標是否在按鈕範圍內（含一點外擴），在範圍內就 tween 游標的 x/y/width/height 到按鈕中心與尺寸 + 偏移 × 0.12，否則 tween 回小圓；按鈕 x/y = 偏移 × 0.15，power3.out）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 254 · 速度拉伸游標 — Velocity Stretch Cursor
+
+圓形游標依移動速度沿著方向拉長，停下來時恢復圓形
+
+- 元件 Component: 游標 (`cursor`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、標題・Hero
+- 風格／關鍵字 Style: 速度 拉伸 拉長 彈性 方向 Velocity Stretch Squash Cursor Elastic 游標 滑鼠
+- 標籤 Tag: JS rAF
+- 範例文字 Example text: 「Stretch」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/cursor/254-velocity-stretch-cursor.md](examples/cursor/254-velocity-stretch-cursor.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「速度拉伸游標（Velocity Stretch Cursor）」動態效果：一顆圓形游標以平滑延遲跟隨滑鼠，每幀計算移動速度：移動越快，圓形越沿著移動方向被拉長、垂直方向變扁，像有彈性的果凍；滑鼠停下時慢慢恢復成正圓。（JS requestAnimationFrame：位置 lerp 追上目標；速度 = 這幀位移長度，角度 = atan2(dy,dx)；transform = translate → rotate(角度) → scale(1 + 速度係數, 1 − 速度係數 × 0.45)，速度係數本身也 lerp 避免抖動）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 255 · 情境標籤游標 — Contextual Cursor
+
+游標移到不同內容上，變成對應動作的大圓圈加文字，例如播放、查看、拖曳
+
+- 元件 Component: 游標 (`cursor`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、標題・Hero
+- 風格／關鍵字 Style: 情境 標籤 游標 播放 查看 拖曳 作品集 Contextual Label Cursor View Play Drag Portfolio 游標 滑鼠
+- 標籤 Tag: JS + CSS
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/cursor/255-contextual-cursor.md](examples/cursor/255-contextual-cursor.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「情境標籤游標（Contextual Cursor）」動態效果：作品集的卡片區，平常游標是一個小圓點；移到不同類型的內容上時，小圓點彈性放大成一個實心大圓，中間顯示對應的圖示，下方浮出動作文字，例如影片顯示「▶ 播放」、作品顯示「↗ 查看」、輪播顯示「⇆ 拖曳」；離開內容時縮回小圓點。（JS：每個區塊用 data-cursor 屬性設定文字與圖示，mousemove 偵測目前所在區塊並更新游標內容；CSS：大圓 scale 0 → 1 用 cubic-bezier(.3,1.5,.5,1)、文字淡入上移）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 256 · 十字準星座標 — Crosshair Cursor
+
+橫豎兩條細線跟著游標，旁邊即時顯示座標數字
+
+- 元件 Component: 游標 (`cursor`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、數字資訊、標題・Hero
+- 風格／關鍵字 Style: 十字 準星 座標 瞄準 科技 藍圖 Crosshair Coordinates Cursor Blueprint Tech 游標 滑鼠
+- 標籤 Tag: JS + CSS
+- 範例文字 Example text: 「Precision」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/cursor/256-crosshair-cursor.md](examples/cursor/256-crosshair-cursor.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「十字準星座標（Crosshair Cursor）」動態效果：帶淡淡格線的背景上，一條橫線與一條直線跨滿整個區塊、交會在游標位置，交點有一個小圓圈；游標右下方有一個小標籤，用等寬字體即時顯示目前的 X、Y 座標數字（換算成 1920 × 1080），靠近邊緣時標籤自動往內收，不會超出畫面。適合科技、設計工具或作品集首頁。（JS：mousemove 時用 transform 移動兩條線與標籤，座標 = 游標位置 / 容器寬高 × 1920、1080，padStart 補零）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 257 · 眼睛跟隨 — Following Eyes
+
+一對大眼睛的眼珠一直盯著游標轉，偶爾眨眼
+
+- 元件 Component: 游標 (`cursor`)
+- 時機 Timing: 懸停・點擊、循環待機
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動、Logo・品牌
+- 風格／關鍵字 Style: 眼睛 眼珠 跟隨 盯著 可愛 吉祥物 404 Googly Eyes Follow Cursor Mascot 游標 滑鼠
+- 標籤 Tag: JS atan2
+- 範例文字 Example text: 「」（預覽底色：dark，固定文字）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/cursor/257-following-eyes.md](examples/cursor/257-following-eyes.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「眼睛跟隨（Following Eyes）」動態效果：一對大眼睛（眼白 + 眼珠，眼珠帶一個小反光點），眼珠一直朝游標的方向轉動：游標越遠，眼珠越靠近眼眶邊緣，游標在眼睛正前方時眼珠回到中間；每隔幾秒兩眼一起快速眨眼一次（眼睛垂直壓扁再恢復，約 0.15 秒）。適合吉祥物、404 頁面或趣味互動。（JS：每隻眼睛以中心點計算 atan2 角度，距離取 min(1, 距離 / 範圍) × 最大偏移，用 transform 移動眼珠；眨眼用 scaleY 的 class 切換）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 258 · 放大鏡游標 — Magnifier Lens
+
+游標變成圓形放大鏡，鏡片裡的內容放大顯示
+
+- 元件 Component: 游標 (`cursor`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 介面互動
+- 風格／關鍵字 Style: 放大鏡 放大 鏡片 細節 商品 Magnifier Lens Zoom Loupe Cursor Product 游標 滑鼠
+- 標籤 Tag: JS + CSS
+- 範例文字 Example text: 「放大檢視」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/cursor/258-magnifier-lens.md](examples/cursor/258-magnifier-lens.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「放大鏡游標（Magnifier Lens）」動態效果：游標變成一個帶外框與陰影的圓形放大鏡，鏡片內顯示游標下方內容放大約 2.2 倍的畫面，移動時鏡片內容同步平移，讓小字或商品細節看得清楚。（JS + CSS：在鏡片內放一份內容的複本，設定與原內容同寬高、transform-origin:0 0，transform = translate(半徑 − 游標x × 倍率, 半徑 − 游標y × 倍率) scale(倍率)；鏡片 border-radius:50%、overflow:hidden、pointer-events:none）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 260 · 黏液拖尾 — Gooey Trail
+
+一串圓球跟著游標，彼此像黏液一樣融合拉絲
+
+- 元件 Component: 游標 (`cursor`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: CSS
+- 情境 Uses: 標題・Hero、背景裝飾
+- 風格／關鍵字 Style: 黏液 融合 拖尾 液態 Gooey Blob Trail Cursor SVG Filter Liquid 游標 滑鼠
+- 標籤 Tag: SVG goo filter
+- 範例文字 Example text: 「Gooey」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/cursor/260-gooey-trail.md](examples/cursor/260-gooey-trail.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「黏液拖尾（Gooey Trail）」動態效果：游標後方跟著一串大小遞減的圓球，第一顆緊跟滑鼠、後面每顆跟著前一顆，形成一條尾巴；圓球之間透過模糊加對比的濾鏡融合在一起，看起來像一團黏液被拉長、拉出細絲，停下來時又縮回一團。前景文字使用混合模式，被黏液蓋到的部分反轉。（SVG filter：feGaussianBlur stdDeviation 約 6 + feColorMatrix 將 alpha 放大（例如 0 0 0 22 −9）形成 goo 效果，套在包住所有圓球的容器上；JS 每幀讓每顆圓球 lerp 追前一顆）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```
+
+### 261 · 點擊噴出小物 — Click Confetti Pop
+
+在畫面任何地方點擊，就從那裡噴出愛心星星等小圖案再落下
+
+- 元件 Component: 游標 (`cursor`)
+- 時機 Timing: 懸停・點擊
+- 技術 Tech: GSAP
+- 情境 Uses: 強調重點、介面互動
+- 風格／關鍵字 Style: 點擊 噴出 愛心 星星 彩紙 回饋 可愛 Click Burst Hearts Confetti Pop Particles 游標 滑鼠
+- 標籤 Tag: GSAP keyframes
+- 範例文字 Example text: 「Click!」（預覽底色：dark）
+- 收錄日期 Added: 2026-10-19
+- 完整範例 Example: [examples/cursor/261-click-confetti-pop.md](examples/cursor/261-click-confetti-pop.md)
+
+**AI 提示詞（網站複製格式）:**
+
+```text
+「點擊噴出小物（Click Confetti Pop）」動態效果：在區塊內任何地方點擊時，從點擊位置噴出約 7 個小圖案（愛心、星星、小花），各自往上方扇形範圍飛出、大小與角度隨機，飛到最高點後一邊往下掉一邊淡出；同時點擊處有一圈細圓環擴散消失。適合可愛風格的網站或按讚回饋。（GSAP：每個小圖案 fromTo 從點擊點 scale 0，keyframes 第一段往隨機角度與距離飛出 power3.out，第二段往下並 opacity 0；動畫結束移除元素）
+配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。
+```

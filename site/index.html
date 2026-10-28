@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Motion Library 動態收藏</title>
+<meta name="description" content="網頁動態效果收藏：文字、按鈕、卡片群組、圖形、背景、版面與游標，可預覽並複製 AI 提示詞。">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Motion Library 動態收藏">
+<meta property="og:description" content="網頁動態效果收藏：文字、按鈕、卡片群組、圖形、背景、版面與游標，可預覽並複製 AI 提示詞。">
+<meta property="og:url" content="https://kittenjam-motion-library.vercel.app/">
+<meta property="og:image" content="https://kittenjam-motion-library.vercel.app/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="動態收藏 Motion Library：260+ 種網頁動態效果，可預覽並一鍵複製 AI 提示詞">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Motion Library 動態收藏">
+<meta name="twitter:description" content="網頁動態效果收藏：文字、按鈕、卡片群組、圖形、背景、版面與游標，可預覽並複製 AI 提示詞。">
+<meta name="twitter:image" content="https://kittenjam-motion-library.vercel.app/og.png">
+<link rel="canonical" href="https://kittenjam-motion-library.vercel.app/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Noto+Serif+JP:wght@400;900&family=DotGothic16&family=Zen+Maru+Gothic:wght@700&family=Yuji+Syuku&family=Rampart+One&family=Reggae+One&family=Kaisei+Decol:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="fx.css">
+<!-- Vercel Web Analytics：要先在 Vercel 專案的 Analytics 分頁啟用；?notrack 排除自己（見 tracking.js） -->
+<script src="tracking.js"></script>
+<script defer src="/_vercel/insights/script.js"></script>
+<style>
+:root{--bg:#0d0e11;--card:#17181d;--line:#2a2c33;--fg:#f2f2f0;--mut:#9a9ca4;--dark:#15161a;--cream:#f4f1e8;
+  --g1:#c8f03c;--g2:#ff6b4a;--g3:#8b7cf6;--g4:#3dd9b8;--g5:#ffc93c}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--fg);font-family:"Noto Sans JP",system-ui,sans-serif;padding:32px 16px 64px}
+header{max-width:1240px;margin:0 auto 24px}
+.kick{font:600 12px/1 ui-monospace,monospace;letter-spacing:.12em;color:var(--g1)}
+h1{font-size:clamp(28px,5vw,44px);font-weight:900;margin:10px 0 8px}
+h1 b{color:var(--g1)}
+.sub{color:var(--mut);font-size:14px;line-height:1.7}
+.tools{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}
+.tools input,.tools select{background:var(--card);border:1px solid var(--line);color:var(--fg);border-radius:10px;padding:10px 12px;font:inherit;font-size:14px}
+.tools input{flex:1;min-width:200px}
+.grid{max-width:1240px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:22px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:10px 10px 14px;display:flex;flex-direction:column}
+.stage{position:relative;aspect-ratio:16/9;border-radius:12px;overflow:hidden;display:grid;place-items:center;container-type:inline-size;perspective:600px}
+.stage.dark{background:var(--dark);color:#fff}
+.stage.cream{background:var(--cream);color:#111}
+.stage.acc{color:#111}
+.tag{pointer-events:none;position:absolute;top:8px;right:8px;font-size:10px;font-weight:700;padding:3px 8px;border-radius:99px;z-index:20;background:#111;color:#fff}
+.stage.dark .tag{background:var(--a);color:#111}
+.meta{display:flex;gap:10px;align-items:flex-start;margin:12px 0 14px;padding:0 4px}
+.no{font:800 26px/1 ui-monospace,monospace;color:var(--a)}
+.nm{font-weight:800;font-size:17px}
+.zh{font-size:13px;color:#d6d6d2;margin-top:3px}
+.ja{font-size:11px;color:var(--mut);margin-top:2px}
+.cp{margin:auto 4px 0;align-self:flex-start;background:none;border:1px solid var(--line);color:var(--mut);border-radius:8px;padding:6px 10px;font:inherit;font-size:12px;cursor:pointer}
+.cp:hover{color:var(--fg);border-color:var(--a)}
+footer{max-width:1240px;margin:36px auto 0;color:var(--mut);font-size:12px;line-height:1.8}
+footer .by{font-size:14px;color:var(--fg);padding:18px 0;margin-bottom:14px;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+footer .by a{color:var(--g1);font-weight:700;text-decoration:none;margin-left:2px;white-space:nowrap}
+footer .by a:hover{text-decoration:underline}
+.sec{max-width:1240px;margin:44px auto 18px;display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+.sec h2{font-size:22px;font-weight:900}
+.sec span{color:var(--mut);font-size:13px}
+#pm{position:fixed;inset:0;background:#000a;display:grid;place-items:center;z-index:99;padding:16px}
+.pm-box{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;width:min(560px,100%)}
+.pm-h{font-size:14px;margin-bottom:10px;color:var(--fg)}
+.pm-box textarea{width:100%;height:140px;background:#0d0e11;color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:10px;font:inherit;font-size:13px;line-height:1.6}
+.pm-box button{margin-top:10px;background:var(--g1);color:#111;border:0;border-radius:8px;padding:8px 16px;font-weight:700;cursor:pointer}
+.flt{display:flex;gap:10px;align-items:flex-start;margin-top:12px}
+.fl-lab{font-size:12px;color:var(--mut);padding-top:8px;flex:none;width:30px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{background:var(--card);border:1px solid var(--line);color:var(--fg);border-radius:99px;padding:6px 12px;font:inherit;font-size:13px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+.chip.on{background:var(--fg);color:#111;border-color:var(--fg)}
+.dot{display:inline-block;width:9px;height:9px;border-radius:50%}
+.sec .dot{width:12px;height:12px;align-self:center}
+.en{font-weight:600;color:var(--mut);font-size:13px}
+.uses{margin-top:6px;display:flex;flex-wrap:wrap;gap:4px}
+.uses em{font-style:normal;font-size:10.5px;color:var(--mut);border:1px solid var(--line);border-radius:4px;padding:1px 6px}
+.tools select{cursor:pointer}
+.chip small{color:var(--mut);font-size:11px}
+.chip.on small{color:#666}
+.chip.zero{opacity:.45}
+.new{display:inline-block;margin-left:6px;font:700 10px/1 ui-monospace,monospace;background:var(--a);color:#111;padding:3px 5px;border-radius:4px;vertical-align:3px}
+.uses em.w{color:var(--fg);border-color:var(--a)}
+.uses em.tech{border-style:dashed}
+.gerr{color:var(--mut);font-size:13px}
+#empty{max-width:1240px;margin:48px auto;color:var(--mut);text-align:center;font-size:14px;line-height:1.8}
+
+#mini{position:fixed;top:0;left:0;right:0;z-index:50;background:#0d0e11d9;-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);border-bottom:1px solid var(--line);transform:translateY(-105%);transition:transform .35s cubic-bezier(.2,.8,.2,1)}
+#mini.show{transform:none}
+.mi-row{max-width:1240px;margin:0 auto;padding:10px 16px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.mi-logo{font:700 11px/1 ui-monospace,monospace;letter-spacing:.1em;color:var(--g1);white-space:nowrap;margin-right:4px}
+#mini input,#mini select{background:var(--card);border:1px solid var(--line);color:var(--fg);border-radius:8px;padding:7px 10px;font:inherit;font-size:13px;min-width:0}
+#mini select{cursor:pointer}
+#mini select.act{border-color:var(--g1);color:var(--g1)}
+#q2{flex:1 1 160px}
+.mi-sel{display:flex;gap:6px}
+.mi-cnt{color:var(--mut);font-size:12px;white-space:nowrap}
+.mi-btn{background:var(--card);border:1px solid var(--line);color:var(--fg);border-radius:8px;padding:7px 11px;font:inherit;font-size:13px;cursor:pointer;white-space:nowrap}
+.mi-btn:hover{border-color:var(--fg)}
+#mFilt{display:none;align-items:center;gap:6px}
+#mFilt b{display:none;min-width:18px;height:18px;border-radius:9px;background:var(--g1);color:#111;font-size:11px;line-height:18px;text-align:center;padding:0 5px}
+#mFilt b.on{display:inline-block}
+@media (max-width:760px){.mi-logo,.mi-cnt{display:none}#mFilt{display:inline-flex}.mi-sel{display:none;order:9;flex:1 1 100%;flex-wrap:wrap}.mi-sel select{flex:1 1 45%}#mini.open .mi-sel{display:flex}}
+/* 右下角投稿按鈕與表單 */
+#sub{position:fixed;right:20px;bottom:20px;z-index:60;display:flex;align-items:center;gap:8px;padding:12px 18px;border:0;border-radius:99px;background:var(--g1);color:#111;font:inherit;font-size:14px;font-weight:800;cursor:pointer;box-shadow:0 6px 24px #0008;transition:transform .2s,box-shadow .2s}
+#sub:hover{transform:translateY(-2px);box-shadow:0 10px 30px #000a}
+#sub svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
+#subDlg{margin:auto;width:min(440px,calc(100% - 32px));border:1px solid var(--line);border-radius:16px;background:var(--card);color:var(--fg);padding:24px}
+#subDlg::backdrop{background:#000a;-webkit-backdrop-filter:blur(4px);backdrop-filter:blur(4px)}
+#subDlg h3{font-size:20px;margin-bottom:6px}
+#subDlg p{font-size:13px;color:var(--mut);line-height:1.6;margin-bottom:16px}
+#subDlg label{display:block;font-size:13px;font-weight:700;margin:12px 0 6px}
+#subDlg label small{font-weight:400;color:var(--mut)}
+#subDlg input,#subDlg textarea{width:100%;font:inherit;font-size:14px;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--fg);resize:vertical}
+#subDlg input:focus,#subDlg textarea:focus{outline:2px solid var(--g1);outline-offset:-1px}
+#subDlg .row{display:flex;gap:8px;justify-content:flex-end;margin-top:18px}
+#subDlg .row button{font:inherit;font-size:14px;font-weight:800;padding:10px 18px;border-radius:99px;cursor:pointer;border:1px solid var(--line);background:transparent;color:var(--fg)}
+#subDlg .row button[type=submit]{background:var(--g1);color:#111;border-color:var(--g1)}
+#subDlg .alt{font-size:12px;margin:14px 0 0}
+#subDlg .alt a{color:var(--g1)}
+#subDlg .alt.err{color:var(--g2)}
+#subDlg .drop{position:relative;display:flex;align-items:center;justify-content:center;gap:8px;padding:16px;border:1.5px dashed var(--line);border-radius:10px;color:var(--mut);font-size:13px;transition:border-color .2s,background .2s}
+#subDlg .drop input{position:absolute;inset:0;opacity:0;cursor:pointer}
+#subDlg .drop svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+#subDlg .drop:hover,#subDlg .drop.over{border-color:var(--g1);color:var(--fg);background:#c8f03c0d}
+#subDlg .files{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+#subDlg .files:empty{display:none}
+#subDlg .fi{position:relative;width:76px}
+#subDlg .fi img,#subDlg .fi video{display:block;width:76px;height:56px;object-fit:cover;border-radius:8px;background:var(--bg)}
+#subDlg .fi small{display:block;font-size:11px;color:var(--mut);margin-top:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+#subDlg .fi button{position:absolute;top:-6px;right:-6px;width:20px;height:20px;padding:0;border:0;border-radius:50%;background:var(--fg);color:#111;font-size:13px;line-height:20px;cursor:pointer}
+#subDlg .done{text-align:center;padding:18px 0 6px}#subDlg .done b{display:grid;place-items:center;width:56px;height:56px;margin:0 auto 14px;border-radius:50%;background:var(--g1);color:#111;font-size:28px}
+#subDlg button:disabled{opacity:.6;cursor:wait}
+/* 手機：按鈕保留文字、避開瀏海與底部手勢列；輸入框 16px 以免 iOS 點選時自動放大畫面 */
+#sub{right:max(20px,env(safe-area-inset-right));bottom:max(20px,env(safe-area-inset-bottom))}
+@media (max-width:760px){#sub{right:max(14px,env(safe-area-inset-right));bottom:max(14px,env(safe-area-inset-bottom));padding:11px 16px}
+  input:not(.stage *),select:not(.stage *),textarea:not(.stage *){font-size:16px!important}}
+html,body{overflow-x:clip}
+/* 手機：首頁頂部精簡，篩選收進「篩選」按鈕，讓卡片一進來就看得到 */
+.ftog{display:none}
+@media (max-width:760px){
+  .sub{font-size:13px}.sub-more{display:none}
+  .tools{margin-top:14px;gap:8px}.tools input#q{min-width:0;flex:1 1 0}
+  .tools #custom,.tools #tech,.tools #sort{display:none}
+  .ftog{display:inline-flex;align-items:center;gap:6px;flex:none;background:var(--card);border:1px solid var(--line);color:var(--fg);border-radius:10px;padding:0 14px;font:inherit;font-size:14px;font-weight:700;cursor:pointer}
+  .ftog b{display:none;min-width:18px;height:18px;border-radius:9px;background:var(--g1);color:#111;font-size:11px;line-height:18px;text-align:center;padding:0 5px}.ftog b.on{display:inline-block}
+  .ftog[aria-expanded=true]{border-color:var(--fg)}
+  #fPanel{display:none}header.fopen #fPanel{display:block}
+  header.fopen .tools #custom,header.fopen .tools #tech,header.fopen .tools #sort{display:block;flex:1 1 40%}header.fopen .tools #custom{flex-basis:100%;max-width:none!important}
+  .flt{margin-top:10px;min-width:0}.fl-lab{padding-top:7px;width:26px}
+  .chips{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;min-width:0;margin-right:-16px;padding-right:16px}.chips::-webkit-scrollbar{display:none}
+  .chip{flex:none;white-space:nowrap}
+  header{margin-bottom:16px}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="kick">MOTION LIBRARY / 動態收藏</div>
+  <h1>動態收藏 <b>Motion Library</b></h1>
+  <p class="sub">收錄網頁上好看的動態效果，目前共 <b id="cnt"></b> 種。<span class="sub-more">可以用「元件」和「時機」交叉篩選，例如「按鈕 × 懸停」、「卡片・群組 × 進場」。每格都是示意預覽，點「複製 AI 提示詞」可取得外觀與做法描述；互動類的效果可以直接用滑鼠移動、捲動或拖曳試玩。</span></p>
+  <div class="tools">
+    <input id="q" placeholder="搜尋名稱、描述或標籤（例：翻牌、按鈕、Bounce）">
+    <button id="fTog" class="ftog" aria-expanded="false" aria-controls="fPanel">篩選 <b></b></button>
+    <input id="custom" placeholder="自訂預覽文字（留空用原範例）" style="max-width:280px">
+    <select id="tech"><option value="all">全部技術</option><option value="CSS">CSS</option><option value="GSAP">GSAP</option><option value="Canvas">Canvas</option></select>
+    <select id="sort"><option value="comp">依元件分組</option><option value="new">最新收錄</option></select>
+  </div>
+  <div id="fPanel"><div class="flt"><span class="fl-lab">元件</span><div id="fComp" class="chips"></div></div>
+  <div class="flt"><span class="fl-lab">時機</span><div id="fWhen" class="chips"></div></div>
+  <div class="flt"><span class="fl-lab">情境</span><div id="fUse" class="chips"></div></div></div>
+</header>
+<div id="mini">
+  <div class="mi-row">
+    <span class="mi-logo">MOTION LIBRARY</span>
+    <input id="q2" placeholder="搜尋效果、標籤…" aria-label="搜尋">
+    <button id="mFilt" class="mi-btn" aria-expanded="false">篩選<b></b></button>
+    <div class="mi-sel"><select id="sComp" aria-label="元件"></select><select id="sWhen" aria-label="時機"></select><select id="sUse" aria-label="情境"></select><select id="sTech" aria-label="技術"></select></div>
+    <span class="mi-cnt" id="mCnt"></span>
+    <button id="mClear" class="mi-btn">清除</button>
+    <button id="mTop" class="mi-btn" aria-label="回到頂部">↑</button>
+  </div>
+</div>
+<div id="sections"></div>
+<div id="empty" style="display:none">這個組合目前還沒有收錄效果。<br>看到喜歡的動態，丟給 Claude 收錄進來吧！</div>
+<button id="sub" aria-label="我要投稿"><svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg><span>我要投稿</span></button>
+<dialog id="subDlg"><form id="subForm">
+<h3>投稿想收錄的效果</h3>
+<p>看到好看的動態效果嗎？告訴我，我會考慮收錄進來。</p>
+<label for="sName">效果名稱或描述</label><textarea id="sName" rows="3" required placeholder="例：滑過時文字會像水波一樣晃動的按鈕"></textarea>
+<label for="sLink">參考連結 <small>（選填，網站、影片、Threads 貼文都可以）</small></label><input id="sLink" type="url" placeholder="https://">
+<label for="sFile">圖片或影片 <small>（選填，最多 3 個，合計 10MB 以內）</small></label>
+<div class="drop" id="sDrop"><input type="file" id="sFile" accept="image/*,video/*" multiple><svg viewBox="0 0 24 24"><path d="M12 16V4M7 9l5-5 5 5M4 16v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3"/></svg><span>點這裡選擇，或把檔案拖進來</span></div>
+<div class="files" id="sFiles"></div>
+<label for="sWho">你的稱呼 <small>（選填）</small></label><input id="sWho" maxlength="40"><input id="sHoney" name="_honey" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px">
+<div class="row"><button type="button" id="subX">取消</button><button type="submit" id="subGo">送出投稿</button></div>
+<p class="alt" id="subMsg" role="status" hidden></p>
+</form></dialog>
+<footer><div class="by">由 <b>Hannah</b>（UI/UX Designer）整理收藏 ・ <a href="https://hannahchao-portfolio.vercel.app/" target="_blank" rel="noopener">看我的作品集 →</a></div>參考來源：threads.com/@ai_yunon_ai/post/DeeJRUjkXlM ・ threads.com/@ai_tjb/post/DeeHoA3ktZ5 ・ 名稱與描述屬原作者整理，預覽動畫為示意重製，僅供個人參考學習。GSAP 動畫以 GSAP 3.13 自行整理示範，官方文件：gsap.com/docs。</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/SplitText.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/ScrambleTextPlugin.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/TextPlugin.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/CustomEase.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/CustomBounce.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/DrawSVGPlugin.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/MorphSVGPlugin.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/MotionPathPlugin.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/Flip.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/ScrollTrigger.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/Draggable.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/InertiaPlugin.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/Physics2DPlugin.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/Observer.min.js"></script>
+<script src="data.js"></script>
+<script src="fx.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
