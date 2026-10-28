@@ -4,6 +4,12 @@ Clone of the KittenJam **Motion Library 動態收藏** — every AI prompt and e
 animated example extracted from
 <https://kittenjam-motion-library.vercel.app>.
 
+**▶ Live on GitHub Pages: <https://hevangel.github.io/motion-library-prompts/>**
+— the animated demo runs at
+<https://hevangel.github.io/motion-library-prompts/site/> (中文 / EN toggle
+included; English directly at
+<https://hevangel.github.io/motion-library-prompts/site/?lang=en>).
+
 > Source credit: collected and curated by **Hannah** (UI/UX Designer,
 > [portfolio](https://hannahchao-portfolio.vercel.app/)). Per the source
 > site's footer, the names and descriptions are the original author's
@@ -78,7 +84,9 @@ By component （元件）:
 
 By technology: CSS 194 · GSAP 119 · Canvas 14
 
-## Run the examples locally
+## Run the examples
+
+Live: <https://hevangel.github.io/motion-library-prompts/site/> — or locally:
 
 ```bash
 cd site
