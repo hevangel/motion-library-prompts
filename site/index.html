@@ -152,6 +152,7 @@ html,body{overflow-x:clip}
   header{margin-bottom:16px}
 }
 </style>
+<!-- ml-i18n-style --><style>.lang-toggle{display:inline-flex;border:1px solid var(--line);border-radius:10px;overflow:hidden;flex:none}.lang-toggle button{background:var(--card);color:var(--mut);border:0;padding:10px 14px;font:inherit;font-size:14px;font-weight:700;cursor:pointer}.lang-toggle button.on{background:var(--fg);color:#111}</style>
 </head>
 <body>
 <header>
@@ -159,6 +160,7 @@ html,body{overflow-x:clip}
   <h1>動態收藏 <b>Motion Library</b></h1>
   <p class="sub">收錄網頁上好看的動態效果，目前共 <b id="cnt"></b> 種。<span class="sub-more">可以用「元件」和「時機」交叉篩選，例如「按鈕 × 懸停」、「卡片・群組 × 進場」。每格都是示意預覽，點「複製 AI 提示詞」可取得外觀與做法描述；互動類的效果可以直接用滑鼠移動、捲動或拖曳試玩。</span></p>
   <div class="tools">
+    <div id="langToggle" class="lang-toggle" role="group" aria-label="Language"><button type="button" data-lang="zh">中文</button><button type="button" data-lang="en">EN</button></div>
     <input id="q" placeholder="搜尋名稱、描述或標籤（例：翻牌、按鈕、Bounce）">
     <button id="fTog" class="ftog" aria-expanded="false" aria-controls="fPanel">篩選 <b></b></button>
     <input id="custom" placeholder="自訂預覽文字（留空用原範例）" style="max-width:280px">
@@ -215,5 +217,7 @@ html,body{overflow-x:clip}
 <script src="data.js"></script>
 <script src="fx.js"></script>
 <script src="app.js"></script>
+<script src="data_en.js"></script>
+<script src="i18n.js"></script>
 </body>
 </html>

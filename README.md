@@ -22,7 +22,7 @@ complete set.
 | [`prompts.json`](prompts.json) | The same catalog as structured data, including each effect's example JavaScript (`FX[id]`) and direct CSS. Start here for programmatic use. |
 | [`prompts.csv`](prompts.csv) | Flat table version (327 rows) for spreadsheets. |
 | [`examples/`](examples/README.md) | One file per effect, grouped by component (e.g. [`examples/text/001-lightning-strike.md`](examples/text/001-lightning-strike.md)): full prompt + preview settings + its own animated-example code. |
-| [`site/`](site/README.md) | A verbatim, runnable copy of the original site — open it to see every example animated live, with search and filters. |
+| [`site/`](site/README.md) | A runnable copy of the original site — open it to see every example animated live, with search and filters. |
 | [`tools/extract.py`](tools/extract.py) | The extractor that produced all of the above. Re-run it to refresh from the live site. |
 
 Every prompt is stored exactly as the site's 「複製 AI 提示詞」 button copies
@@ -30,6 +30,35 @@ it: `「<中文名>（<English>）」動態效果：<prompt>` plus the site's st
 palette line 「配色：請依照網站既有的主題色與風格自行搭配，不要另外指定顏色。」
 The raw prompt without that wrapper is in the `prompt` field of
 `prompts.json` / `prompts.csv`.
+
+## English version
+
+The original is in Chinese; a full English version was added 2026-10-28:
+
+| File / folder | Contents |
+|---|---|
+| [`prompts_en.md`](prompts_en.md) / [`prompts_en.json`](prompts_en.json) / [`prompts_en.csv`](prompts_en.csv) | The whole catalog in English — translated description, prompt, tag, style keywords and preview text for all 327 effects (Chinese fields kept alongside for reference). |
+| [`examples_en/`](examples_en/README.md) | All 327 example files regenerated in English, mirroring `examples/`. |
+| [`translations/en.json`](translations/en.json) | The translation source data (`desc_en`, `prompt_en`, `tag_en`, `style_en`, `txt_en` per effect) that the English files and the site toggle are built from. |
+| [`tools/build_en.py`](tools/build_en.py) | Builds all of the above plus `site/data_en.js`, and injects the toggle hooks into `site/index.html`. |
+
+**Language toggle on the site:** the `site/` version has a **中文 / EN**
+button at the top. It switches everything — page UI, component/timing/use
+labels, card names, descriptions and tags, search (both languages stay
+searchable), the animated previews' sample text, and the prompt the copy
+button produces:
+
+```text
+"<English name> (<中文名>)" motion effect: <English prompt>
+Colors: please match the website's existing theme colors and style
+yourself; do not specify any additional colors.
+```
+
+Chinese is the default; the choice is remembered (localStorage) and can be
+forced with `?lang=en` / `?lang=zh`. Three preview texts stay in CJK by
+design — they are glyph sets, not words (#11 hiragana set, #28 four-season
+characters, #38 mosaic kanji). 50 effects have no preview text and 22 have
+no style keywords in the original; their English fields are empty too.
 
 ## Breakdown
 
@@ -58,14 +87,19 @@ python3 -m http.server 8000
 ```
 
 GSAP and web fonts load from CDNs, so the demo needs an internet connection.
-See [`site/README.md`](site/README.md) for notes on the verbatim copy.
+See [`site/README.md`](site/README.md) for notes on the copy and the
+language toggle.
 
 ## Re-extract / refresh
 
 ```bash
 python3 tools/extract.py            # fetch the live site and rebuild everything
 python3 tools/extract.py --local DIR  # rebuild from a previously saved copy
+python3 tools/build_en.py           # then rebuild the English version + toggle data
 ```
+
+(`extract.py` restores `site/` to the verbatim original; `build_en.py`
+re-injects the language-toggle hooks into `site/index.html` afterwards.)
 
 The extractor parses `data.js` (`ITEMS`), pulls each effect's `FX[id]`
 function out of `fx.js` (brace-balanced, string-aware), and collects the
