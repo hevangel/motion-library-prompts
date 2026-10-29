@@ -100,40 +100,7 @@ footer .by a:hover{text-decoration:underline}
 #mFilt b{display:none;min-width:18px;height:18px;border-radius:9px;background:var(--g1);color:#111;font-size:11px;line-height:18px;text-align:center;padding:0 5px}
 #mFilt b.on{display:inline-block}
 @media (max-width:760px){.mi-logo,.mi-cnt{display:none}#mFilt{display:inline-flex}.mi-sel{display:none;order:9;flex:1 1 100%;flex-wrap:wrap}.mi-sel select{flex:1 1 45%}#mini.open .mi-sel{display:flex}}
-/* 右下角投稿按鈕與表單 */
-#sub{position:fixed;right:20px;bottom:20px;z-index:60;display:flex;align-items:center;gap:8px;padding:12px 18px;border:0;border-radius:99px;background:var(--g1);color:#111;font:inherit;font-size:14px;font-weight:800;cursor:pointer;box-shadow:0 6px 24px #0008;transition:transform .2s,box-shadow .2s}
-#sub:hover{transform:translateY(-2px);box-shadow:0 10px 30px #000a}
-#sub svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
-#subDlg{margin:auto;width:min(440px,calc(100% - 32px));border:1px solid var(--line);border-radius:16px;background:var(--card);color:var(--fg);padding:24px}
-#subDlg::backdrop{background:#000a;-webkit-backdrop-filter:blur(4px);backdrop-filter:blur(4px)}
-#subDlg h3{font-size:20px;margin-bottom:6px}
-#subDlg p{font-size:13px;color:var(--mut);line-height:1.6;margin-bottom:16px}
-#subDlg label{display:block;font-size:13px;font-weight:700;margin:12px 0 6px}
-#subDlg label small{font-weight:400;color:var(--mut)}
-#subDlg input,#subDlg textarea{width:100%;font:inherit;font-size:14px;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--fg);resize:vertical}
-#subDlg input:focus,#subDlg textarea:focus{outline:2px solid var(--g1);outline-offset:-1px}
-#subDlg .row{display:flex;gap:8px;justify-content:flex-end;margin-top:18px}
-#subDlg .row button{font:inherit;font-size:14px;font-weight:800;padding:10px 18px;border-radius:99px;cursor:pointer;border:1px solid var(--line);background:transparent;color:var(--fg)}
-#subDlg .row button[type=submit]{background:var(--g1);color:#111;border-color:var(--g1)}
-#subDlg .alt{font-size:12px;margin:14px 0 0}
-#subDlg .alt a{color:var(--g1)}
-#subDlg .alt.err{color:var(--g2)}
-#subDlg .drop{position:relative;display:flex;align-items:center;justify-content:center;gap:8px;padding:16px;border:1.5px dashed var(--line);border-radius:10px;color:var(--mut);font-size:13px;transition:border-color .2s,background .2s}
-#subDlg .drop input{position:absolute;inset:0;opacity:0;cursor:pointer}
-#subDlg .drop svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
-#subDlg .drop:hover,#subDlg .drop.over{border-color:var(--g1);color:var(--fg);background:#c8f03c0d}
-#subDlg .files{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
-#subDlg .files:empty{display:none}
-#subDlg .fi{position:relative;width:76px}
-#subDlg .fi img,#subDlg .fi video{display:block;width:76px;height:56px;object-fit:cover;border-radius:8px;background:var(--bg)}
-#subDlg .fi small{display:block;font-size:11px;color:var(--mut);margin-top:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-#subDlg .fi button{position:absolute;top:-6px;right:-6px;width:20px;height:20px;padding:0;border:0;border-radius:50%;background:var(--fg);color:#111;font-size:13px;line-height:20px;cursor:pointer}
-#subDlg .done{text-align:center;padding:18px 0 6px}#subDlg .done b{display:grid;place-items:center;width:56px;height:56px;margin:0 auto 14px;border-radius:50%;background:var(--g1);color:#111;font-size:28px}
-#subDlg button:disabled{opacity:.6;cursor:wait}
-/* 手機：按鈕保留文字、避開瀏海與底部手勢列；輸入框 16px 以免 iOS 點選時自動放大畫面 */
-#sub{right:max(20px,env(safe-area-inset-right));bottom:max(20px,env(safe-area-inset-bottom))}
-@media (max-width:760px){#sub{right:max(14px,env(safe-area-inset-right));bottom:max(14px,env(safe-area-inset-bottom));padding:11px 16px}
-  input:not(.stage *),select:not(.stage *),textarea:not(.stage *){font-size:16px!important}}
+@media (max-width:760px){input:not(.stage *),select:not(.stage *),textarea:not(.stage *){font-size:16px!important}}
 html,body{overflow-x:clip}
 /* 手機：首頁頂部精簡，篩選收進「篩選」按鈕，讓卡片一進來就看得到 */
 .ftog{display:none}
@@ -184,19 +151,6 @@ html,body{overflow-x:clip}
 </div>
 <div id="sections"></div>
 <div id="empty" style="display:none">這個組合目前還沒有收錄效果。<br>看到喜歡的動態，丟給 Claude 收錄進來吧！</div>
-<button id="sub" aria-label="我要投稿"><svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg><span>我要投稿</span></button>
-<dialog id="subDlg"><form id="subForm">
-<h3>投稿想收錄的效果</h3>
-<p>看到好看的動態效果嗎？告訴我，我會考慮收錄進來。</p>
-<label for="sName">效果名稱或描述</label><textarea id="sName" rows="3" required placeholder="例：滑過時文字會像水波一樣晃動的按鈕"></textarea>
-<label for="sLink">參考連結 <small>（選填，網站、影片、Threads 貼文都可以）</small></label><input id="sLink" type="url" placeholder="https://">
-<label for="sFile">圖片或影片 <small>（選填，最多 3 個，合計 10MB 以內）</small></label>
-<div class="drop" id="sDrop"><input type="file" id="sFile" accept="image/*,video/*" multiple><svg viewBox="0 0 24 24"><path d="M12 16V4M7 9l5-5 5 5M4 16v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3"/></svg><span>點這裡選擇，或把檔案拖進來</span></div>
-<div class="files" id="sFiles"></div>
-<label for="sWho">你的稱呼 <small>（選填）</small></label><input id="sWho" maxlength="40"><input id="sHoney" name="_honey" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px">
-<div class="row"><button type="button" id="subX">取消</button><button type="submit" id="subGo">送出投稿</button></div>
-<p class="alt" id="subMsg" role="status" hidden></p>
-</form></dialog>
 <footer><div class="by">由 <b>Hannah</b>（UI/UX Designer）整理收藏 ・ <a href="https://hannahchao-portfolio.vercel.app/" target="_blank" rel="noopener">看我的作品集 →</a></div>參考來源：threads.com/@ai_yunon_ai/post/DeeJRUjkXlM ・ threads.com/@ai_tjb/post/DeeHoA3ktZ5 ・ 名稱與描述屬原作者整理，預覽動畫為示意重製，僅供個人參考學習。GSAP 動畫以 GSAP 3.13 自行整理示範，官方文件：gsap.com/docs。</footer>
 
 <script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js"></script>

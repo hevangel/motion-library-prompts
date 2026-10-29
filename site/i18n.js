@@ -75,12 +75,6 @@
 
   function setText(el, txt) { if (el) el.textContent = txt; }
   function setFirstText(el, txt) { if (!el) return; for (const n of el.childNodes) if (n.nodeType === 3 && n.textContent.trim()) { n.textContent = txt; return; } }
-  function setLabel(labelEl, main, small) {
-    if (!labelEl) return;
-    setFirstText(labelEl, main);
-    const sm = labelEl.querySelector('small'); if (sm) sm.textContent = small;
-  }
-
   function paintStatic() {
     const en = lang === 'en';
     document.documentElement.lang = en ? 'en' : 'zh-Hant';
@@ -105,30 +99,8 @@
     setText($('mClear'), en ? 'Clear' : '清除');
     document.querySelectorAll('.fl-lab').forEach((el, i) => el.textContent = en ? ['Component', 'Timing', 'Use'][i] : ['元件', '時機', '情境'][i]);
     $('empty').innerHTML = en
-      ? 'No effects have been collected for this combination yet.<br>Spotted a motion you like? Send it over and it can be added here!'
+      ? 'No effects have been collected for this combination yet.<br>Try a different combination of component, timing and use.'
       : ZH.empty;
-    setText(document.querySelector('#sub span'), en ? 'Submit an effect' : '我要投稿');
-    // submission dialog
-    setText(document.querySelector('#subDlg h3'), en ? 'Submit an effect to collect' : '投稿想收錄的效果');
-    setText(document.querySelector('#subDlg p'), en ? 'Seen a good-looking motion effect? Tell me about it and I may add it to the collection.' : '看到好看的動態效果嗎？告訴我，我會考慮收錄進來。');
-    const labels = document.querySelectorAll('#subDlg label');
-    if (en) {
-      setLabel(labels[0], 'Effect name or description', '');
-      setLabel(labels[1], 'Reference link ', '(optional — website, video or Threads post)');
-      setLabel(labels[2], 'Image or video ', '(optional, up to 3 files, 10MB total)');
-      setLabel(labels[3], 'Your name ', '(optional)');
-      const sn = $('sName'); if (sn) sn.placeholder = 'e.g. A button whose text ripples like water on hover';
-      setText(document.querySelector('#sDrop span'), 'Click to choose, or drag files here');
-    } else {
-      setLabel(labels[0], '效果名稱或描述', '');
-      setLabel(labels[1], '參考連結 ', '（選填，網站、影片、Threads 貼文都可以）');
-      setLabel(labels[2], '圖片或影片 ', '（選填，最多 3 個，合計 10MB 以內）');
-      setLabel(labels[3], '你的稱呼 ', '（選填）');
-      const sn2 = $('sName'); if (sn2) sn2.placeholder = '例：滑過時文字會像水波一樣晃動的按鈕';
-      setText(document.querySelector('#sDrop span'), '點這裡選擇，或把檔案拖進來');
-    }
-    setText($('subX'), en ? 'Cancel' : '取消');
-    setText($('subGo'), en ? 'Submit' : '送出投稿');
     // footer
     const by = document.querySelector('footer .by');
     if (en) by.innerHTML = 'Collected and curated by <b>Hannah</b> (UI/UX Designer) · <a href="https://hannahchao-portfolio.vercel.app/" target="_blank" rel="noopener">See my portfolio →</a>';

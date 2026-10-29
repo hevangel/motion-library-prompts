@@ -10,6 +10,12 @@ Outputs:
   site/data_en.js        ITEMS_EN for the site language toggle
   site/index.html        i18n hooks injected (toggle button, styles,
                          data_en.js + i18n.js script tags) — idempotent
+  site/index.html + site/app.js
+                         clone patch: the original submission form
+                         (button, dialog, its CSS and the FormSubmit
+                         logic, which posted to the original author's
+                         email) is stripped — owner's decision; this
+                         clone does not collect submissions. Idempotent.
 
 The English copy format mirrors the site's Chinese one:
   "<en> (<zh>)" motion effect: <prompt_en>
@@ -211,7 +217,30 @@ def main() -> None:
                             '<script src="app.js"></script>\n'
                             '<script src="data_en.js"></script>\n'
                             '<script src="i18n.js"></script>', 1)
+
+    # ---- clone patch: strip the original submission form -------------
+    # Button + dialog markup
+    html = re.sub(r'<button id="sub"[^>]*>.*?</button>\s*', '', html, flags=re.S)
+    html = re.sub(r'<dialog id="subDlg">.*?</dialog>\s*', '', html, flags=re.S)
+    # Its CSS block (from its comment header to the last #subDlg rule)
+    html = re.sub(r'/\* 右下角投稿按鈕與表單 \*/.*?#subDlg button:disabled\{[^}]*\}\n',
+                  '', html, flags=re.S)
+    # The button's safe-area positioning line + its comment
+    html = re.sub(r'/\* 手機：按鈕保留文字[^\n]*\n', '', html)
+    html = re.sub(r'#sub\{right:max\(20px[^\n]*\n', '', html)
+    # The mobile media query that also positions the button: keep its
+    # generic input font-size rule, drop only the #sub part
+    html = re.sub(r'@media \(max-width:760px\)\{#sub\{[^}]*\}\s*',
+                  '@media (max-width:760px){', html, count=1)
     p.write_text(html, encoding="utf-8")
+
+    # app.js: the submission section (FormSubmit logic) is the last
+    # section of the file — cut from its header comment to EOF
+    app_p = ROOT / "site/app.js"
+    app_js = app_p.read_text(encoding="utf-8")
+    cut = app_js.find('// ===== 右下角投稿')
+    if cut != -1:
+        app_p.write_text(app_js[:cut].rstrip() + '\n', encoding="utf-8")
 
     print(f"english build: {len(items)} items -> prompts_en.json/.md/.csv, "
           f"examples_en/, site/data_en.js, index.html hooks")

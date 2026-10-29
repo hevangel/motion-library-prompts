@@ -7,7 +7,7 @@ example actually runs.
 
 | File | Role |
 |---|---|
-| `index.html` | Page shell, filters, submission dialog — verbatim except the injected language-toggle hooks (marked `ml-i18n`) |
+| `index.html` | Page shell and filters — verbatim except the injected language-toggle hooks (marked `ml-i18n`) and the removed submission form (see below) |
 | `data.js` | Taxonomies (`COMPS` / `WHENS` / `USES`) + `ITEMS` — all 327 prompts and metadata |
 | `fx.js` | `FX[id]` — the animated example implementation for each effect, plus shared helpers |
 | `fx.css` | Per-effect `.fx<id>` styles and shared category CSS |
@@ -23,7 +23,7 @@ A segmented **中文 / EN** button sits in the header toolbar. Chinese
 (the original) is the default. Switching to EN translates:
 
 - all page UI (header, search, filters, sort, mini bar, empty state,
-  submission dialog, footer),
+  footer),
 - the component / timing / use labels in chips, selects and section
   headers,
 - every card's name order (English first), description, tags and its
@@ -55,9 +55,12 @@ Notes:
 
 - GSAP 3.13 and Google Fonts load from CDNs — the demo needs internet.
 - The `/_vercel/insights/script.js` tag 404s outside Vercel; harmless.
-- The 「我要投稿」 submission dialog still posts to the **original author's**
-  FormSubmit endpoint (see the end of `app.js`). It is kept for fidelity —
-  remove that section before publishing this copy anywhere of your own.
+- The original's 「我要投稿」 submission form was **removed** from this
+  clone (owner's decision, 2026-10-28): the floating button, the dialog,
+  its CSS, and the FormSubmit submission logic at the end of `app.js`
+  (which emailed submissions to the original author) are all gone.
+  `tools/build_en.py` re-applies this removal after an `extract.py`
+  refresh, so the form stays removed in future rebuilds.
 - Credit on the page itself: curated by Hannah (UI/UX Designer);
   names/descriptions are the original author's curation, previews are
   recreations for personal reference and learning.

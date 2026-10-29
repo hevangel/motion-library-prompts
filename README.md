@@ -119,8 +119,11 @@ Effects whose styling lives in the shared category CSS (prefixes `ly-`,
 
 ## Notes
 
-- The submission dialog in the `site/` copy is part of the original page and
-  still points at the original author's FormSubmit endpoint — remove
-  `app.js`'s submission section before re-publishing the demo anywhere.
+- The original page's 「我要投稿」 submission form was **removed from this
+  clone** (owner's decision, 2026-10-28): it posted through FormSubmit to
+  the original author's email, and this clone does not collect
+  submissions. `tools/build_en.py` re-applies the removal (button, dialog,
+  its CSS, and the FormSubmit logic in `app.js`) after every
+  `extract.py` refresh.
 - `site/tracking.js` and the `/_vercel/insights/` script tag are the original
   site's analytics plumbing; they are inert outside Vercel.
